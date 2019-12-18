@@ -7,11 +7,9 @@ sections:
 - type: jekyll-pages
   label: pages
   create: all
-  match: "**/*"
 - type: jekyll-posts
   label: posts
   create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
