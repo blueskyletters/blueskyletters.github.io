@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first post title goes here.
+title: First post title goes here.
 author: fazal
 categories: []
 image: ''
