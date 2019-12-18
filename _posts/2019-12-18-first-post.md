@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post title goes here.
-author: fazal
+author: sal
 categories: []
 image: ''
 tags: []
