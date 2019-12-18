@@ -1,6 +1,6 @@
 # Site
 name: 'Mundana'
-description: 'It's my personal blog.'
+description: 'My personal space.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
