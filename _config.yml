@@ -21,18 +21,18 @@ plugins:
 authors:
     Fazal:
       name:           Fazal
-      site:           https://www.wowthemes.net
+      site:           https://fazalilahi.github.io/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Fazal,I love sketching and illustration drawings. I hope you like it!"
+      bio:            "Minimalist, designer, developer, love sketching and illustration drawings. I hope you like it!"
       email:          fazalchemmengath@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    Hiba:
+      name:           Hiba
+      site:           https://blueskyletters.io/
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      email:          hibathu2016@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
