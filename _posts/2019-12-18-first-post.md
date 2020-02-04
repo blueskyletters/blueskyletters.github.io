@@ -4,7 +4,7 @@ title: Hi there!
 author: Fazal
 categories:
 - Intro
-image: "/uploads/IMG_0450-1.jpg"
+image: "/uploads/IMG_0450.jpg"
 tags:
 - First post
 
