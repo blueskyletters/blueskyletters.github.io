@@ -9,7 +9,7 @@ tags:
 - First post
 
 ---
- Hi there!
+Hi there!
 
 As humble artists, we try to bring universality to our works, be it in words or sketches.
 
