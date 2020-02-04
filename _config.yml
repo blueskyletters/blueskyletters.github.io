@@ -25,15 +25,15 @@ authors:
       avatar:         /assets/images/avatar1.jpg
       bio:            "Minimalist, designer, developer, love sketching and illustration drawings. I hope you like it!"
       email:          fazalchemmengath@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        
 
     Hiba:
       name:           Hiba
       site:           https://blueskyletters.io/
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Blogger, love to explore new ideas and write on my morning coffee!"
       email:          hibathu2016@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        
  
 # Defaults
 defaults:
