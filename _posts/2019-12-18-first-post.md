@@ -3,7 +3,7 @@ layout: post
 title: Hi there!
 author: Fazal
 categories:
-- Lighting up
+- Intro
 image: "/uploads/IMG_0450.jpg"
 tags:
 - First post
