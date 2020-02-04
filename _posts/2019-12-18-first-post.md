@@ -1,12 +1,18 @@
 ---
 layout: post
-title: First post title goes here.
-author: sal
+title: Hi there!
+author: Fazal
 categories:
-- Misc
+- Lighting up
 image: "/uploads/IMG_0450.jpg"
 tags:
-- featured
+- First post
 
 ---
-Here goes my first post.
+Welcome to our blog! 
+
+ As humble artists, we try to bring universality to our works, be it in words or sketches.
+
+ We believe in creativity. We believe that faith, bravery and hard work can create wonders. We believe in dreams that come true. And all this lead by passion.
+
+Welcome, all.
