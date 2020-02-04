@@ -1,11 +1,11 @@
 # Site
-name: 'Fazal Ilahi'
-description: 'My personal space.'
+name: 'Blueskyletters'
+description: 'A creative blog.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/fazalilahi.github.io'
+baseurl: '/blueskyletters.github.io'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'blueskyfairblogger@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,12 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Fazal:
       name:           Fazal
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Fazal, this is my personal space. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      bio:            "Hi, I am Fazal,I love sketching and illustration drawings. I hope you like it!"
+      email:          fazalchemmengath@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
