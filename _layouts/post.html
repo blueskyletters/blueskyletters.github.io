@@ -77,11 +77,11 @@ layout: default
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+                 {% if page.author %}				
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
-                         
-                        <alt="{{author.name}}" width="90"/>
+                         {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
