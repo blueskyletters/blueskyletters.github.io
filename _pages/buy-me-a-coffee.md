@@ -1,6 +1,6 @@
 ---
 title: "Buy me a coffee"
-permalink: "/buy-me-a-coffee.html"
+permalink: "https://www.buymeacoffee.com/FazalIlahil"
 ---
 
 Hi! I am Fazal, web designer & developer. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining projects. 
