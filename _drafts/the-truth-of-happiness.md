@@ -1,6 +1,6 @@
 ---
 layout: ''
-title: The Truth of Happiness
+title: What is Happiness?
 author: Hiba
 categories: []
 image: ''
