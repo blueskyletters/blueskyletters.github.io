@@ -2,7 +2,8 @@
 layout: ''
 title: What is Happiness?
 author: Hiba
-categories: []
+categories:
+- First Post
 image: "/uploads/image4.jpg"
 tags: []
 
