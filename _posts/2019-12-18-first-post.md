@@ -1,9 +1,8 @@
 ---
 layout: post
 title: ''
-author: ''
-categories:
-- Intro
+author: Founders of Bkueskyletters
+categories: []
 image: "/uploads/bluesky.JPG"
 tags: []
 
