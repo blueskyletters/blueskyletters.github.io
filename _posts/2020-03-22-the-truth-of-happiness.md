@@ -28,11 +28,7 @@ There must be a simpler formula for happiness regardless of culture and language
 
 Believe in the Divine and have faith in life. Having faith in an All Powerful makes us realize that all worldly things are negligible facts that influence happiness. This kind of happiness is not an excitement type, rather it brings a state of peace to the mind.
 
-**Types of happiness**
-
-There is the illusion of happiness. The illusion of happiness makes people believe that if they can find happiness, everything else will be okay. Abraham Lincoln once said, “ People can be as happy or unhappy as they make up their mind to be.” So, adopt a happy mind-set, no matter what your external situation is.
-
-We are all familiar with the story of the Happy Prince by Oscar Wilde. The prince who acquired the title of “happy prince “ truly became happy after he died. Even though at the end, the statue of the happiness lost all its beauty and and was abandoned, the prince was happy as never before. This is apparent happiness.
+ Abraham Lincoln once said, “ People can be as happy or unhappy as they make up their mind to be.” So, adopt a happy mind-set, no matter what your external situation is.
 
 Then there is the most innocent form of happiness. Sometimes we value the well being of another rather than ours. This is the purest form of happiness and aroused out of true love. If another person’s happiness makes you feel satisfied, this kind of contempt is unique and special.
 
