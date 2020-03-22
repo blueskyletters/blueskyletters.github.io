@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: What is Happiness?
 author: Hiba
 categories:
