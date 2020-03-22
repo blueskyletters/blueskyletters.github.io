@@ -11,7 +11,7 @@ When you hear the word ‘happiness', different things may pop up in your mind. 
 
 **What makes people happy?**
 
-When it comes to culture and happiness across the globe, what makes people happy in some culturesmay surprise or even shock you. For example, in Chinese culture, funerals are a happy occasion and preparing for them can generate levels of enthusiasm. In this culture, people go to great lengths to prepare their funerals, choosing new clothes, matchup jewelry, meals to be served etc.
+When it comes to culture and happiness across the globe, what makes people happy in some cultures may surprise or even shock you. For example, in Chinese culture, funerals are a happy occasion and preparing for them can generate levels of enthusiasm. In this culture, people go to great lengths to prepare their funerals, choosing new clothes, matchup jewelry, meals to be served etc.
 
 In the East poor people are more happy than the rich, possible because in those cultures happiness is closely associated with factors other than income and material possessions, unlike the West. In Japan, happiness is linked with good luck and social harmony. In America, personal achievement and freedom are strong factors.
 
@@ -19,11 +19,11 @@ Happiness has different connotations in different languages and cannot be direct
 
 In some cultures like the Chinese, happiness is not favoured as it is believed to bring misfortune if they do so.
 
-For decades, many try to measure well being at a global level. Annually, the United Nations publishes a World Happiness Report which ranks all the countries based on happiness index.
+For decades, many try to measure well being at a global level. Annually, the United Nations publishes a World Happiness Report which ranks all the countries based on happiness index. According to this report,Finland is the happiest country in the world.
 
 **A more broader perspective**
 
-There must be a simpler formula for happiness regardless of culture and language. First of all, we must be optimistic. Bringing about positivity can work wonders in your life. The key is simple: happiness comes from within. We shouldn’t allow external situations to alter our state of bliss.
+There must be a simpler formula for happiness regardless of culture and language. First of all, we must be optimistic. Bringing about positivity can work wonders in your life. The key is simple: _happiness comes from within_. We shouldn’t allow external situations to alter our state of bliss.
 
 Believe in the Divine and have faith in life. Having faith in an All Powerful makes us realize that all worldly things are negligible facts that influence happiness. This kind of happiness is not an excitement type, rather it brings a state of peace to the mind.
 
@@ -37,9 +37,9 @@ Then there is the most innocent form of happiness. Sometimes we value the well b
 
 **To Conclude**
 
-Happiness can be found in the simplest of things. Just remember to think creatively. Try not to always pursue happiness. Sometimes, it comes with luck.
+Happiness can be found in the simplest of things. Just remember to think creatively with optimism. Try not to always pursue happiness. Sometimes, it comes with luck.
 
-And remember the Sanskrit prayer:
+And remember the Sanskrit mantra:
 
 “_Loka Samastha Sukhino Bhavanthu_”
 
