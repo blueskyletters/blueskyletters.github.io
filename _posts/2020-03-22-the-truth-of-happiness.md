@@ -40,4 +40,4 @@ And remember the Sanskrit mantra:
 
 “_Loka Samastha Sukhino Bhavanthu_”
 
-“ Let the Entire World be Happy “
+“ Let the Entire World be Happy “.
