@@ -8,6 +8,8 @@ image: "/uploads/IMG_0450.jpg"
 tags: []
 
 ---
+![](/uploads/image 3.jpg)
+
 When you hear the word ‘happiness', different things may pop up in your mind. It may mean different things to different people. While some believe money brings happiness, others may associate happiness with a successful career. A child, on the other hand, would be most happy when he gets a chocolate. And so, happiness manifests in many forms. The world moves on in the search for happiness and satisfaction. Even though happiness means different to all, isn’t there a universality about it? Since everyone seeks happiness, shouldn’t there be a common formula for happiness?
 
 **What makes people happy?**
@@ -28,7 +30,7 @@ There must be a simpler formula for happiness regardless of culture and language
 
 Believe in the Divine and have faith in life. Having faith in an All Powerful makes us realize that all worldly things are negligible facts that influence happiness. This kind of happiness is not an excitement type, rather it brings a state of peace to the mind.
 
- Abraham Lincoln once said, “ People can be as happy or unhappy as they make up their mind to be.” So, adopt a happy mind-set, no matter what your external situation is.
+Abraham Lincoln once said, “ People can be as happy or unhappy as they make up their mind to be.” So, adopt a happy mind-set, no matter what your external situation is.
 
 Then there is the most innocent form of happiness. Sometimes we value the well being of another rather than ours. This is the purest form of happiness and aroused out of true love. If another person’s happiness makes you feel satisfied, this kind of contempt is unique and special.
 
