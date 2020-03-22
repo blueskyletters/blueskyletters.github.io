@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Intro
 author: Founders of Bkueskyletters
 categories: []
 image: "/uploads/bluesky.JPG"
