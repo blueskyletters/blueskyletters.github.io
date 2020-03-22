@@ -3,7 +3,7 @@ layout: ''
 title: What is Happiness?
 author: Hiba
 categories: []
-image: ''
+image: "/uploads/image4.jpg"
 tags: []
 
 ---
