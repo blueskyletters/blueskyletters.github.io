@@ -19,7 +19,7 @@ Every other quote we come across is either about hard work or success of the sor
 
 **This quote is about the power of visualization**. Thoughts are the weapons that make our dreams come true. Of all the things- hard work, intelligence, willpower etc, Byrne tells us that mere thoughts are what is needed to make our dreams into reality.
 
-This might seem weird at first. I thought so the first tie I heard the quote too. But, this is something that makes a lot of sense. **Byrne explains that thoughts are the primary course of everything.** If we really want something, along with working for it, we must visualize it The power of imagination is greater than we expect. If one wishes to be rich, think thoughts of abundance and wealth. Don't let any contradictory thoughts take root in your mind
+This might seem weird at first. I thought so the first tie I heard the quote too. But, this is something that makes a lot of sense. **Byrne explains that thoughts are the primary course of everything.** If we really want something, along with working for it, we must visualize it. The power of imagination is greater than we expect. If one wishes to be rich, think thoughts of abundance and wealth. Don't let any contradictory thoughts take root in your mind
 
 This seems like magic right? Well, there's no reason to be surprised. The human mind is capable of such unimaginable things, as many research proved.
 
