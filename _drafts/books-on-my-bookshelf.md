@@ -42,6 +42,8 @@ The story revolves around the abductiona nd death of the protagonist's youngest 
 
 This international best-seller is filled with simple drawings from the daiy life of a teen Greg Heffley. A hilarious children's book in the form of a diary, Wimpy Kid can be amusing even to adults.
 
+![](/uploads/48b30aa2514139b3e81d22ec8eff4be3.gif)
+
 #### An Autobiography
 
 [_The Story of my Life - Hellen Keller_](https://www.goodreads.com/book/show/821611.The_Story_of_My_Life "The Story of my Life")
