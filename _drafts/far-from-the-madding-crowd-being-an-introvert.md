@@ -3,7 +3,7 @@ layout: post
 title: Far From the Madding Crowd - Being an Introvert
 author: Hiba
 categories: []
-image: ''
+image: "/uploads/keegan-houser--Q_t4SCN8c4-unsplash.jpg"
 tags: []
 
 ---
@@ -23,7 +23,7 @@ Introverts are like cats : quiet, passsive, reserved, calm and independent.
 
 In short, a typical introvert is whatever an extrovert is not.
 
-Introverts are like low-power batteries. They drain out quickly aftersocializing. THey need some solitude to recharge it. This is because of the varied dopamine respone in the brain. Introverts are more sensitive to dopamine. The feel overstimualted by it. That is why they feel more happy when the brain release acetylcholine. This hormone acts while reading, concentrating and other calm, less social activities. Tht'swhen they feel relaxed and content.
+Introverts are like low-power batteries. They drain out quickly after socializing. THey need some solitude to recharge it. This is because of the varied dopamine respone in the brain. Introverts are more sensitive to dopamine. The feel overstimualted by it. That is why they feel more happy when the brain release acetylcholine. This hormone acts while reading, concentrating and other calm, less social activities. Tht'swhen they feel relaxed and content.
 
 It is a myth that extroverts perform better than introverts. Both groups have their pros and cons. In fact, ther are some advantages of being an introvert:
 
