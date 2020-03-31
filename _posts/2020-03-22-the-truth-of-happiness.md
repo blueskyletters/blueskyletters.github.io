@@ -23,6 +23,8 @@ In some cultures like the Chinese, happiness is not favoured as it is believed t
 
 For decades, many try to measure well being at a global level. Annually, the United Nations publishes a World Happiness Report which ranks all the countries based on happiness index. According to this report,Finland is the happiest country in the world.
 
+![](/uploads/andrew-bui-z7rzbFHXym0-unsplash.jpg)
+
 **A more broader perspective**
 
 There must be a simpler formula for happiness regardless of culture and language. First of all, we must be optimistic. Bringing about positivity can work wonders in your life. The key is simple: _happiness comes from within_. We shouldn’t allow external situations to alter our state of bliss.
