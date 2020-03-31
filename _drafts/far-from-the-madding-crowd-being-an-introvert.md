@@ -43,4 +43,6 @@ Introverts believe that quiet moments are the best moments. They find joy in sol
 
 Introversion is not equivalent to shyness. Introverts just tend to avoid socializing more while a shy person feels anxious around people.
 
-Remember, being an introvert is never a bad thing and something that you need to change. Peopla around you may tell you to "get out of your shell". But you should remain who you really are. The biggest mistake an introvert can make is to try to become an extrovert. 
+Remember, being an introvert is never a bad thing and something that you need to change. People around you may tell you to "get out of your shell". But you should remain who you really are. The biggest mistake an introvert can make is to try to become an extrovert. I didn't know about this before. I was so unsure about my persnality as an introvert that I felt the desperate need to change. This only lead to disappointments.
+
+So introverts, bring out the Quiet Power in you and may you have all the solitude you need !
