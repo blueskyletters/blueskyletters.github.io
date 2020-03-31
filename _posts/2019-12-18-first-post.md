@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro
-author: Founders of Bkueskyletters
+author: Founders of Blueskyletters
 categories: []
 image: "/uploads/bluesky.JPG"
 tags: []
