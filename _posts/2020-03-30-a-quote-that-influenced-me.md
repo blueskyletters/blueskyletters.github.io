@@ -9,7 +9,7 @@ tags: []
 ---
 An Inspirational quote is a collection of a few strong words born out of wisdom and experience. We always come across such quotes all the time. But among those random quotes, some are really striking and will influence us. **Isn't it amazing how such few words can contain deep meanings?** I'm going to write about one such quote that really influenced me.
 
-> ##### _"Your Thoughts are a Creative Power to use to Materialise your Dreams" - Rhonda Byrne_
+> ##### _Your Thoughts are a Creative Power to use to Materialise your Dreams - Rhonda Byrne_
 
 ![](/uploads/yeshi-kangrang-iuqxv7kFj64-unsplash.jpg)
 
@@ -27,7 +27,7 @@ This seems like magic right? Well, there's no reason to be surprised. The human 
 
 Well, now we know that daydreaming has its benefits ; )
 
-> ##### _"Think it, feel it, receive it"_
+> ##### _Think it, feel it, receive it_
 
 This quote will always stay with me throughout my life. Personally, I do have some experiences where the power of visualization reaped results. I hope you too find this quote meaningful.
 
