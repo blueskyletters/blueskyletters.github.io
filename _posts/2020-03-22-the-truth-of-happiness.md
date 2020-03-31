@@ -45,4 +45,4 @@ And remember the Sanskrit mantra:
 
 “ Let the Entire World be Happy “.
 
-![](/uploads/andrew-bui-z7rzbFHXym0-unsplash-1.jpg)
+![](/uploads/cristian-escobar-abkEAOjnY0s-unsplash.jpg)
