@@ -16,6 +16,8 @@ A person who prefers calm and minimally stimulating environments is called an in
 3. They tend to feel drained out by socializing. It's not that introverts are anti-social. It's just that they need to spend more alone time in order to boost up their mental energy.
 4. Enjoys solitude.
 
+   ![](/uploads/a980f8b896900af789c86054e4399802.jpg)
+
 Introverts are like cats : quiet, passsive, reserved, calm and independent.
 
 In short, a typical introvert is whatever an extrovert is not.
@@ -34,6 +36,8 @@ There are many famous personalities who claimed to be introverts : Emma Watson, 
 > ##### _The Quietest people have the Loudest minds._
 
 Introverts believe that quiet moments are the best moments. They find joy in solitude. They always prefer to stay away from crowds and make their lone time productive. Extroverts can never understand introverts because the latter tend to loath whatever the former loves.
+
+![](/uploads/b0de152fbde8d4c18185ed7768d696ad.jpg)
 
 Introversion is not equivalent to shyness. Introverts just tend to avoid socializing more while a shy person feels anxious around people.
 
