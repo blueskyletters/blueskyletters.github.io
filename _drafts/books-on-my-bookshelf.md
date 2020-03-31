@@ -6,7 +6,8 @@ categories:
 - reading
 - books
 image: "/uploads/5a584cf1f759cd115e85359f3d42f4eb.jpg"
-tags: []
+tags:
+- books
 
 ---
 ![](/uploads/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
@@ -55,6 +56,6 @@ The story of such abrave and heroic personality is ever-inspiring. Keller descri
 
 Non-malayalees, don't fret. The title simply translates as 'my grandfather had an elephant'. I thought the ist would be incomplete without adding a book from my mother tongue. This novella The story is filled with pleasant humour and anecdotes from Muslim religious lore.The title refers to people boasting of the past glories, their "grandfather's elephant", to hide their present shortcomings. it is written in humorous style and the characters attain a place in the reader's heart.
 
-These are the selected boos on my bookshelf !
+These are the selected books on my bookshelf !
 
 Which are some of the favourite books on yours? Share it with us in the comments below !
