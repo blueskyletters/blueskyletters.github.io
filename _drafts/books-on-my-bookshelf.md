@@ -60,4 +60,4 @@ Non-Malayalees, don't fret. The title simply translates as 'my grandfather had a
 
 These are the selected books on my bookshelf!
 
-Which are some of the favourite books on yours? Share it with us in the comments below!
+Which are some of the favourite books on yours? Share it with us in the comments below !
