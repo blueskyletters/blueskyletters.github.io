@@ -2,7 +2,10 @@
 layout: post
 title: Far From the Madding Crowd - Being an Introvert
 author: Hiba
-categories: []
+categories:
+- psychology
+- personality
+- For all the Quiet Ones
 image: "/uploads/keegan-houser--Q_t4SCN8c4-unsplash.jpg"
 tags: []
 
