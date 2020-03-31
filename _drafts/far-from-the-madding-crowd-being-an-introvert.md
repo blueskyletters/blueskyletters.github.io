@@ -19,6 +19,8 @@ They tend to feel drained out by socializing. It's not that introverts are anti-
 
 Enjoys solitude.
 
+Introverts are like cats : quiet, passsive, reserved, calm and independent.
+
 In short, a typical introvert is whatever an extrovert is not.
 
 Introverts are like low-power batteries. They drain out quickly aftersocializing. THey need some solitude to recharge it. This is because of the varied dopamine respone in the brain. Introverts are more sensitive to dopamine. The feel overstimualted by it. That is why they feel more happy when the brain release acetylcholine. This hormone acts while reading, concentrating and other calm, less social activities. Tht'swhen they feel relaxed and content.
@@ -35,4 +37,10 @@ Introverts are low maintenance. They tend to be less need of attention and are m
 
 There are many famous personalities who claimed to be introverts : Emma Watson, Albert Einstein, Mark Zuckerberg and Bill Gates are a few.
 
-inroverts believe that quiet moments are the best moments. They find joy in solitude. 
+> ##### _The Quiestest people have the Loudest minds._
+
+Introverts believe that quiet moments are the best moments. They find joy in solitude. They always prefer to stay away from crowds and make their lone time productive. Extroverts can never understand introverts because the latter tend to loath whatever the former loves.
+
+Introversion is not equivalent to shyness. Introverts just tend to avoid socializing more while a shy person feels anxious around people.
+
+Remember, being an introvert is never a bad thing and something that you need to change. Peopla around you may tell you to "get out of your shell". But you should remain who you really are. The biggest mistake an introvert can make is to try to become an extrovert. 
