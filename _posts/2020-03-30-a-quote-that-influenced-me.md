@@ -5,7 +5,7 @@ author: Hiba
 categories:
 - Inspiration
 - writing
-image: "/uploads/omid-haqsheno-3YsToECwtBE-unsplash.jpg"
+image: "/uploads/melissa-askew-8n00CqwnqO8-unsplash.jpg"
 tags: []
 
 ---
