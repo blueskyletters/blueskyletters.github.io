@@ -27,6 +27,24 @@ A book which can be finished in less than an hour, has some valuable insights th
 
 #### An Emotional Book
 
-[The Shack - WM Paul Young](https://www.goodreads.com/book/show/40874325-the-shack "The shack")
+[_The Shack - WM Paul Young_](https://www.goodreads.com/book/show/40874325-the-shack "The shack")
 
 The story revolves around the abductiona nd death of the protagonist's youngest daughter. This book enlivened with spirituality and mystery has powerful writing that brings tears to the eyes of the reader.
+
+#### A Book with Illustrations
+
+[_Diary of a Wimpy Kid: the ugly truth - Jeff Kinney_]()
+
+This international best-seller is filled with simple drawings from the daiy life of a teen Greg Heffley. A hilarious children's book in the form of a diary, Wimpy Kid can be amusing even to adults.
+
+#### An Autobiography
+
+[_The Story of my Life - Hellen Keller_](https://www.goodreads.com/book/show/821611.The_Story_of_My_Life "The Story of my Life")
+
+The story of such abrave and heroic personality is ever-inspiring. Keller describes her childhood, struggles and learning processes with great detail and interest.
+
+#### A Malayalam Book
+
+[Ntuppuppakkoranendarnnu! - Vaikom Muhammed Basheer](https://www.goodreads.com/fr/book/show/35223097-ntuppuppakkoranendarnnu "Ntuppuppakkoranendarnnu!")
+
+Non-malayalees, don't fret. The title simply translates as 'my grandfather had an elephant'. I thought the ist would be incomplete without adding a book from my mother tongue. This novella The story is filled with pleasant humour and anecdotes from Muslim religious lore.The title refers to people boasting of the past glories, their "grandfather's elephant", to hide their present shortcomings. it is written in humorous style and the characters attain a place in the reader's heart.
