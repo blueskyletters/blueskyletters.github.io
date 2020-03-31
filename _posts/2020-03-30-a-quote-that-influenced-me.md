@@ -2,7 +2,9 @@
 layout: post
 title: A Quote that Influenced Me
 author: Hiba
-categories: []
+categories:
+- Inspiration
+- writing
 image: "/uploads/omid-haqsheno-3YsToECwtBE-unsplash.jpg"
 tags: []
 
