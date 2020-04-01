@@ -10,17 +10,19 @@ tags:
 - books
 
 ---
-![/uploads/kimberly-farmer-lUaaKCUANVI-unsplash.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
-
 I feel content in buying books and feel pride in looking at them on the shelf though there are some who advice me to buy a "Kindle or something instead of wasting money on books" ; )  Well, they don't really know the pleasure of owning books, do they? Books are indeed the best gifts, best treasures and are irreplaceable by anything else. (But I'm not disapproving kindle, infact I love it)
 
 Today, I took a look at my little book collection and thought, why not do a blog post on it". Though there are just a handful of books on my shelf, they were quite a good collection. **I'll introduce you to 6 of the books among them from different genres.**
+
+![](/uploads/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
 
 #### A Beautiful Novel
 
 [_The Kite Runner - Khaled Hosseini_](https://www.goodreads.com/book/show/77203.The_Kite_Runner "The Kite Runner-goodreads")
 
 This picturesque novel is the best I've read so far. A coming-of-age story set in pre-war Afghanisthan narrates the life of a young boy Amir and his closest friend Hassan. It is a tale of courage, friendship, redemption, devotion and atonement.
+
+![](/uploads/stefan-fluck-9HQgHBdu_II-unsplash.jpg)
 
 #### A Self-help Book
 
@@ -40,9 +42,9 @@ The story revolves around the abduction and murder of the protagonist's youngest
 
 [_Diary of a Wimpy Kid: the ugly truth - Jeff Kinney_]()
 
-This international best-seller is filled with simple drawings from the daily life of a teen Greg Heffley. A hilarious children's book in the form of a diary, Wimpy Kid can be amusing even to adults.
+![](/uploads/8a5994428e34f536a9dbef1e7f0c59cc.jpg)
 
-![/uploads/48b30aa2514139b3e81d22ec8eff4be3.gif](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/48b30aa2514139b3e81d22ec8eff4be3.gif)
+This international best-seller is filled with simple drawings from the daily life of a teen Greg Heffley. A hilarious children's book in the form of a diary, Wimpy Kid can be amusing even to adults.
 
 #### An Autobiography
 
@@ -61,3 +63,5 @@ Non-Malayalees, don't fret. The title simply translates as 'my grandfather had a
 These are the selected books on my bookshelf!
 
 Which are some of the favourite books on yours? Share it with us in the comments below!
+
+![](/uploads/48b30aa2514139b3e81d22ec8eff4be3.gif)
