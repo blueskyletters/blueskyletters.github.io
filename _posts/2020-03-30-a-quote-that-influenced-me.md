@@ -35,4 +35,4 @@ Well, now we know that daydreaming has its benefits ; )
 
 This quote will always stay with me throughout my life. Personally, I do have some experiences where the power of visualization reaped results. I hope you too find this quote meaningful.
 
-What's your favourite quote? Do you have a quote that really syou really stuck on to? Let us know in the comments below : )
+What's your favourite quote? Do you have a quote that you really stuck on to? Let us know in the comments below : )
