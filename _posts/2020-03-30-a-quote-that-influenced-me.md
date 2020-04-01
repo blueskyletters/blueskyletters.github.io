@@ -3,10 +3,12 @@ layout: post
 title: A Quote that Influenced Me
 author: Hiba
 categories:
+- mindpower
 - Inspiration
-- writing
 image: "/uploads/melissa-askew-8n00CqwnqO8-unsplash.jpg"
-tags: []
+tags:
+- mindpower
+- Inspiration
 
 ---
 An Inspirational quote is a collection of a few strong words born out of wisdom and experience. We always come across such quotes all the time. But among those random quotes, some are really striking and will influence us. **Isn't it amazing how such few words can contain deep meanings?** I'm going to write about one such quote that really influenced me.
