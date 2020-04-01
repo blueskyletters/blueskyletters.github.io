@@ -58,7 +58,7 @@ The story of such a brave and heroic personality is ever-inspiring. Keller descr
 
 ![/uploads/a6c2d21689dae9c061ec2e886d514231.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/a6c2d21689dae9c061ec2e886d514231.jpg)
 
-Non-Malayalees, don't fret. The title simply translates as 'my grandfather had an elephant'. I thought the list would be incomplete without adding a book from my mother tongue. This novella The story is filled with pleasant humour and anecdotes from Muslim religious lore. The title refers to people boasting of the past glories, their "grandfather's elephant", to hide their present shortcomings. it is written in a humorous style and the characters attain a place in the reader's heart.
+Non-Malayalees, don't fret. The title simply translates as 'my grandfather had an elephant'. I thought the list would be incomplete without adding a book from my mother tongue. This novella s filled with pleasant humour and anecdotes from Muslim religious lore. The title refers to people boasting of the past glories, their "grandfather's elephant", to hide their present shortcomings. it is written in a humorous style and the characters attain a place in the reader's heart.
 
 These are the selected books on my bookshelf!
 
