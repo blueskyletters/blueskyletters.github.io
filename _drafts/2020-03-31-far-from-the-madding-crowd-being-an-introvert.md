@@ -10,6 +10,8 @@ image: "/uploads/keegan-houser--Q_t4SCN8c4-unsplash.jpg"
 tags: []
 
 ---
+                      _For All the Quiet Ones..._
+
 Introverts are people who possess the 'quiet power'. It's quiet easy to spot an introvert : in the library, at the corner of a party, quiet places...
 
 A person who prefers calm and minimally stimulating environments is called an introvert. How are introverts unique? There are a few common characteristics of an introvert :
