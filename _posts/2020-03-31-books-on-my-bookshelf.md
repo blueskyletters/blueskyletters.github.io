@@ -34,7 +34,7 @@ A book which can be finished in less than an hour has some valuable insights tha
 
 [_The Shack - WM Paul Young_](https://www.goodreads.com/book/show/40874325-the-shack "The shack")
 
-The story revolves around the abduction and murder of the protagonist's youngest daughter. This book enlivened with spirituality and mystery has powerful writing that brings tears to the eyes of the reader.
+The story revolves around the abduction and murder of the protagonist's youngest daughter. Enlivened with spirituality and mystery,this book has powerful writing that brings tears to the eyes of the reader.
 
 #### A Book with Illustrations
 
@@ -48,11 +48,11 @@ This international best-seller is filled with simple drawings from the daily lif
 
 [_The Story of my Life - Hellen Keller_](https://www.goodreads.com/book/show/821611.The_Story_of_My_Life "The Story of my Life")
 
-The story of such a brave and heroic personality is ever-inspiring. Keller describes her childhood, struggles and learning processes with great detail and interest.
+The story of such a brave and heroic personality is ever-inspiring. Keller describes her childhood, struggles and learning processes with great detail and interest. It is one of the best autobiographies I've read.
 
 #### A Malayalam Book
 
-[Ntuppuppakkoranendarnnu! - Vaikom Muhammed Basheer](https://www.goodreads.com/fr/book/show/35223097-ntuppuppakkoranendarnnu "Ntuppuppakkoranendarnnu!")
+#### [_Ntuppuppakkoranendarnnu! - Vaikom Muhammed Basheer_](https://www.goodreads.com/fr/book/show/35223097-ntuppuppakkoranendarnnu "Ntuppuppakkoranendarnnu!")
 
 ![/uploads/a6c2d21689dae9c061ec2e886d514231.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/a6c2d21689dae9c061ec2e886d514231.jpg)
 
