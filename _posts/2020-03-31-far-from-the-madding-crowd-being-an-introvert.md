@@ -10,7 +10,7 @@ image: "/uploads/keegan-houser--Q_t4SCN8c4-unsplash.jpg"
 tags: []
 
 ---
-                      _For All the Quiet Ones..._
+    For All the Quiet Ones...
 
 Introverts are people who possess the 'quiet power'. It's quiet easy to spot an introvert : in the library, at the corner of a party, quiet places...
 
