@@ -23,6 +23,8 @@ Every other quote we come across is either about hardwork or success or of the s
 
 This might seem weird at first. I thought so the first tie I heard the quote too. But, this is something that makes a lot of sense. **Byrne explains that thoughts are the primary course of everything.** If we really want something, along with working for it, we must visualize it The power of imagination is greater than we expect. If one wishes to be rich, think thoughts of abundance and wealth. Don't let any contradictory thoughts take root in your mind
 
+![](/uploads/andy-montes-de-oca-zGIS1ccMwGI-unsplash.jpg)
+
 This seems like magic right? Well, there's no reason to be surprised. The human mind is capable of such unimaginable things, as many researches proved.
 
 **Your mind shapes the world around you.** If negative thoughts fill our mind, thats what life will give us. Your thoughts become things. Your mind is shaping the world around you. Visualize evry moment that you want to make real.
