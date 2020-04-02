@@ -2,7 +2,8 @@
 layout: post
 title: Intro
 author: Founders of Blueskyletters
-categories: []
+categories:
+- Introduction
 image: "/uploads/bluesky.JPG"
 tags: []
 
