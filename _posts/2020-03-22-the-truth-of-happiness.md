@@ -5,11 +5,11 @@ author: Hiba
 categories:
 - Inspiration
 - First Post
-image: "/uploads/omid-haqsheno-3YsToECwtBE-unsplash.jpg"
+image: "/uploads/dawid-zawila-zb2vBaHYB2I-unsplash.jpg"
 tags: []
 
 ---
-![](/uploads/dawid-zawila-zb2vBaHYB2I-unsplash.jpg)When you hear the word ‘happiness', different things may pop up in your mind. It may mean different things to different people. While some believe money brings happiness, others may associate happiness with a successful career. A child, on the other hand, would be most happy when he gets a chocolate. And so, happiness manifests in many forms. The world moves on in the search for happiness and satisfaction. Even though happiness means different to all, isn’t there a universality about it? Since everyone seeks happiness, shouldn’t there be a common formula for happiness?
+When you hear the word ‘happiness', different things may pop up in your mind. It may mean different things to different people. While some believe money brings happiness, others may associate happiness with a successful career. A child, on the other hand, would be most happy when he gets a chocolate. And so, happiness manifests in many forms. The world moves on in the search for happiness and satisfaction. Even though happiness means different to all, isn’t there a universality about it? Since everyone seeks happiness, shouldn’t there be a common formula for happiness?
 
 **What makes people happy?**
 
