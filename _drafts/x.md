@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 must do things on my Bucket List
+title: 30 Things On My Bucket List
 author: Hiba
 categories:
 - Life
@@ -9,7 +9,7 @@ tags:
 - lifegoals
 
 ---
-Life is mere survivalwithout any goals
+Life is mere survival without any goals
 
 #### What is a bucket list?
 
@@ -21,10 +21,26 @@ As time goes by, we  would all be probably get caught in the rush of our daily l
 
 #### Create your bucket list
 
-Spend some time to think. Brainstorm on what your greatest wishes are What did you always want to do? What skill do you really want to acquire? Which places do you want to visit? Ask yourself these questions and make a list. 
+Spend some time to think. Brainstorm on what your greatest wishes are What did you always want to do? What skill do you really want to acquire? Which places do you want to visit? Ask yourself these questions and make a list.
 
-#### What are some things on my bucket list?
+#### 30 Things On My Bucket Lucket?
 
-My bucket list is really long. There are 100+ things on my list. I dont
+Learn to swim
 
-#### 
+That's a major life skill I want to learn definitely. That's why I've put it at the top of my list. 
+
+Learn a foreign language
+
+I really love languages. I really have the wish to learn as much languages as possible. French is my first priority.
+
+Adopt a pet
+
+I really wish to be the owner of  awonderful pet! Cats are my favourite. 
+
+Spend a vacation in a snowy place
+
+This has been my dream since I was a kid. I want to spend a beautiful vacation in an amazing snowy palce with the person I love : )
+
+Live in Metropolitan City
+
+I come from a rural background.
