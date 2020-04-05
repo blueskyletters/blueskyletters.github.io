@@ -17,4 +17,6 @@ Society impacts our behavior one way or the other. Comparing two peopla and judg
 
 There is always a pressure by the society to follow conventions and an alienation of those who go out of the box. One faces alot of criticism standing out. This is a major problem that the youth faces. They find it extremely difficult to live defying social conventions. 
 
+> Love For All Hatred For None
+
 What everyone must realize is that we are all different. Acknowlwdge that difference and give everyone their chance. See the uniqueness in everybody. Uphold the beautiful slogan "Love For All Hatred For None".
