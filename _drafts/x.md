@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30 Things On My Bucket List
+title: 20 Things On My Bucket List
 author: Hiba
 categories:
 - Life
