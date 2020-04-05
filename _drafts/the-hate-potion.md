@@ -3,7 +3,7 @@ layout: post
 title: The HATE Potion
 author: ''
 categories: []
-image: ''
+image: "/uploads/child.PNG"
 tags: []
 
 ---
