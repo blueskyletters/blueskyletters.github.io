@@ -1,6 +1,6 @@
 ---
 layout: post
-title: women
+title: On Womanhood
 author: Hiba
 categories:
 - Inspiration
