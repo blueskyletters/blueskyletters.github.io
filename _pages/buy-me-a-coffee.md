@@ -1,4 +1,4 @@
-<!---
+---
 title: "Buy me a coffee"
 permalink: "https://www.buymeacoffee.com/FazalIlahil"
 ---
@@ -10,5 +10,5 @@ Thank you so much!
 <a class="btn btn-danger" href="https://www.buymeacoffee.com/FazalIlahi">Buy me a coffee</a>
 
 
--->
+--
 
