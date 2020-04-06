@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20 Things On My Bucket List
+title: 20 Interesting Things On My Bucket List
 author: Hiba
 categories:
 - Life
@@ -23,7 +23,7 @@ As time goes by, we would all be probably get caught in the rush of our daily li
 
 Spend some time to think. Brainstorm on what your greatest wishes are What did you always want to do? What skill do you really want to acquire? Which places do you want to visit? Ask yourself these questions and make a list.
 
-#### 20 Things On My Bucket Bucket?
+#### Here are 20 interesting things on my Bucket List
 
 * **Learn to swim**
 
