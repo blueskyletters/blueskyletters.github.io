@@ -73,19 +73,11 @@ We all love to travel. Underwater experience is a must for every traveller. 71% 
 
 A Coldplay concert would be nice : )
 
-* Go on a long motorcycle ride
-
-I love bike riding, even though it's in the backseat. I want to go on a memorable journey with my loved one on a motorcycle.
-
 * Go Skiing
 
   ![](/uploads/ben-koorengevel-QtyErb_h4PU-unsplash.jpg)
 
 I don't live in a snowy region. But I'll make a trip one day to a place where I can ski.
-
-* Get a tattoo
-
-A small one would be enough. That's something I wanted to do for a long time.
 
 * Go On A Safari
 
@@ -125,7 +117,19 @@ There are a number of places where this can be seen other than Antarctica. Austr
 * Go bungee jumping
 
   I love adventurous sports and bungee jumping is definitely on my list. 
-
-  Read 100 books in a year
+* Read 100 books in a year
 
   I'm actually a slow reader but I love books. I'm setting an aim of reading 100 books per year.
+* Go On a Treck
+
+  Explore a woderful forest by going on an awesome trcking trip with a friend who loves adventures just as me.
+* Live in a Tent
+
+  Camping in atent will be so much fun. We can live very close with nature and enjoy the wilderness.
+* Fly A Kite
+
+  Among my adventurous tasks, I have this simple wish. Learn to fly a kite. Perhaps participate in akite flying competition : )
+
+So that's it! My short bucket list. Actually, there are a whole lot more things on my list. I just wrote the most interesting ones. 
+
+Do you have a bucket list? Share it with us in the comments below!
