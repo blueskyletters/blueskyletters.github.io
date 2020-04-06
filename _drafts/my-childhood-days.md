@@ -3,7 +3,7 @@ layout: post
 title: My Childhood Days
 author: Fazal
 categories:
-- writitng
+- writing
 image: ''
 tags:
 - childhood
