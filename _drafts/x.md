@@ -116,20 +116,28 @@ There are a number of places where this can be seen other than Antarctica. Austr
   Though I have visited London once as a kid, I want to visit this beautiful city once more. It's one of my dream destinations.
 * Go bungee jumping
 
-  I love adventurous sports and bungee jumping is definitely on my list. 
+  ![](/uploads/jeffrey-grospe-r195-uoQ_t4-unsplash.jpg)
+
+  I love adventurous sports and bungee jumping is definitely on my list.
 * Read 100 books in a year
+
+  ![](/uploads/ed-robertson-eeSdJfLfx1A-unsplash.jpg)
 
   I'm actually a slow reader but I love books. I'm setting an aim of reading 100 books per year.
 * Go On a Treck
 
+  ![](/uploads/michal-parzuchowski-VypuI7IQ6I8-unsplash.jpg)
+
   Explore a woderful forest by going on an awesome trcking trip with a friend who loves adventures just as me.
 * Live in a Tent
+
+  ![](/uploads/josh-hild-8f_VQ3EFbTg-unsplash.jpg)
 
   Camping in atent will be so much fun. We can live very close with nature and enjoy the wilderness.
 * Fly A Kite
 
   Among my adventurous tasks, I have this simple wish. Learn to fly a kite. Perhaps participate in akite flying competition : )
 
-So that's it! My short bucket list. Actually, there are a whole lot more things on my list. I just wrote the most interesting ones. 
+So that's it! My short bucket list. Actually, there are a whole lot more things on my list. I just wrote the most interesting ones.
 
 Do you have a bucket list? Share it with us in the comments below!
