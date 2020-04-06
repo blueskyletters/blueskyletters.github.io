@@ -136,6 +136,8 @@ There are a number of places where this can be seen other than Antarctica. Austr
   Camping in atent will be so much fun. We can live very close with nature and enjoy the wilderness.
 * Fly A Kite
 
+  ![](/uploads/daniel-reyes--F5sMXgMy_w-unsplash.jpg)
+
   Among my adventurous tasks, I have this simple wish. Learn to fly a kite. Perhaps participate in akite flying competition : )
 
 So that's it! My short bucket list. Actually, there are a whole lot more things on my list. I just wrote the most interesting ones.
