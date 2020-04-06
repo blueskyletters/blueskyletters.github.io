@@ -4,8 +4,9 @@ title: Intro
 author: Founders of Blueskyletters
 categories:
 - Introduction
-image: "/uploads/bluesky.JPG"
-tags: []
+image: "/uploads/intro.png"
+tags:
+- sticky
 
 ---
 ## Hi there!
