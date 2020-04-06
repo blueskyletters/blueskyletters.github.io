@@ -3,6 +3,7 @@ layout: post
 title: 20 Interesting Things On My Bucket List
 author: Hiba
 categories:
+- Inspiration
 - Life
 image: ''
 tags:
