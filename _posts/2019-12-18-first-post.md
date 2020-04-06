@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro
+title: Introducton to Blueskyletters
 author: Founders of Blueskyletters
 categories:
 - Introduction
