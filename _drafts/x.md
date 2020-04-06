@@ -111,12 +111,6 @@ It surely will be a wonderful view 30,000 feet above the ground! This is a must-
 
 The view of the world as you float away in a hot-air balloon… spectacular.
 
-* Loose weight
-
-  ![](/uploads/i-yunmai-5jctAMjz21A-unsplash.jpg)
-
-Acquiring the perfect weight is a major goal!
-
 * See the Northern Lights
 
   ![](/uploads/serey-kim-vUePu7hAYAQ-unsplash.jpg)
@@ -126,3 +120,12 @@ There are a number of places where this can be seen other than Antarctica. Austr
 * Visit London
 
   ![](/uploads/ugur-akdemir-HbYnglDQmuo-unsplash.jpg)
+
+  Though I have visited London once as a kid, I want to visit this beautiful city once more. It's one of my dream destinations.
+* Go bungee jumping
+
+  I love adventurous sports and bungee jumping is definitely on my list. 
+
+  Read 100 books in a year
+
+  I'm actually a slow reader but I love books. I'm setting an aim of reading 100 books per year.
