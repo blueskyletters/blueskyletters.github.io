@@ -10,9 +10,7 @@ tags:
 - sticky
 
 ---
-## Hi there!
-
-Anything under the sky and beyond!
+## Anything under the sky and beyond!
 
 Welcome to a blog with limitless ideas. We write and illustrate on any topics: relevant, just-for-fun, thoughtful, informative, inspiring and more.
 
