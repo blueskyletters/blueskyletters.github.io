@@ -8,7 +8,7 @@ image: "/uploads/child.PNG"
 tags: []
 
 ---
-> Love For All Hatred For None
+> _Love For All Hatred For None_
 
 The human race is always dependent on interactions. It is impossible to live without mutual communication. But sometimes, this property is misused. We belittle each other with scorn and disrespect through thoughtless words, thereby hurting others sentiments.
 
