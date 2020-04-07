@@ -11,7 +11,9 @@ tags:
 - Inspiration
 
 ---
-An Inspirational quote is a collection of a few strong words born out of wisdom and experience. We always come across such quotes all the time. But among those random quotes, some are really striking and will influence us. **Isn't it amazing how such few words can contain deep meanings?** I'm going to write about one such quote that really influenced me.
+An Inspirational quote is a collection of a few strong words born out of wisdom and experience.
+
+ We always come across such quotes all the time. But among those random quotes, some are really striking and will influence us. **Isn't it amazing how such few words can contain deep meanings?** I'm going to write about one such quote that really influenced me.
 
 > ##### _Your Thoughts are a Creative Power to use to Materialise your Dreams - Rhonda Byrne_
 
