@@ -3,9 +3,10 @@ layout: post
 title: Introducton to Blueskyletters
 author: Founders of Blueskyletters
 categories:
-- Introduction
+- about
 image: "/uploads/intro.png"
 tags:
+- about
 - introduction
 - sticky
 
