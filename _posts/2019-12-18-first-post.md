@@ -12,7 +12,7 @@ tags:
 ---
 ## Anything under the sky and beyond!
 
-Welcome to a blog with limitless ideas. We write and illustrate on any topics: relevant, just-for-fun, thoughtful, informative, inspiring and more.
+Hi there! Welcome to a blog with limitless ideas. We write and illustrate on any topics: relevant, just-for-fun, thoughtful, informative, inspiring and more.
 
 A canvas for colourful minds.
 
