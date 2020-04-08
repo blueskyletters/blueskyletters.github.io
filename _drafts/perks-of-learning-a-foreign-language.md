@@ -38,4 +38,4 @@ Do you need help to get started with language learning/ There are many site on t
 
 As of November 2019 the language-learning website and app offer 94 different language courses in 23 languages. The app has over 300 million registered users world wide. I have personally used this app for learning and it is the best.
 
-* 
+* [Fluentu](https://www.fluentu.com/ "fluentu")
