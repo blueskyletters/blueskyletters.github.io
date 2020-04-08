@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perks of Learning A Foreign Language
+title: Top 5 Perks of Learning A Foreign Language
 author: Hiba
 categories:
 - writing
@@ -10,7 +10,7 @@ tags:
 - language
 
 ---
-Learning a new language may be one of the most fun learnings. I know that language is not everybody's cup of tea. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 10 perks of learning a foreign language. 
+Learning a new language may be one of the most fun learnings. I know that language is not everybody's cup of tea. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 5 perks of learning a foreign language. 
 
 1. **Increase Memory**
 
