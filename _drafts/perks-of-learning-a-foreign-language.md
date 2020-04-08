@@ -4,31 +4,31 @@ title: Top 5 Perks of Learning A Foreign Language
 author: Hiba
 categories:
 - writing
-image: "/uploads/helloquence-OQMZwNd3ThU-unsplash.jpg"
+image: "/uploads/Stock Image_ Education.jpg"
 tags:
 - writing
 - language
 
 ---
-Learning a new language may be one of the most fun learnings. I know that language is not everybody's cup of tea. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 5 perks of learning a foreign language. 
+Learning a new language may be one of the most fun learnings. I know that language is not everybody's cup of tea. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 5 perks of learning a foreign language.
 
 1. **Increase Memory**
 
    Studies have proved that learning a new language boosts memory and increases brain power. Speaking more than one language increases the amount of neural pathways in the brain, allowing information to be processed through a greater variety of channels.
-2.  **Multi-tasking Ability**
+2. **Multi-tasking Ability**
 
-   People who have developed the ability to think in different languages and move from one to the other become much better multi-taskers. Basically, you become more productive and smart.
-3. **Able to make new relations**
+People who have developed the ability to think in different languages and move from one to the other become much better multi-taskers. Basically, you become more productive and smart.
+3\. **Able to make new relations**
 
-   The next time you meet a person who speaks the foreign language you've learnt, you can communicate effectively with them. if you are multilingual, you have the advantage of seeing the world from different viewpoints, enhancing your ability to communicate in today’s globally connected world.
-4. **Strengthens Decision Making**
+The next time you meet a person who speaks the foreign language you've learnt, you can communicate effectively with them. if you are multilingual, you have the advantage of seeing the world from different viewpoints, enhancing your ability to communicate in today’s globally connected world.
+4\. **Strengthens Decision Making**
 
-   If you are a multilingual, decision making is more effective. 
+If you are a multilingual, decision making is more effective.
 
-   Multilinguals are more confident in their decision-making choices as a result of more practice.
-5. **Opens Up A Wider Career**
+Multilinguals are more confident in their decision-making choices as a result of more practice.
+5\. **Opens Up A Wider Career**
 
-   You have a wide range of career if you are  amultilingual, based on the popularity of the foreign language you know. A multilingual ability is definitely a competitive edge in today’s world. There are many career oppurtunities in this field. We can discuss the career oppurtunities of multilinguals in another post.
+You have a wide range of career if you are  amultilingual, based on the popularity of the foreign language you know. A multilingual ability is definitely a competitive edge in today’s world. There are many career oppurtunities in this field. We can discuss the career oppurtunities of multilinguals in another post.
 
 So, what's your next language?
 
