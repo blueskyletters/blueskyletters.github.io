@@ -10,7 +10,7 @@ tags:
 - language
 
 ---
-> To learn a new language is to have one more window from which to look at the world.
+> _To learn a new language is to have one more window from which to look at the world._
 
 I know that language is not everybody's cup of tea, but learning a new language might be fun. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 5 perks of learning a foreign language.
 
