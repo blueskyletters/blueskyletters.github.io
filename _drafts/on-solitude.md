@@ -65,4 +65,26 @@ To reflect, think and sleep again
 
 Spending time with myself
 
-without any interference
+without any interference.
+
+During these beautiful days...
+
+when I,m happya s ever
+
+I ony wish one more thing 
+
+to make it perfect
+
+The presence of You 
+
+to make these days wonderful 
+
+and sweet and perfect
+
+with your warm love.
+
+With you inside my 4 walls 
+
+for 21 days ...
+
+is the best thing I can have.
