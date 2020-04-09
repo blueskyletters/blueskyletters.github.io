@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 5 Perks of Learning A Foreign Language
+title: Top 5 Perks of Learning A New Language
 author: Hiba
 categories:
 - writing
@@ -27,7 +27,7 @@ The next time you meet a person who speaks the foreign language you've learnt, y
 
 If you are multilingual, decision making is more effective.
 
-Multilingual are more confident in their decision-making choices as a result of more practice. 
+Multilingual are more confident in their decision-making choices as a result of more practice.
 
 5\. **Opens Up A Wider Career**
 
@@ -44,3 +44,7 @@ As of November 2019, the language-learning website and app offer 94 different la
 * [Fluentu](https://www.fluentu.com/ "fluentu")
 
   FluentU brings language learning to life with real-world videos. It is a paid site and offers a 14- day free trial.
+
+   
+
+  Are you interested in learning anew language? What language would you like to learn? Which is your favourite platform of learning languages? Let us know in the comments below!
