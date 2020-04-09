@@ -4,13 +4,15 @@ title: Top 5 Perks of Learning A New Language
 author: Hiba
 categories:
 - writing
-image: "/uploads/Stock Image_ Education.jpg"
+image: "/uploads/helloquence-OQMZwNd3ThU-unsplash.jpg"
 tags:
 - writing
 - language
 
 ---
 Learning a new language may be one of the most fun learnings. I know that language is not everybody's cup of tea. In this age of globalization, knowing another language will surely bring you benefits. Let's take a look at the top 5 perks of learning a foreign language.
+
+![](/uploads/Stock Image_ Education.jpg)
 
 1. **Increase Memory**
 
@@ -44,7 +46,5 @@ As of November 2019, the language-learning website and app offer 94 different la
 * [Fluentu](https://www.fluentu.com/ "fluentu")
 
   FluentU brings language learning to life with real-world videos. It is a paid site and offers a 14- day free trial.
-
-   
 
   Are you interested in learning anew language? What language would you like to learn? Which is your favourite platform of learning languages? Let us know in the comments below!
