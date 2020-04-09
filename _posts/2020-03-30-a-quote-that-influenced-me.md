@@ -3,11 +3,9 @@ layout: post
 title: A Quote that Influenced Me
 author: Hiba
 categories:
-- mindpower
 - Inspiration
 image: "/uploads/melissa-askew-8n00CqwnqO8-unsplash.jpg"
 tags:
-- mindpower
 - Inspiration
 
 ---
