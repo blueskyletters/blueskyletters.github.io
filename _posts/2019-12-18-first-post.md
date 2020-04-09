@@ -6,8 +6,6 @@ categories:
 - about
 image: "/uploads/intro.png"
 tags:
-- about
-- introduction
 - sticky
 
 ---
