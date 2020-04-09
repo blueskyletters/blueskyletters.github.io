@@ -5,7 +5,8 @@ author: Hiba
 categories:
 - Inspiration
 image: "/uploads/dawid-zawila-zb2vBaHYB2I-unsplash.jpg"
-tags: []
+tags:
+- writing
 
 ---
 > _Loka Samastha Sukhino Bhavanthu_
