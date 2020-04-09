@@ -25,7 +25,7 @@ but I feel bliss as I've never felt before
 
 _i love the quietness, the "unbusy" life this tragedy has brought_
 
-Everything seems so at peace, atlast.
+Everything seems so at peace, at last.
 
 I can hear the sound of nature loud and clear
 
@@ -43,7 +43,7 @@ serenity is here again,
 
 after a long long time.
 
-I will never be bored of this isolation
+I will never be bored with this isolation
 
 as it is an isolation from chaos,
 
@@ -59,7 +59,7 @@ to refresh, to rejoice
 
 to make the mind at peace again.
 
-Plenty of time to deram, sleep, eat
+Plenty of time to dream, sleep, eat
 
 To reflect, think and sleep again
 
