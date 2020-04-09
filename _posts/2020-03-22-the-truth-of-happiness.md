@@ -4,7 +4,6 @@ title: What is Happiness?
 author: Hiba
 categories:
 - Inspiration
-- First Post
 image: "/uploads/dawid-zawila-zb2vBaHYB2I-unsplash.jpg"
 tags: []
 

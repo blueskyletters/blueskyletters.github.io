@@ -7,7 +7,6 @@ categories:
 image: "/uploads/helloquence-OQMZwNd3ThU-unsplash.jpg"
 tags:
 - writing
-- language
 
 ---
 > _To learn a new language is to have one more window from which to look at the world._
