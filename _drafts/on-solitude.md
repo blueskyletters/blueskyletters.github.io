@@ -15,7 +15,7 @@ I never knew I could enjoy
 
 the loneliness so well
 
-I've finally got what I've craved 
+I've finally got what I've craved
 
 for a long time.
 
@@ -39,13 +39,13 @@ I'm at peace with myself,
 
 away from the frolics of life
 
-serenity is here again, 
+serenity is here again,
 
 after a long long time.
 
 I will never be bored of this isolation
 
-as it is an isolation from chaos, 
+as it is an isolation from chaos,
 
 from headache, from stress.
 
@@ -58,3 +58,11 @@ the solitude it deserved
 to refresh, to rejoice
 
 to make the mind at peace again.
+
+Plenty of time to deram, sleep, eat
+
+To reflect, think and sleep again
+
+Spending time with myself
+
+without any interference
