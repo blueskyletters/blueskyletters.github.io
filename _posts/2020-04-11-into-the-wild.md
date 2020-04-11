@@ -1,15 +1,18 @@
 ---
 layout: post
 title: Into The Wild - A Review
-author: Hiba
+author: Fazal
 categories:
 - writing
 - filmreview
 image: "/uploads/wildweb.gif"
 tags:
+- sticky
 - filmreview
 
 ---
+## The Magic Bus
+
 > _"Happiness is only real when shared"_
 
 It's not every day you watch a movie that touches your heart and charms you for a while. The 2007 movie Into The Wild, directed by Sean Penn is one such movie. That is why I thought to write a small review on this movie. ( Warning: Spoilers Ahead!)
