@@ -35,6 +35,6 @@ _"Happiness is only real when shared"_, which is what he learns eventually livin
 
 The movie, apart from being an inspiration for hippies and adventures, also teaches you the valuable lesson-be satisfied with what you have. It brings the out the horrors of loneliness of the human soul, despite it getting the adventure it wanted.
 
-Some may find this movie a little monotonous and overrated. It is not a fast-paced movie. One should enjoy it with an adventurous perspective.
+Some may find this movie a little monotonous and overrated. It is not a fast-paced movie.  One should enjoy it with an adventurous perspective.
 
 A must-watch movie. In three words, it can be described as beautiful, deep and adventurous.
