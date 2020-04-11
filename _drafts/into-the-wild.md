@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Into The Wild
+title: Into The Wild - A Review
 author: Hiba
 categories:
 - writing
