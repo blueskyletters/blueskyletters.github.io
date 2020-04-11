@@ -14,7 +14,7 @@ tags:
 
 > _"Happiness is only real when shared"_
 
-It's not every day you watch a movie that touches your heart and charms you for a while. The 2007 movie Into The Wild, directed by Sean Penn is one such movie. That is why I thought to write a small review on this movie. ( Warning: Spoilers Ahead!)
+It's not every day you watch a movie that touches your heart and charms you for a while. The 2007 movie Into The Wild, directed by Sean Penn is one such movie. It even inspired me to do the above animation! That is why I thought to write a small review on this movie. ( Warning: Spoilers Ahead!)
 
 This movie is an adaptation of a book of the same name written by Jon Krakauer. Adventure and travel can be given as the categories of this movie. An interesting fact is that the movie was inspired by a true story. This movie can be regarded as a masterpiece. It has originality in its presentation and a perfect storyline. Though it has a tragic ending, the movie captures the audience attention right until the end. The character Christopher McCandless, later renaming himself as  Alexander Supertramp quickly earns our hearts.
 
