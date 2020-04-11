@@ -7,7 +7,6 @@ categories:
 - filmreview
 image: "/uploads/wildweb.gif"
 tags:
-- sticky
 - filmreview
 
 ---
