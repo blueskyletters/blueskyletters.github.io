@@ -8,7 +8,6 @@ categories:
 image: ''
 tags:
 - poem
-- solitude
 
 ---
 I never knew I could enjoy
