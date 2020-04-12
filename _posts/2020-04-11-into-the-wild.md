@@ -37,4 +37,6 @@ The movie, apart from being an inspiration for hippies and adventures, also teac
 
 Some may find this movie a little monotonous and overrated. It is not a fast-paced movie.  One should enjoy it with an adventurous perspective.
 
-A must-watch movie. In three words, it can be described as beautiful, deep and adventurous.
+A must-watch movie. In three words, it can be described as beautiful, deep and adventurous. Watch it on netflix [here.](https://www.netflix.com/in/title/70075064 "Into The Wild")
+
+Have you seeen this movie? Tell us what you think about it in the comments below!
