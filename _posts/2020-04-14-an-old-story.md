@@ -13,7 +13,7 @@ tags:
 
 Among the many topics write about under the sky that I could, I choose to write about a story that I have listened to in my childhood and probably every other child in Kerala.
 
-Some stories, no matter how old they get, are carried from one generation to the other as they are golden stories that cannot be replaced by any other. Such is the story of a Mannankatta(lump of the earth) and Kariyila(dry leaf) which is a rather tragic short story with many connotations.
+Some stories, no matter how old they get, are carried from one generation to the other as they are golden stories that cannot be replaced by any other. Such is the story of a Mannankatta (lump of earth) and Kariyila (dry leaf) which is a rather tragic short story with many connotations.
 
 Mannankatta and Kariyila were best friends. They decided to go on a journey to Kasi. It was a jolly journey until a strong wind started to blow. Kariyila being so light, was about to fly away. But Mannankatta came to his rescue by sitting on top of him. They continued the journey. Later, it started to rain and Mannankatta would have melted away into the earth if it wasn't for Kariyila who shielded him from the downpour. Both of them happily continued, with the confidence that they were safe as long as they were together. The tragedy occurred when a huge storm came and the fierce wind blew away Kariyila and the rain melted Mannankatta away. What the storm washed away was the millions of dreams that they had dreamed together.
 
