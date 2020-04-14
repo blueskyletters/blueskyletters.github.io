@@ -9,6 +9,8 @@ tags:
 - story
 
 ---
+> Some stories are Golden and Bring the sweet nostalgia of cjildhood along with it
+
 Among the many topics write about under the sky that I could, I choose  to write about a story that I have listened to in my chidhood and probably every other child in Kerala.
 
 Some stories, no matter how old they get, ar carried from one generation to the other as they are golden stories that cannot be replaced by any other. Such is the story of a Mannankatta(lump of earth) and Kariyila(dry leaf) which is a very short story with many connotations.
