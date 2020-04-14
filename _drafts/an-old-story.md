@@ -9,7 +9,7 @@ tags:
 - story
 
 ---
-> Some stories are Golden and Bring the sweet nostalgia of cjildhood along with it
+> Some stories are Golden and Bring the sweet Nostalgia of Childhood along with it
 
 Among the many topics write about under the sky that I could, I choose  to write about a story that I have listened to in my chidhood and probably every other child in Kerala.
 
