@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Evergreen Character - Anne Of Green Gables
+title: An Evergreen Character -
 author: Hiba
 categories:
 - books
