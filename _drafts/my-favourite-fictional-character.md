@@ -18,13 +18,13 @@ A children's novel written by Lucy Montgomery in 1908, this book is all one need
 
 ![](/uploads/Sunshine Girl Cartoon Elements.jpg)
 
-Anne of Green Gables is a character far from perfect. She is imperfectly adorable with her cleverness and lively attitude. This novel is written in the early 20th century. But Anne is so unlike the common girl in her times in every aspect. She is brave enough to speak her thoughts. Anne does not fall into the common fancies that every girl thinks more important like boys and beauty. . This is what makes her stand out among her peers and Anne becomes loved by all in Avonlea.
+Anne of Green Gables is a character far from perfect. She is imperfectly adorable with her cleverness and lively attitude. This novel is written in the early 20th century. But Anne is so unlike the common girl in her times in every aspect. She is brave enough to speak her thoughts. Anne does not fall into the common fancies that every girl thinks more important like boys and beauty. This is what makes her stand out among her peers and Anne becomes loved by all in Avonlea.
 
 Anne is a role model for young girls and a nostalgia-bringer for older readers. That's what makes the novel more than just a children's novel. Every person who had a wonderful childhood close with nature with cheerful friends and abundant imagination finds Anne relatable. Within a few pages of the novel, in Anne's own word, Anne becomes our _"kindred spirit"_.
 
-![](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
+!\[\](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
 
-Anne is an inspiration. She brings out the importance of thoughts in life. Anne tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert. 
+Anne is an inspiration. She brings out the importance of thoughts in life. Anne tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert.
 
 With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered than anything else.
 
@@ -46,4 +46,4 @@ _"Its been my experience that you can nearly always enjoy things if you make up 
 
 ![](/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg)
 
-I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the haerts of many people across the world.
+I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the hearts of many people across the world.
