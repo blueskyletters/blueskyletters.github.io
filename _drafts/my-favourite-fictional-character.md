@@ -22,4 +22,4 @@ Anne is an inspiration. She brings out the importance of thoughts in life. Anne 
 
 With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered than anything else.
 
-Anne of Green Gables is a 
+Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the education of a girl child and economic stability of women. In  short Anne is an all-in-all  character.
