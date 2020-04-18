@@ -31,3 +31,5 @@ Beautiful words are sometimes spoken by Anne :
 _“That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them.”_
 
 _“Next to trying and winning, the best thing is trying and failing.”_
+
+_“The world calls them its singers and poets and artists and storytellers; but they are just people who have never forgotten the way to fairyland.”_
