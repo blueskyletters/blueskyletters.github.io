@@ -44,4 +44,6 @@ _“My life is a perfect graveyard of buried hopes.”_
 
 _"Its been my experience that you can nearly always enjoy things if you make up your mind firmly that you will."_
 
+![](/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg)
+
 I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the haerts of many people across the world.
