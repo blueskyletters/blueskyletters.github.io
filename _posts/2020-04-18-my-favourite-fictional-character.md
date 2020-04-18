@@ -22,7 +22,7 @@ Anne of Green Gables is a character far from perfect. She is imperfectly adorabl
 
 A role model for young girls and a nostalgia-bringer for older readers, Anne is just the most cheerful character ever. That's what makes the novel more than just a children's novel. Every person who had a wonderful childhood close with nature with cheerful friends and abundant imagination finds Anne relatable. Within a few pages of the novel, in Anne's own word, Anne becomes our _"kindred spirit"_.
 
-!\[\](/uploads/Anne tell's a story-1.png)
+![](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
 
 Anne is an inspiration. She brings out the importance of thoughts in life. She tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert.
 
