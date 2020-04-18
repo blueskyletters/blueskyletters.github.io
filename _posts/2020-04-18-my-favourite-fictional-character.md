@@ -5,7 +5,7 @@ author: Hiba
 categories:
 - books
 - writing
-image: "/uploads/Sunshine Girl Cartoon Elements.jpg"
+image: "/uploads/\U0001F33A.jpg"
 tags:
 - books
 
@@ -22,7 +22,7 @@ Anne of Green Gables is a character far from perfect. She is imperfectly adorabl
 
 A role model for young girls and a nostalgia-bringer for older readers, Anne is just the most cheerful character ever. That's what makes the novel more than just a children's novel. Every person who had a wonderful childhood close with nature with cheerful friends and abundant imagination finds Anne relatable. Within a few pages of the novel, in Anne's own word, Anne becomes our _"kindred spirit"_.
 
-![](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
+!\[\](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
 
 Anne is an inspiration. She brings out the importance of thoughts in life. She tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert.
 
@@ -30,7 +30,7 @@ With her firey red hair and freckled face, Anne is far from perfect according to
 
 Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the importance of education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
 
-![](/uploads/🌺.jpg)
+![](/uploads/__Anne Of Green Gables__ by raye-minamino on DeviantArt.jpg)
 
 Beautiful words are sometimes spoken by Anne :
 
