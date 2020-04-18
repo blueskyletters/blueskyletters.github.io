@@ -29,3 +29,5 @@ Anne of Green Gables is a strong character. Through Anne, the author puts forwar
 Beautiful words are sometimes spoken by Anne :
 
 _“That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them.”_
+
+_“Next to trying and winning, the best thing is trying and failing.”_
