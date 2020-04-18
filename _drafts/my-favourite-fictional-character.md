@@ -22,13 +22,13 @@ Anne of Green Gables is a character far from perfect. She is imperfectly adorabl
 
 A role model for young girls and a nostalgia-bringer for older readers, Anne is just the most cheerful character ever. That's what makes the novel more than just a children's novel. Every person who had a wonderful childhood close with nature with cheerful friends and abundant imagination finds Anne relatable. Within a few pages of the novel, in Anne's own word, Anne becomes our _"kindred spirit"_.
 
-!\[\](/uploads/'Kindred Spirit, Anne of Green Gables , Anne with an e' Sticker by FreckledBliss.png)
+![](/uploads/Anne tell's a story-1.png)
 
-Anne is an inspiration. . She brings out the importance of thoughts in life. Anne tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert.
+Anne is an inspiration. She brings out the importance of thoughts in life. She tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert.
 
-With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered than anything else.
+With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves that beauty is in the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dyes her hair green), she then realizes that beauty of character is much more important than anything else. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered more than anything else.
 
-Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
+Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the importance of education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
 
 ![](/uploads/🌺.jpg)
 
@@ -47,3 +47,5 @@ _"Its been my experience that you can nearly always enjoy things if you make up 
 ![](/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg)
 
 I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the hearts of many people across the world.
+
+Read [Anne of Green Gables](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW) on Amazon Kindle.
