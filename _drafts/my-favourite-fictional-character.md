@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My favourite fictional character
+title: My Favourite Fictional Character
 author: Hiba
 categories:
 - books
