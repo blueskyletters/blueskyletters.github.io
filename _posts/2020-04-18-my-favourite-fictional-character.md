@@ -30,7 +30,7 @@ With her firey red hair and freckled face, Anne is far from perfect according to
 
 Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the importance of education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
 
-![](/uploads/__Anne Of Green Gables__ by raye-minamino on DeviantArt.jpg)
+![/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/%E2%80%A2Kumpulan%20Fan%20Art%20__%20Untuk%20sampul%20wattpad%E2%80%A2.jpg)
 
 Beautiful words are sometimes spoken by Anne :
 
@@ -43,8 +43,6 @@ _“The world calls them its singers and poets and artists and storytellers; but
 _“My life is a perfect graveyard of buried hopes.”_
 
 _"Its been my experience that you can nearly always enjoy things if you make up your mind firmly that you will."_
-
-![](/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg)
 
 I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the hearts of many people across the world.
 
