@@ -20,4 +20,6 @@ Anne is a role model for young girls and a nostalgia-bringer for older readers. 
 
 Anne is an inspiration. She brings out the importance of thoughts in life. Anne tries to find beauty and happiness in everything around her. She is an ever faithful friend who can love with all her heart. But Anne can also hold a grudge to whom she dislikes, just as she did to Gilbert. 
 
-With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. 
+With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered than anything else.
+
+Anne of Green Gables is a 
