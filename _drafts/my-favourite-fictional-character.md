@@ -50,4 +50,6 @@ I could write on and on about Anne of Green Gables as she has taken up a place i
 
 Read [Anne of Green Gables](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW) on Amazon Kindle.
 
-You cana lso download a free pdf of the book [here](https://www.planetebook.com/anne-of-green-gables/).
+You can also download a free pdf of the book [here](https://www.planetebook.com/anne-of-green-gables/).
+
+Which is your favourite fictional character? Tell us about it in the comments below!
