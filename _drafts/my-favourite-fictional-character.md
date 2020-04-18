@@ -49,3 +49,5 @@ _"Its been my experience that you can nearly always enjoy things if you make up 
 I could write on and on about Anne of Green Gables as she has taken up a place in my heart as the best fictional character as well as in the hearts of many people across the world.
 
 Read [Anne of Green Gables](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW) on Amazon Kindle.
+
+You cana lso download a free pdf of the book [here](https://www.planetebook.com/anne-of-green-gables/).
