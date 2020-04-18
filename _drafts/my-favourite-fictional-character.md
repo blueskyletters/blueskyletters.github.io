@@ -10,6 +10,8 @@ tags:
 - books
 
 ---
+> “Life is worth living as long as there's a laugh in it.”
+
 Though  I've turned the pages of many books, I've never rendered a particular character as a favourite. But recently a book just made me fall in love with the most lovable fictional character- Anne of Green Gables.
 
 A children's novel written by Lucy Montgomery in 1908, this book is all one needs for a light reading with a sensible story. I'll try to give a small character sketch about Anne without any spoilers to the story.
@@ -22,4 +24,8 @@ Anne is an inspiration. She brings out the importance of thoughts in life. Anne 
 
 With her firey red hair and freckled face, Anne is far from perfect according to society's beauty concepts. But she proves beauty is from the heart. Though Anne has vanity at first (which reaches its peak when she accidentally dies her hair green), she then realizes that beauty of character is much more important than anything else. This makes Anne more than just a heroine. The author was so sensible in portraying Anne as such during a time when external appearance of ladies mattered than anything else.
 
-Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the education of a girl child and economic stability of women. In  short Anne is an all-in-all  character.
+Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
+
+Beautiful words are sometimes spoken by Anne :
+
+_“That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them.”_
