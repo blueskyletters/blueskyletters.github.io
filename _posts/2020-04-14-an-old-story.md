@@ -21,7 +21,7 @@ This is a story of an immortal friendship as the Mannakatta remains in the earth
 
 This story brings tears to the eyes of young kids. Though these two are inanimate characters, we feel sorry for them on how they got separated and never reach their destination.
 
-After many years, thinking of this story in a new perspective brought new meanings to the story. It is a story of **friendship and bravery**. It is a story about **life and its unexpected circumstances**. It teaches us how fragile we are despite the abilities we have. It tells us so clearly that **embarking on adventures in life is definitely risky** **and sometimes may end in tragedy**. The story picturises how **the most unlikely pair can become friends**.
+After many years, thinking of this story in a new perspective brought new meanings to the story. It is a story of **friendship and bravery**. It is a story about **life and its unexpected circumstances**. It teaches us how fragile we are despite the abilities we have. It tells us so clearly that **embarking on adventures in life is definitely risky** **and sometimes may end in tragedy**. The story portrays how **the most unlikely pair can become friends**.
 
 We may feel that the story is a bit discouraging and tragic to be told to young kids. But it is a very good story for them. The story of Mannankatta and Kariyila so vividly express the bitter truth of life in a simple way to young minds. It brings out the universal truth that **nothing can last forever** and **one day we shall all too be a memory; our body shall melt away into the earth as Manankatta and our soul fly away to the hereafter like Kariyila and we may leave some uncherished dreams behind.**
 
