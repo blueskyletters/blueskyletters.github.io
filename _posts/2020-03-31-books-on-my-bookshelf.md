@@ -14,7 +14,7 @@ tags:
 
 I feel content in buying books and feel pride in looking at them on the shelf though there are some who advice me to buy a "Kindle or something instead of wasting money on books" ; )  Well, they don't really know the pleasure of owning books, do they? Books are indeed the best gifts, best treasures and are irreplaceable by anything else. (But I'm not disapproving kindle, infact I love it)
 
-Today, I took a look at my little book collection and thought, why not do a blog post on it". Though there are just a handful of books on my shelf, they were quite a good collection. **I'll introduce you to 6 of the books among them from different genres.**
+Today, I took a look at my little book collection and thought, why not do a blog post on it". Though there are just a handful of books on my shelf, they were quite a good collection. **I'll introduce you to 7 of the books among them from different genres.**
 
 ![](/uploads/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
 
