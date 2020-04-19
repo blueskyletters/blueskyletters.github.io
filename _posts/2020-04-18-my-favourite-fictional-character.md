@@ -5,7 +5,7 @@ author: Hiba
 categories:
 - books
 - writing
-image: "/uploads/\U0001F33A.jpg"
+image: "/uploads/Must-read books by women, as chosen by our readers.jpg"
 tags:
 - books
 
