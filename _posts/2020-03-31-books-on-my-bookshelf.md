@@ -36,7 +36,7 @@ A book which can be finished in less than an hour has some valuable insights tha
 
 #### A Children's Book
 
-[Anne of Green Gables - Lucy Gray Montgomery](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW)
+[Anne of Green Gables - L.M Montgomery](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW)
 
 ![](/uploads/Must-read books by women, as chosen by our readers.jpg)
 
