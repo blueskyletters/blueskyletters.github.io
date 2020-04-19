@@ -25,6 +25,6 @@ After many years, thinking of this story in a new perspective brought new meanin
 
 The story of Mannankatta and Kariyila so vividly express the bitter truth of life in a simple way to young minds. It brings out the universal truth that **nothing can last forever** and **one day we shall all too be a memory; our body shall melt away into the earth as Manankatta and our soul fly away to the hereafter like Kariyila and we may leave some uncherished dreams behind.**
 
-It is strange how such a short nursery story imbibes in it the deep meanings and truths of life. Every child should be told the story of Mannankatta and Kariyila.
+It is strange how such a short nursery story imbibes in it the deep meanings and truths of life. Every child should be told this story. 
 
 As I brood over the fact of how much meaning I could think of from this simple story, I hope that maybe my life may also get immortalised in a story that at least some may remember.
