@@ -18,7 +18,7 @@ A children's novel written by Lucy Montgomery in 1908, this book is all one need
 
 ![](/uploads/anne of green  gables _ Tumblr.jpg)
 
-Anne of Green Gables is a character far from perfect. She is imperfectly adorable with her cleverness and lively attitude with a deep passion. This novel is written in the early 20th century. But Anne is so unlike the common girl in her times in every aspect. She is brave enough to speak her thoughts. She does not fall into the common fancies that every girl thinks more important like boys and beauty. This is what makes her stand out among her peers and Anne becomes loved by all in Avonlea.
+Anne of Green Gables is a character far from perfect. Everyone will fall for her sense of spirit and her charming ways. She is imperfectly adorable with her cleverness and lively attitude with a deep passion. This novel is written in the early 20th century. But Anne is so unlike the common girl in her times in every aspect. She is brave enough to speak her thoughts. She does not fall into the common fancies that every girl thinks more important like boys and beauty. This is what makes her stand out among her peers and Anne becomes loved by all in Avonlea.
 
 A role model for young girls and a nostalgia-bringer for older readers, Anne is just the most cheerful character ever. That's what makes the novel more than just a children's novel. Every person who had a wonderful childhood close with nature with cheerful friends and abundant imagination finds Anne relatable. Within a few pages of the novel, in Anne's own word, Anne becomes our _"kindred spirit"_.
 
@@ -30,7 +30,7 @@ With her firey red hair and freckled face, Anne is far from perfect according to
 
 Anne of Green Gables is a strong character. Through Anne, the author puts forward important social issues of the time such as the importance of education of the girl child and economic stability of women. In  short Anne is an all-in-all character.
 
-![/uploads/•Kumpulan Fan Art __ Untuk sampul wattpad•.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/%E2%80%A2Kumpulan%20Fan%20Art%20__%20Untuk%20sampul%20wattpad%E2%80%A2.jpg)
+![/uploads/•Kumpulan Fan Art ](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/%E2%80%A2Kumpulan%20Fan%20Art%20__%20Untuk%20sampul%20wattpad%E2%80%A2.jpg)
 
 Beautiful words are sometimes spoken by Anne :
 
