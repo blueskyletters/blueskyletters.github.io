@@ -5,7 +5,7 @@ author: Hiba
 categories:
 - reading
 - books
-image: "/uploads/5a584cf1f759cd115e85359f3d42f4eb.jpg"
+image: "/uploads/kid.gif"
 tags:
 - books
 
