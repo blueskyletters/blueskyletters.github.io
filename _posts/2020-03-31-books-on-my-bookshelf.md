@@ -34,6 +34,12 @@ A book which can be finished in less than an hour has some valuable insights tha
 
 ![/uploads/dayne-topkin-6BY0TWIbKhY-unsplash.jpg](https://app.forestry.io/sites/fk1-wacxdaotlw/body-media//uploads/dayne-topkin-6BY0TWIbKhY-unsplash.jpg)
 
+#### A Children's Book
+
+[Anne of Green Gables - Lucy Gray Montgomery](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW)
+
+Undoubtedly one of the best children's fiction written. Anne is my favourite fictional character and I have written a blogpost exclusively about her. Read it [here](https://blueskyletters.github.io/blueskyletters.github.io/my-favourite-fictional-character/ "Anne").
+
 #### An Emotional Book
 
 [_The Shack - WM Paul Young_](https://www.goodreads.com/book/show/40874325-the-shack "The shack")
