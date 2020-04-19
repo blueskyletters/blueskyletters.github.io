@@ -19,7 +19,7 @@ Mannankatta and Kariyila were best friends. They decided to go on a journey to K
 
 This is a story of an immortal friendship as the Mannakatta remains in the earth and the Kariyila still flies with the wind.
 
-This story brings tears to the eyes of young kids. Though these two are inanimate characters, we feel sorry for them on how they got separated and never reached their destination.
+This story brings tears to the eyes of young kids. Though these two are inanimate characters, we feel sorry for them on how they got separated and never reach their destination.
 
 After many years, thinking of this story in a new perspective brought new meanings to the story. It is a story of **friendship and bravery**. It is a story about **life and its unexpected circumstances**. It teaches us how fragile we are despite the abilities we have. It tells us so clearly that **embarking on adventures in life is definitely risky** **and sometimes may end in tragedy**. The story picturises how **the most unlikely pair can become friends**.
 
