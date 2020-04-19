@@ -38,6 +38,8 @@ A book which can be finished in less than an hour has some valuable insights tha
 
 [Anne of Green Gables - Lucy Gray Montgomery](https://www.amazon.com/Anne-Green-Gables-AmazonClassics-Montgomery-ebook/dp/B073QRGDCW)
 
+![](/uploads/Must-read books by women, as chosen by our readers.jpg)
+
 Undoubtedly one of the best children's fiction written. Anne is my favourite fictional character and I have written a blogpost exclusively about her. Read it [here](https://blueskyletters.github.io/blueskyletters.github.io/my-favourite-fictional-character/ "Anne").
 
 #### An Emotional Book
