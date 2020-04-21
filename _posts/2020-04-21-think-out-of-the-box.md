@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Outside The Box
+title: Create Out of The Box
 author: Hiba
 categories:
 - inspiration
