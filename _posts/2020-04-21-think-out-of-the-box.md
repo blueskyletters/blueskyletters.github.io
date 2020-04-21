@@ -9,7 +9,7 @@ tags:
 - creativity
 
 ---
-**The Basis Of Creativity**
+**Think outside the box, Create outside the box.** 
 
 Almost for everything we do, there is always a conventional way to do it; that is, the formal way to carry out a task and confront a problem. But, even though such methods yield results, they have fewer scope for innovation and no chance for creativity. _"Thinking outside the box"_ is basically a technique to find a new or unconventional way to approach problems and to look at things from a different perspective.
 
