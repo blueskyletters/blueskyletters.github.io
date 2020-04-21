@@ -23,4 +23,6 @@ We live in a society where we are programmed to follow the "good old ways". Anyt
 
 Try to get inspired by famous innovators in your field of work. Steve Jobs, Da Vinci, Bill Gates, Graham Bell are only just a few people that the history has seen to bring marvellous creations into the world. 
 
-We started our blog last December. We were very confused at the beginning. We had many doubts as to weather this blog would reap any benefits. At the end, we understood that whatever we do in this blog, we do it for the sake of creativity. Creating new content, as words or illustrations, brings us happiness. It is very satisfying to convert our imagination to a virtual reality. 
+We started our blog last December. We were very confused at the beginning. We had many doubts as to weather this blog would reap any benefits. At the end, we understood that whatever we do in this blog, we do it for the sake of creativity. Creating new content, as words or illustrations, brings us happiness. It is very satisfying to convert our imagination to a virtual reality. And it all started from a single thought outside the box.
+
+This world creativity day, what thought have you brought out of the box? Share it with us in the comments below! 
