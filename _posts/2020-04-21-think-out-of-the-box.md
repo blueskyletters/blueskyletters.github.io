@@ -13,7 +13,7 @@ tags:
 
 Almost for everything we do, there is always a conventional way to do it; that is, the formal way to carry out a task and confront a problem. But, even though such methods yield results, they have fewer scope for innovation and no chance for creativity. _"Thinking outside the box"_ is basically a technique to find a new or unconventional way to approach problems and to look at things from a different perspective.
 
-Thinking out of the box is the basic concept of creativity. Creativity is the converting of imaginative ideas into reality. This can only be possible when thoughts are not restricted to just a small space. Instead, you should be able to think widely without any boundaries. **_Limitless imagination and a thirst for new ideas is the key to creativity._**
+**_Thinking out of the box is the basic concept of creativity._** Creativity is the converting of imaginative ideas into reality. This can only be possible when thoughts are not restricted to just a small space. Instead, you should be able to think widely without any boundaries. **_Limitless imagination and a thirst for new ideas is the key to creativity._**
 
 #### _Why is thinking outside the box so important?_
 
