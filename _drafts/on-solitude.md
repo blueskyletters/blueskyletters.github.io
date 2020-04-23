@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Solitude
+title: Solitude
 author: Hiba
 categories:
 - poem
@@ -10,6 +10,8 @@ tags:
 - poem
 
 ---
+**An Ode To Lockdown**
+
 I never knew I could enjoy
 
 the loneliness so well
