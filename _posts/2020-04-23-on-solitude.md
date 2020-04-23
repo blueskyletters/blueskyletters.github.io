@@ -3,9 +3,10 @@ layout: post
 title: Solitude
 author: Hiba
 categories:
+- solitude
 - poem
 - writing
-image: ''
+image: "/uploads/jon-tyson-lNU_GoQ6prI-unsplash.jpg"
 tags:
 - poem
 
