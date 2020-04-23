@@ -7,6 +7,7 @@ categories:
 - books
 image: "/uploads/kid.gif"
 tags:
+- featured
 - books
 
 ---
