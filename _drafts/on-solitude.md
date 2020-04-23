@@ -68,24 +68,34 @@ Spending time with myself
 
 without any interference.
 
-During these beautiful days...
+Read as much books,
 
-when I,m happy as ever
+watch as much movies,
 
-I only wish one more thing
+It's like a dream come true!
 
-to make it perfect
+I know I'm so broadminded
 
-The presence of You
+to feel bliss when the world is suffering
 
-to make these days wonderful
+but I can't help feeling the
 
-and sweet and perfect
+comfort of solitude.
 
-with your warm love.
+Spending time with family,
 
-With you inside my 4 walls
+no more excuses about work
 
-for 21 days ...
+I come to know how wonderful they are
 
-is the best thing I can have.
+without their hectic schedule.
+
+After all these days,
+
+I've concluded:
+
+I'm definitely an introvert,
+
+social-distancing so happily : )
+
+as I've prepared for this my whole life.
