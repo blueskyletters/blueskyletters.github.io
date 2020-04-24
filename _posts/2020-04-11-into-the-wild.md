@@ -3,11 +3,11 @@ layout: post
 title: Into The Wild - A Review
 author: Fazal
 categories:
-- featured
 - writing
 - filmreview
 image: "/uploads/wildweb.gif"
 tags:
+- featured
 - filmreview
 
 ---
