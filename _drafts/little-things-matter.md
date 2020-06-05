@@ -26,3 +26,5 @@ I decided to do a post on environment day. There is a wide range of topics we ca
 **Be A Small Farmer:**                                                                                                                                          Most of us aren't accustomed to working in the soil. But, every once in a while, just think about where all our food stuffs come from. I think that having a meal grown from your backyard is a special feeling:) . Try it out. Plants help to clean and purify the air around your home too.
 
 ![](/uploads/markus-spiske-vrbzvyx2k4i-unsplash.jpg)
+
+**Reduce, Reuse and Recycle:**                                                                           The good old saying. This is something we can do everyday. Adopt reusing the plastics and disposables wherever possible. Recycle trash into beautiful crafts. 
