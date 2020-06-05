@@ -20,3 +20,9 @@ I decided to do a post on environment day. There is a wide range of topics we ca
 ![](/uploads/jasmin-sessler-5wfttm2cjei-unsplash.jpg)
 
 **Water IS Precious:**                                                                                               The biggest irony is that in this world there are two kinds of people-the ones who have more than enough and the ones who struggle to have something. We cannot always help the hungry and thirsty. But not wasting our resources and being more sensible is not something hard to ask for. So turn off that tap while brushing and do your own small part.
+
+![](/uploads/mrjn-photography-ypz2cj4s0oo-unsplash.jpg)
+
+**Be A Small Farmer:**                                                                                                                                          Most of us aren't accustomed to working in the soil. But, every once in a while, just think about where all our food stuffs come from. I think that having a meal grown from your backyard is a special feeling:) . Try it out. Plants help to clean and purify the air around your home too.
+
+![](/uploads/markus-spiske-vrbzvyx2k4i-unsplash.jpg)
