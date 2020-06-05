@@ -9,8 +9,6 @@ tags:
 - nature
 
 ---
-![By Fazal](/uploads/envday.jpg "illustration")
-
 It's yet another environment day.
 
 We see the once-in-a-year greenery posts and quotes everywhere, planting saplings and all the other cliches. A day where the environment is the hero. Now, I'm not saying that such a day is worthless. I just think that all the fuss we make on this day is not enough. And we must do what we can to carry this spirit throughout the year.
