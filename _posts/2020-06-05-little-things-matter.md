@@ -4,7 +4,7 @@ title: Little Things Matter
 author: Hiba
 categories:
 - environment
-image: ''
+image: "/uploads/envday.jpg"
 tags:
 - nature
 
