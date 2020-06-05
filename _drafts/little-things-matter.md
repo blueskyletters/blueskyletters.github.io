@@ -17,7 +17,7 @@ I decided to do a post on environment day. There is a wide range of topics we ca
 
 **Paper straws and cloth bags:**                                                                   Now you might think that just a single straw or cloth bag doesn't matter. But believe me, it does. **Be the change you wish to see in the world.** The ones who suffer most from plastic wastes are sea animals.
 
-![](/uploads/jasmin-sessler-5wfttm2cjei-unsplash.jpg)
+![](/uploads/meghan-rodgers-9zubyja2akk-unsplash.jpg)
 
 **Water IS Precious:**                                                                                               The biggest irony is that in this world there are two kinds of people-the ones who have more than enough and the ones who struggle to have something. We cannot always help the hungry and thirsty. But not wasting our resources and being more sensible is not something hard to ask for. So turn off that tap while brushing and do your own small part.
 
@@ -27,4 +27,12 @@ I decided to do a post on environment day. There is a wide range of topics we ca
 
 ![](/uploads/markus-spiske-vrbzvyx2k4i-unsplash.jpg)
 
-**Reduce, Reuse and Recycle:**                                                                           The good old saying. This is something we can do everyday. Adopt reusing the plastics and disposables wherever possible. Recycle trash into beautiful crafts. 
+**Reduce, Reuse and Recycle:**                                                                           The good old saying. This is something we can do everyday. Adopt reusing the plastics and disposables wherever possible. Recycle trash into beautiful crafts. Try to carry your own water bottle when you go out to avoid buying packaged drinking water.
+
+**Spread the word:**                                                                                              Now that you've come to know about the ways that we can make a difference, let others get the idea too. Help people to understand how each of them can contribute to making things better.
+
+**Donate:**                                                                                                                  If you are really into environment protection and want to do something in a bigger perspective, there are many organizations in the national and international level that you can help by donating money.
+
+Remember that nature sees everyone as equals. We humans only have the advantage of having a little more brain power than others. We are the first generation to realize that the earth is in danger and we may be the last generation that is able to do something about it.
+
+![](/uploads/johannes-plenio-6xua5kq9-1k-unsplash.jpg)
