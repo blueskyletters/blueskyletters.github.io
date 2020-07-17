@@ -4,7 +4,7 @@ title: The Kite Runner - A Review
 author: Hiba
 categories:
 - books
-image: ''
+image: "/uploads/img_2573.jpg"
 tags:
 - bookreview
 
