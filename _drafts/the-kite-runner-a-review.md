@@ -17,6 +17,10 @@ A coming-of-age story of an Afghan child Amir, The Kite Runner presents the chil
 
 What I liked most is the dramatic attempt of Amir to try and rescue an orphan from the cruel antagonist. The whole incident is so intense that I started praying for the  best to happen. In fact, the whole book is filled with such suspenseful incidents, some heart-breaking and some satisfying.
 
-The author plays with every emotion of the reader. The book never fails to move our hearts each time we read it. Though a long story giving the minutest of detail, the book grips its readers till the end. Unexpected plot twists and suspense keep the book lively and interesting.
+The author plays with every emotion of the reader, making one cry and smile while reading. The book never fails to move our hearts each time we read it. Though a long story giving the minutest of detail, the book grips its readers till the end. Unexpected plot twists and suspense keep the book lively and interesting.
+
+The book is so beautifully summed up that one cannot think of a more perfect ending for this heart-touching novel. 
+
+> > _A book that keeps every emotion high like a flying kite...._
 
 Goodreads Rating: 4.5/5    I     My Rating: 4.7/5
