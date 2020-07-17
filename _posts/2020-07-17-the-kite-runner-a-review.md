@@ -9,7 +9,7 @@ tags:
 - bookreview
 
 ---
-> _"For you, a thousand times over"_
+> **_For you, a thousand times over_**
 
 There are some books that tell a story with such intensity that the reader may have the feeling that the story is actually real. Narrating an unforgettable story of friendship, brotherhood, cowardice, sin, redemption, and guilt, Khaled Hosseini's talent as a story-teller is indeed praise worthy. The background of the novel is Afghanisthan in the 1970s-fall of Afghan monarchy, the refugee exodus and the rise of the Taliban.
 
@@ -21,6 +21,6 @@ The author plays with every emotion of the reader, making one cry and smile whil
 
 The book is so beautifully summed up that one cannot think of a more perfect ending for this heart-touching novel. 
 
-> > _A book that keeps every emotion high like a flying kite...._
+> _A book that keeps every emotion high like a flying kite...._
 
 Goodreads Rating: 4.5/5    I     My Rating: 4.7/5
