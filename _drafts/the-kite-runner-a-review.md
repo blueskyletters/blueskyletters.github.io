@@ -19,4 +19,4 @@ What I liked most is the dramatic attempt of Amir to try and rescue an orphan fr
 
 The author plays with every emotion of the reader. The book never fails to move our hearts each time we read it. Though a long story giving the minutest of detail, the book grips its readers till the end. Unexpected plot twists and suspense keep the book lively and interesting.
 
-> There is a way to be good again
+Goodreads Rating-4.5/5    I     My Rating-4.7/5
