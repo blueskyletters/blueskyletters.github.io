@@ -15,4 +15,12 @@ A very popular modern classic by Harper Lee, To Kill A Mockingbird narrates a co
 
 The most interesting aspect of this novel is that the whole story is narrated by an child. An eight year old child's perspective of the story does not diminish the meaningful themes of the novel in any way. The twists and turns in the lives of siblings Scout and Jem, their upbringing, typical childhood days etc, are all so interesting. The racial discrimination of the people is intertwined with their lives through a case taken up by their father Atticus Finch, who is a lawyer. This influences their lives.
 
-What I liked the most in the novel is undoubtedly the childhood adventures and experience of Scout and Jem. Scout is a girl who quickly became my favorite character. The children's curiosity about their neighbor Boo Radley and the subsequent incidents is specifically
+What I liked the most in the novel is undoubtedly the childhood adventures and experience of Scout and Jem. Scout quickly became my favorite character. She displays courage, curiosity and smartness. Ï never loved to read:one does not love breathing"is what Scout says about her reading. The children's curiosity about their neighbor Boo Radley and the subsequent incidents is specifically my favorite. 
+
+What I didn't much like about the book is that even though the ending was rightly crafted according to the beginning of the book, it wasn't much satisfying. There should have been a more precise, detailed and logical conclusion for the book. Nevertheless, it doesn't make the ending boring. 
+
+To Kill A Mocking Bird delves into the deep truth of human beings portrayed through characters in the town of Maycomb.
+
+There are some really beautiful quotes in the novel:
+
+_"Shoot all the bluejays you want, if you can hit'em but its a sin to kill a mockingbird"_
