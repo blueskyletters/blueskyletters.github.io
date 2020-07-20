@@ -19,7 +19,7 @@ The most interesting aspect of this novel is that the whole story is narrated by
 
 What I liked the most in the novel is undoubtedly the childhood adventures and experience of Scout and Jem. Scout quickly became my favorite character. She displays courage, curiosity and smartness. "I never loved to read; one does not love breathing" is what Scout says about her reading. The children's curiosity about their neighbor Boo Radley and the subsequent incidents is specifically my favorite.
 
-What I didn't much like about the book is that even though the ending was rightly crafted according to the beginning of the book, it wasn't much satisfying. There should have been a more precise, detailed and logical conclusion for the book. Nevertheless, it doesn't make the ending boring.
+What I didn't much like about the book is that even though the ending was rightly crafted according to the beginning of the book, it wasn't much satisfying. There should have been a more precise, detailed and logical conclusion for the book. Nevertheless, it doesn't make the ending boring. 
 
 To Kill A Mocking Bird delves into the deep truth of human beings portrayed through characters in the town of Maycomb.
 
