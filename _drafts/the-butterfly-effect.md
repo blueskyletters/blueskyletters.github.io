@@ -2,8 +2,9 @@
 layout: post
 title: The Butterfly Effect
 author: Hiba
-categories: []
-image: ''
+categories:
+- inspiration
+image: "/uploads/butterflyaqua"
 tags: []
 
 ---
