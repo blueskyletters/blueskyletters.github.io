@@ -14,7 +14,7 @@ The theory of the butterfly effect has been made popular through pop culture. It
 
 There are some minor things that act as catalysts to some major events. The butterfly theory is metaphorically explained as when a butterfly when flaps its wings will trigger a hurricane in another place. 
 
-More poetically, it signifies the emergence, the inevitable, the resonance between you andI and all of us. 
+More poetically, it signifies the emergence, the inevitable, the resonance between you and and all of us. But we could also just feel, I move my fingers here and you smile there; it is resonance, magical...
 
 While the human race thrives on control and predictability, the butterfly effect shows us that we, in fact, cannot predict the future. The complex universe around us is chaotic and vulnerable to even the smallest of changes. As humans, we can only identify catalysts that react to these conditions. However, if we try to control or predict outcomes, more often than not, it will result in failure.
 
