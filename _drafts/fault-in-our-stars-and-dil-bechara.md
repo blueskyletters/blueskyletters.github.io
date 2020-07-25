@@ -24,6 +24,8 @@ Everything about the movie is awesome; the setting, the actors, the dialogues...
 
 _Dil Bechara_, on the other hand, will go down in cinema history not because of what it contains; as for the fact that it brings the curtain down on the career of a talented young actor.
 
+![](/uploads/83557235fb962ad45ab0f47b2a9bedc0.jpg)
+
 Some quotes from the book:
 
 “My thoughts are stars I cannot fathom into constellations.”
