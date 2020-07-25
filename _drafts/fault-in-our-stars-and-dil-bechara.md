@@ -23,3 +23,15 @@ _Seri? Seri._                                                                   
 Everything about the movie is awesome; the setting, the actors, the dialogues...
 
 _Dil Bechara_, on the other hand, will go down in cinema history not because of what it contains; as for the fact that it brings the curtain down on the career of a talented young actor.
+
+Some quotes from the book:
+
+“My thoughts are stars I cannot fathom into constellations.”
+
+“You don't get to choose if you get hurt in this world...but you do have some say in who hurts you. I like my choices.”
+
+“Some infinities are bigger than other infinities.”
+
+“The world is not a wish-granting factory.”
+
+“Grief does not change you, Hazel. It reveals you.”
