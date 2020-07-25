@@ -16,4 +16,10 @@ I read this book long ago. I remembered it now after watching the movie _Dil Bec
 
 I'm not giving a book review because it really isn't necessary. Many of you have either read the book or watched the Hollywood movie. The thing is, I had the temptation to write something about it after watching that movie. 
 
-Like any and every Fault in Our Stars adaptation, the movie left me in tears, obviously. What made the movie even more sad is the fact that Sushant Singh Rajput will not be seen on screen again. 
+Like any and every Fault in Our Stars adaptation, the movie left me in tears, obviously. What made the movie even more sad is the fact that Sushant Singh Rajput will not be seen on screen again. The movie was funny, touching, romantic and emotional. 
+
+_Seri? Seri._                                                                                          The Indian version of the epic dialogue _okay?okay_ earned our hearts instantly. 
+
+Everything about the movie is awesome; the setting, the actors, the dialogues...
+
+_Dil Bechara_, on the other hand, will go down in cinema history not because of what it contains; as for the fact that it brings the curtain down on the career of a talented young actor.
