@@ -36,4 +36,6 @@ Some quotes from the book:
 
 “The world is not a wish-granting factory.”
 
+“It's a metaphor, see: You put the killing thing right between your teeth, but you don't give it the power to do its killing.”
+
 “Grief does not change you, Hazel. It reveals you.”
