@@ -4,7 +4,7 @@ title: To Kill A Mockingbird- A Review
 author: Hiba
 categories:
 - books
-image: "/uploads/img_2608.jpg"
+image: "/uploads/img_2606-1.jpg"
 tags:
 - bookreview
 
