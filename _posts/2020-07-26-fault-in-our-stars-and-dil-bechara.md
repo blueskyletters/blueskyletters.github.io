@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Fault in Our Stars and Dil Bechara
+title: The Fault in Our Stars and Dil Bechara
 author: Hiba
 categories:
 - books
 - movies
-image: ''
+image: "/uploads/faultinoursky.PNG"
 tags:
 - bookreview
 
