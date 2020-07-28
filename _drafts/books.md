@@ -18,7 +18,8 @@ The sad thing is Amazon no longer delivers here...which I can't order books and 
 
 Which books are in your current reading list? Here are mine
 
-* 
+* Till the Last Breath
+* Things Fall Apart
 
  
 
