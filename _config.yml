@@ -8,51 +8,49 @@ disqus: 'blueskyfairblogger'
 email: 'blueskyfairblogger@gmail.com'
 mailchimp-list: 'http://eepurl.com/gYVEeb'
 
-include: ["_pages"]
+include: ['_pages']
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-authors:
-    Fazal:
-      name:           Fazal
-      site:           https://fazalilahi.github.io/
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Minimalist, designer, developer, love sketching and illustration drawings. I hope you like it!"
-      email:          fazalchemmengath@gmail.com
-      twitter:        
 
-    Hiba:
-      name:           Hiba
-      site:           https://blueskyletters.io/
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, love to explore new ideas and write on my morning coffee!"
-      email:          hibathu2016@gmail.com
-      twitter:    
-      
-  
+authors:
+  fazal:
+    name: Fazal
+    site: https://fazalilahi.github.io/
+    avatar: /assets/images/avatar1.jpg
+    bio: 'Minimalist, developer, love sketching and illustration drawings. I hope you like it!'
+    email: fazalchemmengath@gmail.com
+    twitter: https://twitter.com/ifazalcg
+
+  hiba:
+    name: Hiba
+    site: https://blueskyletters.io/
+    avatar: /assets/images/avatar2.jpg
+    bio: 'Blogger, love to explore new ideas and write on my morning coffee!'
+    email: hibathu2016@gmail.com
+    twitter: https://twitter.com/BlueSkyLetters
+
 # Defaults
 defaults:
-
   # all posts
   - scope:
-      path: "_posts"
+      path: '_posts'
     values:
       layout: post
-      author: sal
+      author: Fazal
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
-      path: "_pages"
+      path: '_pages'
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -60,7 +58,13 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
-
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]
