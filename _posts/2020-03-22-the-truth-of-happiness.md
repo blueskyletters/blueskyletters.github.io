@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Happiness?
-author: Hiba
+author: hiba
 categories:
 - Inspiration
 image: "/uploads/dawid-zawila-zb2vBaHYB2I-unsplash.jpg"
