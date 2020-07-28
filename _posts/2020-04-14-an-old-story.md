@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Old Story
-author: Hiba
+author: hiba
 categories:
 - writing
 image: "/uploads/IMG_20200414_140130.jpg"
