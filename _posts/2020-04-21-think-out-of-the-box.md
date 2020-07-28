@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Out of The Box
-author: Hiba
+author: hiba
 categories:
 - inspiration
 image: "/uploads/creativeday.gif"

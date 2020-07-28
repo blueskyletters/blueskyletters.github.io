@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Far From the Madding Crowd - Being an Introvert
-author: Hiba
+author: hiba
 categories:
 - personality
 image: "/uploads/keegan-houser--Q_t4SCN8c4-unsplash.jpg"
