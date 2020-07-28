@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Childhood Days
-author: Fazal
+author: fazal
 categories:
 - writing
 image: ''

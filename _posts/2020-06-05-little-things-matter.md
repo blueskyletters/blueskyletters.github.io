@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Little Things Matter
-author: Hiba
+author: hiba
 categories:
 - environment
 image: "/uploads/envday.jpg"
