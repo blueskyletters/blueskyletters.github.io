@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Butterfly Effect
-author: Hiba
+author: hiba
 categories:
 - inspiration
 image: "/uploads/butterflyaqua"
