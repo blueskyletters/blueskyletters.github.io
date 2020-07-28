@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Kite Runner - A Review
-author: Hiba
+author: hiba
 categories:
 - books
 image: "/uploads/img_2573.jpg"
