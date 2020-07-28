@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Into The Wild - A Review
-author: Fazal
+author: fazal
 categories:
 - writing
 - filmreview
