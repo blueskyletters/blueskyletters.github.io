@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducton to Blueskyletters
-author: Founders of Blueskyletters
+author: fazal
 categories:
 - about
 image: "/uploads/intro.png"

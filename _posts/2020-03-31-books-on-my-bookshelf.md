@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Books On my Bookshelf
-author: Hiba
+author: hiba
 categories:
 - reading
 - books

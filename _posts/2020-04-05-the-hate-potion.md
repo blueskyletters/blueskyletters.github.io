@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The HATE Potion
-author: Fazal
+author: fazal
 categories:
 - Inspiration
 image: "/uploads/child.PNG"

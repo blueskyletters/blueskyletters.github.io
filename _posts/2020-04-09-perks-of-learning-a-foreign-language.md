@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 5 Perks of Learning A New Language
-author: Hiba
+author: hiba
 categories:
 - writing
 image: "/uploads/helloquence-OQMZwNd3ThU-unsplash.jpg"

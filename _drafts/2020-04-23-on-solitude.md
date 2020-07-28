@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solitude
-author: Hiba
+author: hiba
 categories:
 - solitude
 - poem
