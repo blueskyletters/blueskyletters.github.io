@@ -10,3 +10,5 @@ tags:
 
 ---
 _A non-cliche love story_
+
+A story of love, heartbreaks and marriage, Indian author Jaishree Misra beautiful narration is nothing but a perfect romantic and coming-of-age novel. 
