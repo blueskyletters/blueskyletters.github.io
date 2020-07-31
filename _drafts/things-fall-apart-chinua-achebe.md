@@ -9,3 +9,6 @@ tags:
 - bookreview
 
 ---
+_A historical fiction_
+
+AS the names suggests, the novel has a tragic ending. What's unique about this book is that 
