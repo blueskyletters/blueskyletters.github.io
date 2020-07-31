@@ -20,3 +20,5 @@ What I liked the most is obviously being able to know about a different culture 
 The concept of masculinity and strength is very down rated. For example, Okonkwo describes very act of weakness and cowardice as "womanly". When his son fails to be as active as himself, he calls him a woman. He doesn't even realize that womwn are skilled even when he understands that his daughter Ezinma is more talented. Okonkwo frequently says, "I wish Ezinma were a girl". It seems to suggest that he secretly desires affectionate attachment with his actual sons, but avoids admitting it as he thinks that affectionate is equal to weakness. It is interesting to note that Okonkwo doesn’t wish that Ezinma were a boy because she exhibits desirable masculine traits; rather, it is their bond of sympathy and understanding that he values. Although women are not much valued in the village, their most holy priest is  awoman, Ekinza. Her prophecies and advices are highly valued by the men.
 
 In total, the novel is an interesting read, though sometimes we feel that it got a little monotonous.
+
+Goodreads rating: 3.7/5                     My Rating: 4/5
