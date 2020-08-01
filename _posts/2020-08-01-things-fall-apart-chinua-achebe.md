@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things Fall Apart - Chinua Achebe
+title: Things Fall Apart - A Review
 author: hiba
 categories:
 - books
@@ -9,7 +9,7 @@ tags:
 - bookreview
 
 ---
-_A Historical Fiction_
+_A Historical Fiction by Chinua Achebe_
 
 As the names suggests, the novel has a tragic ending. What's unique about this book is that the author clearly paints a picture of the African culture of the savages in Niger in simple language. He is successful in giving the readers an insight into the lives of the villagers in Umuofia by narrating the story of Okonkwo.
 
