@@ -4,7 +4,7 @@ title: Things Fall Apart - Chinua Achebe
 author: hiba
 categories:
 - books
-image: ''
+image: "/uploads/psx_20200801_120515.jpg"
 tags:
 - bookreview
 
