@@ -9,7 +9,7 @@ tags:
 - bookreview
 
 ---
-_A historical fiction_
+_A Historical Fiction_
 
 AS the names suggests, the novel has a tragic ending. What's unique about this book is that the author clearly paints a picture of the African culture of the savages in Niger in simple language. He is successful in giving the readers an insight into the lives of the villagers in Umuofia by narrating the story of Okonkwo.
 
