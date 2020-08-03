@@ -18,6 +18,8 @@ I'm not giving a book review because it really isn't necessary. Many of you have
 
 Like any and every Fault in Our Stars adaptation, the movie left me in tears, obviously. What made  even more sad is the fact that Sushant Singh Rajput will not be seen on screen again. Manny-Kizzie pair is just the perfect Indian substitute for the Hazel-Augustus pair. Just like the novel, the movie brings many funny and adorable situations and then plunges the audience into the tragedy leaving them in tears.
 
+The only thing that I think could have been better is that, there should have been more scenes in the first half, that is, in the happy part so that I could see some more of SSR on the screen. This move just made his loss even more sad. 
+
 _Seri? Seri._                                                                                          The Indian version of the epic dialogue _okay?okay_ earned our hearts instantly.
 
 Everything about the movie is awesome; the setting, the actors, the dialogues...
