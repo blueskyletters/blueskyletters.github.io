@@ -1,6 +1,7 @@
 # Site
 name: 'Blueskyletters'
-description: 'A creative blog.'
+description: 'Blueskyletters is a creative blog for lovers of art, books, poetry and more.
+Anything under the sky and beyond.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/blueskyletters.github.io'
