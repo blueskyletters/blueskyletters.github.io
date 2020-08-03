@@ -36,3 +36,5 @@ Their occurs a murder in the village. The culprits happened to be from another v
  His sickly daughter Ezinma falls unexpectedly ill and it is feared she may die but she later recovers. During a gun salute at Ezeudu's funeral, Okonkwo's gun accidentally explodes and kills Ezeudu's son. during a gun salute at Ezeudu's funeral, Okonkwo's gun accidentally explodes and kills Ezeudu's son. As a punishment. he and his family are sent into exile for seven years and his property are destroyed.
 
 #### Part 2:
+
+Okonkwo and his family are in exile in Mbanta, his mother's village. 
