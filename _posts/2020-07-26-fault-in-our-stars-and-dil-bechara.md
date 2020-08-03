@@ -14,9 +14,9 @@ _“ I fell in love the way you fall asleep: slowly, and then all at once.”_
 
 I read this book long ago. I remembered it now after watching the movie _Dil Bechara,_ the Hindi adaptation of Fault in Our Stars. As for the book, I can say that John Green succeeded in bringing out a very meaningful and heart-touching young adult novel. Hazel and Augustus will forever remain in our hearts till infinity.
 
-I'm not giving a book review because it really isn't necessary. Many of you have either read the book or watched the Hollywood movie. The thing is, I had the temptation to write something about it after watching _Dil Bechara._ 
+I'm not giving a book review because it really isn't necessary. Many of you have either read the book or watched the Hollywood movie. The thing is, I had the temptation to write something about it after watching _Dil Bechara._
 
-Like any and every Fault in Our Stars adaptation, the movie left me in tears, obviously. What made  even more sad is the fact that Sushant Singh Rajput will not be seen on screen again. The movie was funny, touching, romantic and emotional.
+Like any and every Fault in Our Stars adaptation, the movie left me in tears, obviously. What made  even more sad is the fact that Sushant Singh Rajput will not be seen on screen again. Manny-Kizzie pair is just the perfect Indian substitute for the Hazel-Augustus pair. Just like the novel, the movie brings many funny and adorable situations and then plunges the audience into the tragedy leaving them in tears.
 
 _Seri? Seri._                                                                                          The Indian version of the epic dialogue _okay?okay_ earned our hearts instantly.
 
