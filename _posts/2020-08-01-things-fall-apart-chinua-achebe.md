@@ -24,3 +24,9 @@ The concept of masculinity and strength is very down rated. For example, Okonkwo
 In total, the novel is an interesting read, though sometimes I felt that it got a little monotonous.
 
 Goodreads rating: 3.7/5                     My Rating: 4/5
+
+## Summary (with spoilers)
+
+The novel is divided into three parts.
+
+Part 1 :                                                                                                                          Okonkwo is a famous wrestler in the village of Okonkwo. He is famous across lands for his strength, hardworking nature and fierce masculinity. His father Unoka was a very lazy man who died a shameful death with many unpaid debt. He wasn't even given the honour of a proper burial. Okonkwo detested his father and put in a lot of effort to erase the shameful legacy of his father. So, he started to work hard at a very young age and                                                                                         
