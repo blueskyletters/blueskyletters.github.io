@@ -37,4 +37,4 @@ Their occurs a murder in the village. The culprits happened to be from another v
 
 #### Part 2:
 
-Okonkwo and his family are in exile in Mbanta, his mother's village. 
+Okonkwo and his family are in exile in Mbanta, his mother's village. The Christian missionaries strated to arrive in the lands and establish churches. They acquire converts gradually and 
