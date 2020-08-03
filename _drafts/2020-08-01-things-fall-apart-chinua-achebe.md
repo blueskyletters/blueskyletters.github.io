@@ -37,4 +37,8 @@ Their occurs a murder in the village. The culprits happened to be from another v
 
 #### Part 2:
 
-Okonkwo and his family are in exile in Mbanta, his mother's village. The Christian missionaries strated to arrive in the lands and establish churches. They acquire converts gradually and 
+Okonkwo and his family are in exile in Mbanta, his mother's village. The Christian missionaries strated to arrive in the lands and establish churches. They acquire converts gradually and Okonkwo becomes worried about this. His son Nwoye becomes a convert and Okonkwo disowns him. During the ast years of exile, he prepares to back to Umuofia. He throws a huge feat for his kinsmen in Mbanta.
+
+#### Part 3:
+
+The Christian community gradually grows in the villages. Most of the converts are people who are regarded as outcasts by tribesmen and also women whose twins were killed. They decided to become Christians to have a position in the society.
