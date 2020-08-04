@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Guide - A Review
-author: R. K. Narayan
+author: hiba
 categories:
 - books
 image: "/uploads/psx_20200803_233035.jpg"
