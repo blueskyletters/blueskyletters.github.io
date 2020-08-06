@@ -25,7 +25,9 @@ On beauty, he says, "Outer beauty matters because it is the inner beauty visible
 
 On true love, he says, "And time will cease to exist because, in the land of true love, everything is infinite."
 
-Since there isn't a storyline, I don't have anything else to say about this book. If you like to read philosophical works that have a lot to ponder over, then I recommend this book.
+Since there isn't a storyline, I don't have anything else to say about this book. This book is definitely one you want to read slowly, think on its content, and keep in your minds apply to your life. It's a book you want to keep in your personal library and refer back to it.
+
+If you enjoy reading philosophical works that have a lot to ponder over, then I recommend this book. 
 
 Goodreads Rating 3.8/5         My rating 3/5
 
