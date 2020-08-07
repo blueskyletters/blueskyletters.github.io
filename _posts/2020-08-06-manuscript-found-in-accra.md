@@ -4,7 +4,7 @@ title: Manuscript Found In Accra
 author: hiba
 categories:
 - books
-image: "/uploads/psx_20200806_102409.jpg"
+image: "/uploads/manuscriptfoundinaccra-2.png"
 tags:
 - bookreview
 
