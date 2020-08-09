@@ -3,7 +3,7 @@ layout: post
 title: The World Through the Eyes of Books
 author: Hiba
 categories: []
-image: ''
+image: "/uploads/watermarked.png"
 tags:
 - bookworm
 - bibliophile
@@ -18,8 +18,9 @@ I always try to collect books from different countries. Reading them leaves me p
 
 THere are a lot of these kinds of books that I've read and many on my tbr. Here are just a few suggestions and some on my tbr:
 
-* The Kite Runner by Khaled Hosseini
-* Song Of A Captive Bird by Jasmin Darznik
-* 
+* The Kite Runner by Khaled Hosseini (Afghanistan)
+* Country of My Skull _By Antjie Krog (South Africa)_
+* Mornings in Jenin by Susan Abulhawa (Palestine)
+* Anna Karenina by Leo Tolstoy (Russia)
 
 I will keep on collecting books from other places. In fact, I have made a list of books from each country and will share it with you all later.
