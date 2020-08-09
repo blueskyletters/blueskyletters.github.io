@@ -23,4 +23,4 @@ There are a lot of these kinds of books that I've read and many on my tbr. Here 
 * Mornings in Jenin by Susan Abulhawa (Palestine)
 * Anna Karenina by Leo Tolstoy (Russia)
 
-I will keep on collecting books from other places. In fact, I have made a list of books from each country and will share it with you all later.
+Have you read books from other countries. Suggest me some good books in the comments below :)
