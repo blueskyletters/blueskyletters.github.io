@@ -16,7 +16,7 @@ I'm a person who loves to travel a lot. But, at the same time, I'm also the kind
 
 I always try to collect books from different countries. Reading them leaves me pondering on the place, dreaming of the landscapes and wondering about their unique traditions. The Andalusian places from _The Alchemist_, the villages of Nigeria from _Things Fall Apart_, Malgudi from R.K. Narayan's works, Afghanistan from _The Kite Runner,_ 20th century America from _The Great Gatsby....._ The list goes on and on. As for the different cultures, I could write endlessly...
 
-THere are a lot of these kinds of books that I've read and many on my tbr. Here are just a few suggestions and some on my tbr:
+There are a lot of these kinds of books that I've read and many on my tbr. Here are just a few suggestions and some on my tbr:
 
 * The Kite Runner by Khaled Hosseini (Afghanistan)
 * Country of My Skull _By Antjie Krog (South Africa)_
