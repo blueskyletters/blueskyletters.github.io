@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducton to Blueskyletters
+title: Introduction to Blueskyletters
 author: fazal
 categories:
 - about
@@ -13,7 +13,7 @@ tags:
 
 Hi there! Welcome to a blog with limitless ideas. We write and illustrate on any topics: relevant, just-for-fun, thoughtful, informative, inspiring and more.
 
-A canvas for colourful minds.
+A canvas for colorful minds.
 
 Art is a language that unites everyone.
 
