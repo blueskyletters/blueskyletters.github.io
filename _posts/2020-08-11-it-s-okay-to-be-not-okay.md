@@ -3,7 +3,7 @@ layout: post
 title: It's Okay to be Not Okay
 author: hiba
 categories: []
-image: ''
+image: "/uploads/depresionbluesky.jpg"
 tags:
 - depression
 - mental health
@@ -16,4 +16,8 @@ What is depression? Is it the same as sadness or gloom? The answer is no. Sadnes
 
 Let's talk statistics. According to WHO, one in four people in the world will be affected by mental disorders at some point in their lives. This probability is higher for women; which means that one in every five women we know in our lives may be suffering from depression or other disorders. It is surprising to know that such illness is very common among a population (more than ten million cases per year in India). Yet, the stigma around mental health is still large.
 
-If you feel that someone around you is showing symptoms of depression, do try to help them out and if someone is bold enough to speak up on their mental illness, do give them an ear, instead of neglecting it as a mere mood swing or petty issue. People who suffer from such illnesses face the problem of a lack of support from their surroundings. 
+![women are twice more prone to mental illness](/uploads/depression.jpg)
+
+If you feel that someone around you is showing symptoms of depression, do try to help them out and if someone is bold enough to speak up on their mental illness, do give them an ear, instead of neglecting it as a mere mood swing or petty issue. People who suffer from such illnesses face the problem of a lack of support from their surroundings. Do not say things such as "it's all in your head", "attention seeker" or "man up" to a depressed person. It's the worse you can do. Remember that you can never understand what such people are going through until you experience it yourself. 
+
+Always keep in mind that it's not your fault that you feel down, neither is it wrong. Take care of yourself. Try to find out what causes your anxiety and also try your own methods of helping yourself. Avoid toxic activities and relationships and never try to find solace in drugs. If the need arises, works reach out to loved ones and seek professional help. There is always a way out of adversity and never lose faith. The mind's problem can only be cured by the mind itself. 
