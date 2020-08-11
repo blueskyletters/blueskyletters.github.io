@@ -19,6 +19,10 @@ This is a heartrending story of love and family loyalty. The book brings out sig
 
 Janu impresses us with her extraordinary tolerance and perseverance. She reminds us of the many women we know in our lives. Her child and life's circumstances drive her to find an oasis for herself by defying social conventions. Determined to follow her heart rather than her mind, she gives up many things including her so-called "dignity". What else makes an awesome female character! Janaki has become my most recent favorite heroine from a book.
 
+Janaki reminds me of the typical Indian girl born into a middle-class family who starts a marriage life under the influence of her parents. Her opinions on extending marriage to few years later are not accepted and discarded with silly reasons. She anyway, accepts it without any grudges because she wants to make her parents happy and make amends for a mistake she did. Her situations are very much relatable. 
+
 I almost like everything about the book including the attractive cover design. An interesting fact about this book is that it's a semi-autobiography, as stated by the author herself.
+
+I could write on and on about this book. If you have read so far, tell me your opinion about this and have you read it yet?
 
 Goodreads rating: 3.8/5        My Rating: 4.5/5
