@@ -5,6 +5,7 @@ author: hiba
 categories: []
 image: "/uploads/depresionbluesky.jpg"
 tags:
+- personality
 - depression
 - mental health
 - motivation
