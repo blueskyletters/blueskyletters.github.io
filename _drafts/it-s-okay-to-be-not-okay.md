@@ -16,6 +16,4 @@ What is depression? Is it the same as sadness or gloom? The answer is no. Sadnes
 
 Let's talk statistics. According to WHO, one in four people in the world will be affected by mental disorders at some point in their lives. This probability is higher for women; which means that one in every five women we know in our lives may be suffering from depression or other disorders. It is surprising to know that such illness is very common among a population (more than ten million cases per year in India). Yet, the stigma around mental health is still large.
 
-If you feel that someone around you is showing symptoms of depression, do try to help them out and if someone is bold enough to speak up on their mental illness, do give them an ear, instead of neglecting it as a mere mood swing or petty issue. People who suffer from such illnesses
-
- face the problem of a lack of support from their surroundings. 
+If you feel that someone around you is showing symptoms of depression, do try to help them out and if someone is bold enough to speak up on their mental illness, do give them an ear, instead of neglecting it as a mere mood swing or petty issue. People who suffer from such illnesses face the problem of a lack of support from their surroundings. 
