@@ -14,4 +14,4 @@ Nowadays, mental health hashtags have been trending. People are finally beginnin
 
 What is depression? Is it the same as sadness or gloom? The answer is no. Sadness is caused by an external situation while depression may be caused by the fluctuation of hormones, genetic causes, or others. Sometimes, the person may not even know the cause of it. It's a feeling of emptiness, no longer being able to enjoy your favorite things, increasing feelings of hopelessness, loss of appetite and sleep...Anyway, the cause and symptoms of mental health disorders are something we should know about from professionals.
 
-Let's talk statistics. According to WHO, one in four people in the world will be affected by mental disorders at some point in their lives.
+Let's talk statistics. According to WHO, one in four people in the world will be affected by mental disorders at some point in their lives. This probability is higher for women; which means that one in every five women we know in our lives may be suffering from depression or other 
