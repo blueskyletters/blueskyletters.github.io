@@ -11,7 +11,7 @@ tags:
 ---
 _A contemporary young adult fiction, narrating a unique friendship story_
 
-_My rating; 3/5_
+_Author: Arjun Nath |  My rating; 3/5_
 
 First of all, let's take a moment to appreciate the cover page design. It's my favorite one yet! 
 
