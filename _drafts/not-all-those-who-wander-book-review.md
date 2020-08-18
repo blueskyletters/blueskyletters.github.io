@@ -17,4 +17,4 @@ First of all, let's take a moment to appreciate the cover page design. It's my f
 
 _Not All Those Who Wander_ is a tale of millennial friendship.  The plot is unique and out of the ordinary, which is why I liked it. It doesn't have any cliched touches. Millennials who live an urban life can definitely relate to this book. Eram and Gehna, the central characters, are two teenagers from different social backgrounds, living in the same city- Mumbai. Their common miseries unite them as best friends. Both of them share a bond, which they later understand as very complicated.
 
-Coming to the writing style; it's simple and elegant with a touch of adolescent slangs. A
+Coming to the writing style; it's simple and elegant with a touch of adolescent slangs. Although it has the young-adult style language, it doesn't get corny like many other books of the same genre. In fact, the vocabulary used is good and I got a few new words from the book. 
