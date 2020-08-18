@@ -9,3 +9,4 @@ tags:
 - bookreview
 
 ---
+_A contemporary young adult fiction, narrating a unique friendship story_
