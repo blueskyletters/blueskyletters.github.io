@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Boy In the Striped Pyjama - Book Review
+title: The Boy In the Striped Pajamas - Book Review
 author: hiba
 categories: []
 image: ''
