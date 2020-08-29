@@ -4,7 +4,10 @@ title: The Boy In the Striped Pajamas - Book Review
 author: hiba
 categories: []
 image: ''
-tags: []
+tags:
+- book review
 
 ---
-The dark history of Hitler's Germany with genocides and concentration camps is familiar to us. In this novel, John Boyne narrates a story through the point-of-view of a nine-year-old boy, Bruno.  
+The dark history of Hitler's Germany is all too familiar to us. In this novel, John Boyne narrates a story through the point-of-view of a nine-year-old boy, Bruno. This novel made me re-imagine the cruelties inflicted upon the unfortunate residents of the concentration camps and how the privileged section of the society tried to ignore what happened at the death camps.
+
+Bruno is the son of a German commandant, who gets a promotion transfer to 'Out-with'(_Aushwitz)_. As the reading progresses, we find out that the year is 1943. Bruno is confused about all the changes and events happening around him partly because of his innocence and partly because he is ignorant about facts. He doesn't understand why there is a huge fence with barbed wire, why the people on the other side of the fence always wear blue and white striped pajamas, why they are always sad, why the soldiers shout at them. 
