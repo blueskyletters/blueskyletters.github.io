@@ -12,4 +12,10 @@ The dark history of Hitler's Germany is all too familiar to us. In this novel, J
 
 Bruno is the son of a German commandant, who gets a promotion transfer to 'Out-with'(_Aushwitz)_. As the reading progresses, we find out that the year is 1943. Bruno is confused about all the changes and events happening around him partly because of his innocence and partly because he is ignorant about facts. He doesn't understand why there is a huge fence with barbed wire, why the people on the other side of the fence always wear blue and white striped pajamas, why they are always sad, why the soldiers shout at them. Connecting the dots with history, we come to realize the gruesomeness of the situation.
 
-The story is narrated in the style of a fable. It reminded me of Orwell's _Animal Farm._ 
+The author writes a reassuring phrase at the end :
+
+_"Of course all this happened a long time ago and nothing like that could ever happen again... Not in this day and age"_
+
+The story is narrated in the style of a fable. The writing technique reminded me of Orwell's _Animal Farm;_ a historically relevant theme written in very simple narration, almost defying the seriousness of the theme. Grasping the true meaning is left to the readers' knowledge.
+
+My rating: 4/5
