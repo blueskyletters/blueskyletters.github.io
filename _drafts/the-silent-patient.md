@@ -14,7 +14,9 @@ _Book: The Silent Patient | Author: Alex Michaelides | Genre: Psychological thri
 
 Alicia Berenson is a renowned painter, but she's more popular for her notoriety; one night, Alicia shoots her beloved husband five times in the face and remains silent thereafter. Theo Faber, a forensic psychotherapist, is determined to make her speak and solve the mysteries behind the cold-blooded murder.
 
-You might wonder: what's the thrill in a murder story if you already know the killer? Well, _The Silent Patient_ is beyond just a murder mystery- it reveals the mysteries of the psyche, the strings of thoughts that lead to their actions, why notoriety is born in a mind, how true love transformed into murderous hate. The question till the plot twist is not 'who', it's **_'why'_**. Each page keeps us thinking and guessing the reason behind the cruel act. Initially, the narrator assures us that he knows all the answers and will reveal it gradually. From there, it's a heart-racing reading journey. 
+You might wonder: what's the thrill in a murder story if you already know the killer? Well, _The Silent Patient_ is beyond just a murder mystery- it reveals the mysteries of the psyche, the strings of thoughts that lead to their actions, why notoriety is born in a sane mind, how true love transformed into murderous hate....
+
+The question till the plot twist is not 'who', it's **_'why'_**. Each page keeps us thinking and guessing the reason behind the cruel act. Initially, the narrator assures us that he knows all the answers and will reveal it gradually. From there, it's a heart-racing reading journey. 
 
 Coming to the writing style: Michaelides adopted an unconventional writing style- shuffled between an unreliable narrator and Alicia's diary entries. What intensified the novel, even more, is the combination of a Greek Tragedy with the storyline. This was my favorite part of the writing style- a modern thriller with a touch of mythology. The cold, gloomy winter atmosphere and the dilapidated setting of _The Grove_ enhances the chilling experience- what's more 
 
