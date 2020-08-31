@@ -24,4 +24,4 @@ It is evident that the author has done a very good job of researching on psychol
 
 Overall, it was a fantastic experience- whatever a real thriller would do to us- chilling, enticing, anxious for the next page, and a firework but logical ending. 
 
-I would definitely recommend this to all the mystery, thriller lovers to there!
+I would definitely recommend this to all the mystery, thriller lovers there!
