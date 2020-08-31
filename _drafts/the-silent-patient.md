@@ -12,6 +12,6 @@ tags:
 ---
 _Book: The Silent Patient | Author: Alex Michaelides | Genre: Psychological thriller, Mystery_
 
-Alicia Berenson is a renowned painter, but she's more popular for her notoriety; one night, Alicia shoots her beloved husband five times in the face and remains silent thereafter. Theo Faber, a psychotherapist, decides to make her speak and solve the unanswered questions behind the murder.
+Alicia Berenson is a renowned painter, but she's more popular for her notoriety; one night, Alicia shoots her beloved husband five times in the face and remains silent thereafter. Theo Faber, a psychotherapist, is determined to make her speak and solve the mysteries behind the cold-blooded murder.
 
-The book thrills the audience through psychological info of the characters more than just the events. The 
+You might wonder: what's the thrill in a murder mystery if you already know the killer? Well, _The Silent Patient_ is beyond just a murder mystery- The question is not 'who', it's 'why'.
