@@ -22,7 +22,7 @@ plugins:
 authors:
   fazal:
     name: Fazal
-    site: https://blueskyletters.io/
+    site: https://blueskyletters.github.io/
     avatar: /assets/images/avatar1.jpg
     bio: 'Minimalist, developer, love sketching and illustration drawings. I hope you like it!'
     email: fazalchemmengath@gmail.com
@@ -30,10 +30,10 @@ authors:
 
   hiba:
     name: Hiba
-    site: https://blueskyletters.io/
+    site: https://blueskyletters.github.io/
     avatar: /assets/images/avatar2.jpg
     bio: 'Blogger, love to explore new ideas and write on my morning coffee!'
-    email: hibathu2016@gmail.com
+    email: hibathunaseer@gmail.com
     twitter: https://twitter.com/BlueSkyLetters
 
 # Defaults
