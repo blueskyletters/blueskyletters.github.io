@@ -3,7 +3,7 @@ layout: post
 title: The Silent Patient- Book Review
 author: hiba
 categories: []
-image: ''
+image: "/uploads/psx_20200901_120444.jpg"
 tags:
 - thriller
 - psychological novel
