@@ -20,15 +20,6 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  
-  hiba:
-    name: Hiba
-    site: https://blueskyletters.github.io/
-    avatar: /assets/images/avatar2.jpg
-    bio: 'Blogger, love to explore new ideas and write on my morning coffee!'
-    email: mailto:hibathunaseer@gmail.com
-    twitter: https://twitter.com/BlueSkyLetters
-    instagram: https://www.instagram.com/hiba__k_i/
 
    fazal:
     name: Fazal
@@ -38,6 +29,15 @@ authors:
     email: mailto:fazalchemmengath@gmail.com
     twitter: https://twitter.com/ifazalcg
     instagram: https://www.instagram.com/fazal__ilahi/
+  
+  hiba:
+    name: Hiba
+    site: https://blueskyletters.github.io/
+    avatar: /assets/images/avatar2.jpg
+    bio: 'Blogger, love to explore new ideas and write on my morning coffee!'
+    email: mailto:hibathunaseer@gmail.com
+    twitter: https://twitter.com/BlueSkyLetters
+    instagram: https://www.instagram.com/hiba__k_i/
 
 # Defaults
 defaults:
