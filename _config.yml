@@ -51,8 +51,8 @@ defaults:
       path: '_posts'
     values:
       layout: post
-      author: Fazal
-      avatar: /assets/images/avatar1.jpg
+      author: Hiba
+      avatar: /assets/images/avatar2.jpg
 
   # all pages
   - scope:
