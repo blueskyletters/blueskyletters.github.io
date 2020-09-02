@@ -20,14 +20,6 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  fazal:
-    name: Fazal
-    site: https://blueskyletters.github.io/
-    avatar: /assets/images/avatar1.jpg
-    bio: 'Minimalist, developer, love sketching and illustration drawings. I hope you like it!'
-    email: mailto:fazalchemmengath@gmail.com
-    twitter: https://twitter.com/ifazalcg
-
   hiba:
     name: Hiba
     site: https://blueskyletters.github.io/
@@ -35,7 +27,17 @@ authors:
     bio: 'Blogger, love to explore new ideas and write on my morning coffee!'
     email: mailto:hibathunaseer@gmail.com
     twitter: https://twitter.com/BlueSkyLetters
+    instagram: https://www.instagram.com/hiba__k_i/
+fazal:
+    name: Fazal
+    site: https://blueskyletters.github.io/
+    avatar: /assets/images/avatar1.jpg
+    bio: 'Minimalist, developer, love sketching and illustration drawings. I hope you like it!'
+    email: mailto:fazalchemmengath@gmail.com
+    twitter: https://twitter.com/ifazalcg
+    instagram: https://www.instagram.com/fazal__ilahi/
 
+  
 # Defaults
 defaults:
   # all posts
