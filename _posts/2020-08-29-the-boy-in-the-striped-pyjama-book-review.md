@@ -3,7 +3,7 @@ layout: post
 title: The Boy In the Striped Pajamas - Book Review
 author: hiba
 categories: []
-image: "/uploads/the-boy-in-the-striped-pajamas.png"
+image: ''
 tags:
 - books
 - book review
