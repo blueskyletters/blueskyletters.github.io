@@ -7,16 +7,38 @@
   <a class="nav-link" href="{{site.baseurl}}/authors-list.html">Creators</a>
 </li>
 
-<li class="nav-item">
-  <div class="dropdown">
-    More <i class="fas fa-caret-down"></i>
-    <div class="dropdown-content">
-      <a class="nav-link" href="{{site.baseurl}}/categories.html">Categories</a>
-      <a class="nav-link" href="{{site.baseurl}}/about.html">About</a>
-      <a class="nav-link" href="{{site.baseurl}}/contact.html">Contact</a>
-    </div>
+<li class="nav-item dropdown show">
+  <a
+    class="dropdown-toggle nav-link"
+    data-toggle="dropdown"
+    aria-expanded="false"
+    href="#"
+    >More</a
+  >
+  <div class="dropdown-menu" role="menu">
+    <a
+      class="dropdown-item"
+      role="presentation"
+      href="{{site.baseurl}}/categories.html"
+      >Categories</a
+    >
+    <a
+      class="dropdown-item"
+      role="presentation"
+      href="{{site.baseurl}}/about.html}"
+      target="_blank"
+      >About</a
+    >
+    <a
+      class="dropdown-item"
+      role="presentation"
+      href="{{site.baseurl}}/contact.html"
+      target="_blank"
+      >Contact</a
+    >
   </div>
 </li>
+
 <li class="nav-item">
   <a
     target="_blank"
