@@ -19,6 +19,8 @@ The author writes a reassuring phrase at the end :
 
 _"Of course all this happened a long time ago and nothing like that could ever happen again... Not in this day and age"_
 
+![](/uploads/john-boyne-ebook.png)
+
 The story is narrated in the style of a fable. The writing technique reminded me of Orwell's _Animal Farm;_ a historically relevant theme written in very simple narration, almost defying the seriousness of the theme. Grasping the true meaning is left to the readers' knowledge.
 
 My rating: 4/5
