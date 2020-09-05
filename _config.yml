@@ -4,10 +4,10 @@ description: 'Blueskyletters is a creative blog for lovers of art, books, poetry
 Anything under the sky and beyond.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/blueskyletters.github.io'
+baseurl: 'https://blueskyletters.github.io'
 disqus: 'blueskyfairblogger'
 email: 'blueskyfairblogger@gmail.com'
-mailchimp-list: 'http://eepurl.com/gYVEeb'
+mailchimp-list: 'https://eepurl.com/gYVEeb'
 
 include: ['_pages']
 permalink: /:title/
