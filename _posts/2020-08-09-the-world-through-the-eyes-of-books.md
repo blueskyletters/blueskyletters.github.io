@@ -2,7 +2,8 @@
 layout: post
 title: The World Through the Eyes of Books
 author: Hiba
-categories: []
+categories:
+- books
 image: "/uploads/watermarked.png"
 tags:
 - bookworm
