@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ancient Promises - A Review
+title: Ancient Promises - Book Review
 author: hiba
 categories:
 - books
