@@ -3,7 +3,8 @@ layout: post
 title: The Kite Runner - Book Review
 author: hiba
 categories:
-- book review
+- Bildungsroaman (coming-of-age)
+- books
 image: "/uploads/img_2573.jpg"
 tags:
 - bookreview
