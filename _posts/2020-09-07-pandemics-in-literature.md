@@ -2,7 +2,8 @@
 layout: post
 title: Pandemics In Literature
 author: hiba
-categories: []
+categories:
+- books
 image: "/uploads/pandemic-in-literature.jpg"
 tags: []
 
