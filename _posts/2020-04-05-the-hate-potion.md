@@ -3,7 +3,7 @@ layout: post
 title: The HATE Potion
 author: fazal
 categories:
-- Inspiration
+- writing
 image: "/uploads/child.PNG"
 tags: []
 
