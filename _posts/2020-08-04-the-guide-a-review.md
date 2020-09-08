@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Guide - A Review
+title: The Guide - Book Review
 author: hiba
 categories:
-- books
+- book review
 image: "/uploads/psx_20200803_233035.jpg"
 tags:
 - bookreview
