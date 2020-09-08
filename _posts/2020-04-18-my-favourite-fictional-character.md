@@ -3,8 +3,8 @@ layout: post
 title: An Evergreen Character - Anne Of Green Gables
 author: hiba
 categories:
+- Characters
 - books
-- writing
 image: "/uploads/\U0001F33A.jpg"
 tags:
 - books
