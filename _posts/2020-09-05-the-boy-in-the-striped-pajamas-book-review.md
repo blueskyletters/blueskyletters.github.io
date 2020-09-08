@@ -2,7 +2,9 @@
 layout: post
 title: The Boy In the Striped Pajamas - Book Review
 author: hiba
-categories: []
+categories:
+- Historical Fiction
+- books
 image: "/uploads/john-boyne-ebook.png"
 tags:
 - book review
