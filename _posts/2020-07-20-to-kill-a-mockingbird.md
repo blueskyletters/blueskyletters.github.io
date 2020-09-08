@@ -3,7 +3,8 @@ layout: post
 title: To Kill A Mockingbird- A Review
 author: hiba
 categories:
-- book review
+- Buildungsroman (coming-of-age)
+- books
 image: "/uploads/img_2606-1.jpg"
 tags:
 - bookreview
@@ -11,7 +12,7 @@ tags:
 ---
 > _"Shoot all the bluejays you want, if you can hit'em but its a sin to kill a mockingbird"_
 
-Goodreads rating : 4.3/5      My Rating : 4.5/5
+ My Rating : 4.5/5
 
 Another book with memorable characters and events.
 
