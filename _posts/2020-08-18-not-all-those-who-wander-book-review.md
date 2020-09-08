@@ -2,7 +2,9 @@
 layout: post
 title: Not All Those Who Wander- Book Review
 author: hiba
-categories: []
+categories:
+- Young Adult and Romance
+- books
 image: "/uploads/img_20200818_110801.jpg"
 tags:
 - bookworm
