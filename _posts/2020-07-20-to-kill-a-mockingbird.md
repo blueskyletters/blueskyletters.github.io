@@ -3,7 +3,7 @@ layout: post
 title: To Kill A Mockingbird- A Review
 author: hiba
 categories:
-- books
+- book review
 image: "/uploads/img_2606-1.jpg"
 tags:
 - bookreview
