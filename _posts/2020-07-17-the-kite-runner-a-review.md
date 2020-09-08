@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Kite Runner - A Review
+title: The Kite Runner - Book Review
 author: hiba
 categories:
-- books
+- book review
 image: "/uploads/img_2573.jpg"
 tags:
 - bookreview
