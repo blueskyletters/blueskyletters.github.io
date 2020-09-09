@@ -10,7 +10,7 @@ tags:
 - books
 
 ---
-Our literary experience is polished to its fineness only when we take our reading journey beyond the borders of our own state. 
+Our literary experience is polished to its fineness only when we take our reading journey beyond the borders of our own state.
 
 Translation is a huge boon for readers who aren't multilingual. Exploring regional writing introduces us to distinctive cultures, traditions and history. Besides, it’s good for the reader’s mind to have an occasional change in perspective, right?
 
@@ -18,9 +18,11 @@ Malayalam literature has carved itself a niche in the literary world through its
 
 Although it’s almost impossible to pick just five from the vast treasury of Keralite authors, here are some hand-picked titles that I would suggest, some on my TBR and some I've read:
 
+![](/uploads/malayalam_books.jpg)
+
 ##### 1. Goat Days (_Aadujeevitham_) by Benyamin
 
-Inspired by a true story, _Goat Days_ tells the story of the life of an abused migrant worker trapped in the Arabian deserts. It’s the kind of book that you get emotionally invested in; words that stir empathy, tensed plot twists and memorable characters. Pick this up only if you have the strength to bear a breath taking story.
+Inspired by a true story, _Goat Days_ tells the story of the life of an abused migrant worker trapped in the Arabian deserts. It’s the kind of book that you get emotionally invested in; words that stir empathy, tensed plot twists and memorable characters. Pick this up only if you have the strength to bear a breath-taking story.
 
 ##### 2. _Childhood Friend (Balyakalasakhi_) by V.M. Basheer
 
@@ -36,4 +38,4 @@ One of the most unforgettable works written in Malayalam, _Khasakkinte Ithihasam
 
 ##### 5. _The Ivory Throne: Chronicles of the House of Travancore_ by Manu. S. Pillai
 
-A historical non-fiction written in English, The Ivory Throne is a biography of Sethu Lekshmi Bhai covering her life during her reign in the House of Travancore. The title of the book itself got me hooked! If you have a keen interest on reading about the history of royal families, then this book is definitely for you!
+A historical non-fiction written in English, The Ivory Throne is a biography of Sethu Lekshmi Bhai covering her life during her reign in the House of Travancore. The title of the book itself got me hooked! If you have a keen interest in reading about the history of royal families, then this book is definitely for you!
