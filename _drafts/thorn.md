@@ -14,7 +14,7 @@ tags:
 ---
 _It is rare for someone who wants power to truly deserve it_
 
-Book: Thorn | Author: Intisar Khanani | Genre: Fantasy | Pages: 500 |
+Book: Thorn | Author: Intisar Khanani | Genre: Fantasy, Coming-of-Age | Pages: 500 |
 
 My Rating: 5/5
 
@@ -26,4 +26,8 @@ _Thorn_ is the re-telling of a Grimm's fairytale named _Goosegirl._ It doesn't m
 
 I am very thankful that I came across this book. It introduced me to a character that I will always remember. 
 
-Thorn, our princess and goosegirl, can be related to the typical teenage girl who is socially-awkward, struggling with identity crisis and self-doubt. She is kind and understanding, values friendship over luxuries. Her character is so genuine that we feel instant love for her. 
+Thorn or Alyrra, our princess and goosegirl, can be related to the typical teenage girl who is socially-awkward, struggling with identity crisis and self-doubt. She is kind and understanding, values friendship over luxuries. Her character is so genuine that we feel instant love for her. Though she is deeply betrayed by her family and peers, she shows courage and avoids other's sympathy. Her silence is her strength. Though, over time, Thorn is courageous enough to break her silence.
+
+Alyrra isn't one of those over-optimistic characters. She is, in every way, genuine. She trembles in fear when she faces danger, she cries when hurt, she is as confused as a puzzle....But her young heart won't give up. Each sad event that crushes her only builds up her courage. Instead of falling into the fallacies of the world, Alyrra opens her eyes to a new world, toiling her way to happiness. 
+
+I would like to consider _Thorn_ more of a 
