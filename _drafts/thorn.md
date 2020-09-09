@@ -12,3 +12,4 @@ tags:
 - book review
 
 ---
+_It is rare for someone who wants power to truly deserve it_
