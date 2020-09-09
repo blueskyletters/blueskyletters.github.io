@@ -30,4 +30,4 @@ Thorn or Alyrra, our princess and goosegirl, can be related to the typical teena
 
 Alyrra isn't one of those over-optimistic characters. She is, in every way, genuine. She trembles in fear when she faces danger, she cries when hurt, she is as confused as a puzzle....But her young heart won't give up. Each sad event that crushes her only builds up her courage. Instead of falling into the fallacies of the world, Alyrra opens her eyes to a new world, toiling her way to happiness. 
 
-I would like to consider _Thorn_ a novel in the coming-of-age genre, more than just a fantasy novel. It's the story of the gradual maturity of Princess Alyrra, through her various adventures. 
+I would like to consider _Thorn_ a novel in the coming-of-age genre, more than just a fantasy novel. It's the story of the gradual maturity of Princess Alyrra, her various adventures and the making of crucial life choices. We have much to learn from her: bravery, patience, friendship, love and silence are among the few.
