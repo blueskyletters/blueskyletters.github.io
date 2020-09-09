@@ -19,3 +19,5 @@ Book: Thorn | Author: Intisar Khanani | Genre: Fantasy | Pages: 500 |
 My Rating: 5/5
 
 For all the fantasy lovers: this book is a must-read. As for those of you who aren't much into fantasy, like me, this book may change your views on this genre.
+
+I must say, that as a debut author, Khanani has done a good job!
