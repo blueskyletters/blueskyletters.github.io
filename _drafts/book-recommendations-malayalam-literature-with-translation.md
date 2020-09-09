@@ -5,7 +5,7 @@ author: hiba
 categories:
 - Malayalam
 - books
-image: ''
+image: "/uploads/malayalam.jpg"
 tags:
 - books
 
