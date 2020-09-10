@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thorn
+title: Thorn- Book Review
 author: hiba
 categories:
 - Fantasy
