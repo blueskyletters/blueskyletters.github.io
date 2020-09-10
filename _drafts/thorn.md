@@ -30,6 +30,8 @@ Alyrra isn't one of those over-optimistic characters. She is, in every way, genu
 
 I would like to consider _Thorn_ a novel in the coming-of-age genre, more than just a fantasy novel. It's the story of the gradual maturity of Princess Alyrra, her various adventures and the making of crucial life choices. We have much to learn from her: bravery, patience, friendship, love, silence...
 
-After finishing the 500-page book, I still felt that I hadn't gotten enough of Alyrra's story. I felt that the end is just the beginning... a new dawn on her life. I want to know about all the things she does as a princess, all the good changes that she'll bring when she rules, 
+After finishing the 500-page book, I still felt that I hadn't gotten enough of Alyrra's story. I felt that the end is just the beginning... a new dawn on her life. I want to know about all the things she does as a princess, all the good changes that she'll bring when she rules, the growing bond with Kestrin... 
 
-I must say, that as a debut author, Khanani has done a good job!
+If you've read this far, you probably got how much I loved this book. It will be the one I cherish always and recommend to many.
+
+I must say, that as a debut author, Khanani has done a fantastic job! Looking forward to more of her books.
