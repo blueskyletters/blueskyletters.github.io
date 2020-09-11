@@ -26,4 +26,6 @@ Dear Thorn, I want to know what changes you have brought in Menaiya; what you ha
 
 Your new life may seem very overwhelming. But remember that it was your choice, and not just your duty. Whenever you feel the burden of Power, remember Falada's words: It is rare for someone who desires power to truly deserve it. You are bound to feel overwhelmed, because you are much humble at heart than any others as you have experienced the life of the common people first-hand.
 
-Amidst the chaos of court life, I hope that you will find time to 
+Amidst the chaos of court life, I hope that you will find time to spend in the little forest that Kestrin created for you and with your old friends. I wonder who your new handmaidens are...
+
+I wish you and Kestrin a happy and long life together.
