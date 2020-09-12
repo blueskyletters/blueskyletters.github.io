@@ -5,7 +5,7 @@ author: hiba
 categories:
 - Characters
 - books
-image: ''
+image: "/uploads/thorn-blueskyletters.png"
 tags:
 - fantasy
 - letter
