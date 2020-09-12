@@ -5083,6 +5083,9 @@ button.bg-dark:focus {
 .bg-white {
   background-color: #fff !important; }
 
+.bg-lite-blueskyletters {
+  background-color: #D2EAFF !important; }
+
 a.bg-white:hover, a.bg-white:focus,
 button.bg-white:hover,
 button.bg-white:focus {
@@ -5137,12 +5140,12 @@ button.bg-orange:focus {
   background-color: #c89000 !important; }
 
 .bg-lightblue {
-  background-color: #e8f3ec !important; }
+  background-color: #D2EAFF !important; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
 button.bg-lightblue:focus {
-  background-color: #c6e2d0 !important; }
+  background-color: #BEE1FF !important; }
 
 .bg-white {
   background-color: #fff !important; }
