@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Guide - A Review
+title: The Guide - Book Review
 author: hiba
 categories:
 - books

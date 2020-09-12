@@ -3,6 +3,7 @@ layout: post
 title: Manuscript Found In Accra
 author: hiba
 categories:
+- Philosophy
 - books
 image: "/uploads/manuscriptfoundinaccra-2.png"
 tags:
@@ -30,5 +31,3 @@ Since there isn't a storyline, I don't have anything else to say about this book
 If you enjoy reading philosophical works that have a lot to ponder over, then I recommend this book. 
 
 Goodreads Rating 3.8/5         My rating 3/5
-
- 

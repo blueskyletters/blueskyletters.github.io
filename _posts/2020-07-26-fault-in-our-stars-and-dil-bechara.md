@@ -3,6 +3,8 @@ layout: post
 title: The Fault in Our Stars and Dil Bechara
 author: hiba
 categories:
+- Art
+- Young Adult and Romance
 - books
 - movies
 image: "/uploads/faultinoursky.PNG"

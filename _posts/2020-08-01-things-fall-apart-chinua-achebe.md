@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Things Fall Apart - A Review
+title: Things Fall Apart - Book Review
 author: hiba
 categories:
+- Historical Fiction
 - books
 image: "/uploads/psx_20200801_120515.jpg"
 tags:

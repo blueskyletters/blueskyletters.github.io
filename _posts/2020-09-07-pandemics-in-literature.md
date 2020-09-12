@@ -2,16 +2,15 @@
 layout: post
 title: Pandemics In Literature
 author: hiba
-categories: []
-image: ''
+categories:
+- books
+image: "/uploads/pandemic-in-literature.jpg"
 tags: []
 
 ---
 Pandemics In Literature
 
 _Sometimes, history and reality makes more sense when viewed through the eyes of fiction_
-
-Literature has always been a mirror of the society. That is why students of literature study a bit of historical background before learning about the literary contributions of an age. The political, social, and religious backgrounds of an era influences, not only literature but every artistic creation from paintings to drama to the cinema. Apart from that, many historical fictional pieces about events of the past are also written. Some far-sighted dystopian books create plots set in the distant future, with very extreme or subtle imagination.
 
 In my humble reading experience, I realized that sometimes, history makes more sense when viewed through the eyes of fiction. When a story set at a particular time is told, the reality of that age is laid down before the readers with raw emotions, describing the peculiarities of an era with great detail.
 
@@ -49,4 +48,4 @@ The Plague (_La Peste_) by French writer Albert Camus is an existentialist class
 
 In this satirical science fiction, the world is at the mercy of a deadly virus called the _Shen_ virus, which originates from China. It is also a tale of survival and has earned a lot of critical appreciation for its contemporary significance.
 
-Apart from these, there are abundant works written on the pandemic, and we can expect at least a few in the coming years. What we feel after reading them now may depend on our outlook: we may either feel skeptical or optimism that assures us that this too shall pass; God has always given man the strength and capacity to evolve and overcome the worst.
+Apart from these, there are abundant works written on the pandemic, and we can expect at least a few in the coming years. What we feel after reading them now may depend on our outlook: we may either feel skeptical or optimistic that assures us that this too shall pass; God has always given man the strength and capacity to evolve and overcome the worst.

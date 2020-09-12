@@ -2,7 +2,8 @@
 layout: post
 title: It's Okay to be Not Okay
 author: hiba
-categories: []
+categories:
+- inspiration
 image: "/uploads/depresionbluesky.jpg"
 tags:
 - personality
@@ -21,4 +22,4 @@ Let's talk statistics. According to WHO, one in four people in the world will be
 
 If you feel that someone around you is showing symptoms of depression, do try to help them out and if someone is bold enough to speak up on their mental illness, do give them an ear, instead of neglecting it as a mere mood swing or petty issue. People who suffer from such illnesses face the problem of a lack of support from their surroundings. Do not say things such as "it's all in your head", "attention seeker" or "man up" to a depressed person. It's the worse you can do. Remember that you can never understand what such people are going through until you experience it yourself. 
 
-Always keep in mind that it's not your fault that you feel down, neither is it wrong. Take care of yourself. Try to find out what causes your anxiety and also try your own methods of helping yourself. Avoid toxic activities and relationships and never try to find solace in drugs. If the need arises, works reach out to loved ones and seek professional help. There is always a way out of adversity and never lose faith. The mind's problem can only be cured by the mind itself. 
+Always keep in mind that it's not your fault that you feel down, neither is it wrong. Take care of yourself. Try to find out what causes your anxiety and also try your own methods of helping yourself. Avoid toxic activities and relationships and never try to find solace in drugs. If the need arises, works reach out to loved ones and seek professional help. There is always a way out of adversity and never lose faith. The mind's problem can only be cured by the mind itself.

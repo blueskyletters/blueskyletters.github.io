@@ -3,6 +3,7 @@ layout: post
 title: The Butterfly Effect
 author: hiba
 categories:
+- Art
 - inspiration
 image: "/uploads/butterflyaqua"
 tags: []

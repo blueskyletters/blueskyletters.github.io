@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Into The Wild - A Review
+title: 'Into The Wild '
 author: fazal
 categories:
-- writing
-- filmreview
+- Art
+- movies
 image: "/uploads/wildweb.gif"
 tags:
 - featured

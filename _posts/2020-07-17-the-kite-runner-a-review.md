@@ -1,8 +1,9 @@
 ---
 layout: post
-title: The Kite Runner - A Review
+title: The Kite Runner - Book Review
 author: hiba
 categories:
+- Buildungsroman (coming-of-age)
 - books
 image: "/uploads/img_2573.jpg"
 tags:
