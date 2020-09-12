@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Book Recommendations: Malayalam literature (with translation)'
+title: 'Book Recs: Malayalam literature (with translation)'
 author: hiba
 categories:
 - Malayalam
 - books
-image: "/uploads/malayalam.jpg"
+image: "/uploads/malayalam-2.jpg"
 tags:
 - books
 
@@ -17,8 +17,6 @@ Translation is a huge boon for readers who aren't multilingual. Exploring region
 Malayalam literature has carved itself a niche in the literary world through its unprecedented and ingenious narrative styles. Among the thresholds, one can find simplistic works, microcosmic narratives and unforgettable tales that never fail to captivate the readers.
 
 Although it’s almost impossible to pick just five from the vast treasury of Keralite authors, here are some hand-picked titles that I would suggest, some on my TBR and some I've read:
-
-![](/uploads/malayalam_books.jpg)
 
 ##### 1. Goat Days (_Aadujeevitham_) by Benyamin
 
