@@ -843,3 +843,21 @@ div.a2a_full_footer {
     height: 280px !important;
   }
 }
+@media (max-width: 992px) {
+  .jumbotron-home h1 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.1;
+  }
+}
+
+@media (max-width: 768px) {
+  .col-md-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .pr-3 {
+    padding-right: 0rem !important;
+  }
+}
