@@ -5,7 +5,7 @@ author: hiba
 categories:
 - Mythology
 - book review
-image: ''
+image: "/uploads/ahalya-satiseries.jpg"
 tags:
 - bookworm
 - bookreview
@@ -28,3 +28,5 @@ _"Love makes us look at life with a glittery sheen. Love makes you perceive beau
 _"Go woman, find your world yourself. The joy you seek deserves to be discovered"_
 
 _"Such is the voice of a teacher. It seeps into the mind through unseen pores and inspires the intelligence"_ 
+
+About the Photo: In the book, Ahalya receives a sari as a gift which is yellow in colour and has beetroot-violet borders. I attempted to recreate that sari with my mother's sari. Don't know if it turned out good, but it's fun clicking pictures that are inspired by the book itself.
