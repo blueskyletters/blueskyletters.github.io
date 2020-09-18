@@ -11,7 +11,13 @@ tags:
 - bookreview
 
 ---
-Book: Ahalya | Author: Koral Dasgupta | Genre: Mythology | Page: 204 | Rating: 5/5
+Book: Ahalya 
+
+Author: Koral Dasgupta
+
+Genre: Mythology
+
+Page: 204     Rating: 5/5
 
 Indian mythology is full of characters that surprise us with their lives and personalities. Women in Indian mythology have especially fascinated us; their unfair lives, their virtuous character, wisdom, beauty and the status they are given. They have played significant roles- as the divine mother, as a noble queen, as a holy sage, as a wise leader and as a cursed being...
 
