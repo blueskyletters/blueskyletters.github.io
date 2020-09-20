@@ -9,3 +9,10 @@ tags:
 - bookreview
 
 ---
+Book: All Your Little Lies
+
+Author: Marianne Holmes
+
+Genre: Thriller
+
+Rating: 3/5
