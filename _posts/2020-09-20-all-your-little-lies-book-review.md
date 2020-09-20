@@ -4,7 +4,7 @@ title: All Your Little Lies- Book review
 author: hiba
 categories:
 - book review
-image: ''
+image: "/uploads/all-your-little-lies.png"
 tags:
 - bookreview
 
