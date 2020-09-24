@@ -1,0 +1,59 @@
+---
+layout: post
+title: CHAOS
+author: hiba
+categories:
+- musings
+image: ''
+tags: []
+
+---
+Chaos is the new calm
+
+imperfection the new bliss
+
+unusual is the new normal
+
+chaos and chaos it is
+
+You are too young to grasp
+
+the complex universe
+
+for chaos constitute it
+
+chaos make it thrive
+
+The world is full of chaos
+
+chaos is the world
+
+You and me
+
+our hearts, one.
+
+Don't you know, dear
+
+you set alight in me
+
+the most beautiful of chaos?
+
+For that is why my dear
+
+we are meant to be.
+
+We found ourselves 
+
+in the chaos of us
+
+Do you know how intertwined
+
+our soul is?
+
+Sweet dear, let us hope
+
+our love won't drown
+
+in the chaos of the world
+
+Let us hope, pray.
