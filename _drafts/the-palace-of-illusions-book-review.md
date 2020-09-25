@@ -11,7 +11,7 @@ tags:
 ---
 > _The life you are living today is only a bubble in the cosmic stream..._
 
-Mythology has always been one of my favourite genres. Stories that narrate in the perspective of the women in Mythology are the best. The Palace of Illusions is one such beautiful story.
+Mythology has always been one of my favourite genres. Stories that narrate in the perspective of the women in Mythology are the best. The women characters are often overshadowed by ale heroes and their emotions are only expressed according to their husbands, brothers, fathers or sons. Though there are many powerful females in Indian mythology, we see very little of their part of the story. The Palace of Illusions is one such beautiful story.
 
 Draupadi, the most famous woman in Mahabharata is the central character of this novel. We see a new perspective of the epic through her eyes. The daughter of fire and her story is very skillfully told with all the right words and all the apt emotions. 
 
