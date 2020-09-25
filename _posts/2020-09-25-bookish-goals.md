@@ -18,3 +18,7 @@ Another one of my goals is to read more classics and children's fiction. I reall
 I set a goal to read more works written by women and works with female leads. This goal has seen good progress lately. Some of the women authors are Instisar Khanani, Jaishree Misra, Chitra Banerjee, etc. I also started reading memoirs by women, a genre I have avoided for a very long time.
 
 Reading books in your mother tongue is an exceptional experience. Another one of my goals was to read more Malayalam literature. I have been making slow and steady progress in this goal. 
+
+I have created some templates for genre checklists. You can find them on my Instagram highlights. 
+
+![](/uploads/genre-checlist.png)
