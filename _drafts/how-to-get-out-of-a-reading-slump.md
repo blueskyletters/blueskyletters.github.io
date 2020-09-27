@@ -39,4 +39,6 @@ Reading large books is the last thing you wanna do in a reading slump. If you do
 
 * **Try doing something else other than reading**
 
-  Remember that its totally okay if you stop reading for a while, even if you are a book blogger, bookstagrammer, or just a regular reader. Try doing something else that you love like gardening, cooking, drawing, or even sleeping. Also, another reason why you got into a slump is that maybe you are stressed out and cannot focus on reading, which is the thing you love to do the most. So try de-stressing by doing yoga or drinking coffee or whatever it is that reduces your stress.
+  Remember that its totally okay if you stop reading for a while, even if you are a book blogger, bookstagrammer, or just a regular reader. Try doing something else that you love like gardening, cooking, drawing, or even sleeping. Also, another reason why you got into a slump is that maybe you are stressed out and cannot focus on reading, which is the thing you love to do the most. So try de-stressing by doing yoga or drinking coffee or whatever it is that reduces your stress. You will get back to reading as soon as your mind is refreshed.
+
+Remember that reading slumps are very normal and every reader goes through them sometimes. 
