@@ -20,3 +20,10 @@ Reading large books is the last thing you wanna do in a reading slump. If you do
 
   This is a tried and tested method. Romantic and young adult novels are written in simple styles and have appealing plots. Reading such books are less likely to make you bored. Reading a children's classic is also effective. The childish and innocent stories may refresh your minds and encourage you to read more.
 * **Re-read a Favourite**
+
+  Raid that bookshelf and pick up an easy favourite read! It will surely make a difference. You already know the story so it’s okay if your attention span zone out for a bit while you read or if you decide to stop in the middle. The goal is to get back your reading flow.
+* **Read a Collection of Short Stories**
+
+  We often under-rate short stories. They are actually a set of very good literary works! Try reading some short-stories. You don't need to pay give in a lot of effort to read them and finish them quickly. This way, you can feel a bit productive and hopefully get back your flow.
+
+* 
