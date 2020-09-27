@@ -19,6 +19,6 @@ What interested me the most is the inclusion of Karna in the story. Karna is my 
 
 This book has made my love for mythology grow. Though every incident in this book may already be known to the reader as they are all from the Mahabharata, you won't be bored at all. This epic narrated by Draupadi, one of the most astounding women in mythology, is surely worth a read. 
 
-The writing style is fit for the narration of a story taken from an epic: lyrical, precise and bold. This is a must-read for all the mythology lovers.
+The writing style is fit for the narration of a story taken from an epic: lyrical, precise and bold. This charming book is a must-read for all the mythology lovers.
 
 _The pleasures that arise from sense-objects are bound to end and hence they are only sources of pain. Don't get attached to them._
