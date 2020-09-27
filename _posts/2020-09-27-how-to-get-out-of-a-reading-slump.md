@@ -4,7 +4,7 @@ title: How To Get Out of a Reading Slump
 author: hiba
 categories:
 - books
-image: ''
+image: "/uploads/books-flowers3.jpg"
 tags:
 - reading
 - books
