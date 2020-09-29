@@ -6806,12 +6806,12 @@ button.bg-dark:focus {
 .bg-litetop {
   background-image: linear-gradient(
     to bottom,
-    #d2eaff 0%,
-    white 100%
+    white 0%,
+    #d2eaff 100%
   ) !important;
 }
 .bg-litebottom {
-  background-image: linear-gradient(to top, #d2eaff 0%, white 100%) !important;
+  background-image: linear-gradient(to top, white 0%, #d2eaff 100%) !important;
 }
 
 a.bg-white:hover,
