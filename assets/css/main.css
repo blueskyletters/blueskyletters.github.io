@@ -667,6 +667,7 @@ pre code {
 .col-md-1,
 .col-md-2,
 .col-md-3,
+.col-md-list,
 .col-md-4,
 .col-md-featured,
 .col-md-5,
@@ -1051,7 +1052,7 @@ pre code {
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
   }
-  .col-md-3 {
+  .col-md-3, .col-md-list {
     flex: 0 0 25%;
     max-width: 25%;
   }
@@ -10016,6 +10017,7 @@ html {
 .col-md-1,
 .col-md-2,
 .col-md-3,
+.col-md-list,
 .col-md-4,
 .col-md-featured,
 .col-md-5,
@@ -10400,7 +10402,7 @@ html {
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
   }
-  .col-md-3 {
+  .col-md-3, .col-md-list {
     flex: 0 0 25%;
     max-width: 25%;
   }
