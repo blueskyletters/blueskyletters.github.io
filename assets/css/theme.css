@@ -865,8 +865,8 @@ div.a2a_full_footer {
     max-width: 33.33333%;
   }
   .col-md-list {
-    flex: 0 0 33.33333%;
-    max-width: 33.33333%;
+    flex: 0 0 100%;
+    max-width: 100%;
   }
   h4,
   .h4 {
