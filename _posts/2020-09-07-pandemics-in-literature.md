@@ -4,7 +4,7 @@ title: Pandemics In Literature
 author: hiba
 categories:
 - books
-image: "/uploads/pandemic-in-literature.jpg"
+image: ''
 tags: []
 
 ---
