@@ -3,9 +3,11 @@ layout: post
 title: 'The Ivory Throne: Book Review'
 author: hiba
 categories:
+- Historical non-fiction
 - book review
 image: ''
 tags:
+- History
 - royalty
 - Travancore
 - malayalam
