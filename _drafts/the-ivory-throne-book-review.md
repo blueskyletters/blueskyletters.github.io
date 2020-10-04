@@ -5,7 +5,7 @@ author: hiba
 categories:
 - Historical non-fiction
 - book review
-image: ''
+image: "/uploads/the-ivory-throne.png"
 tags:
 - History
 - royalty
