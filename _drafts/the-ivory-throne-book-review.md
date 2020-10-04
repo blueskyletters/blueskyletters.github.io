@@ -28,7 +28,7 @@ Sethu Lakshmi Bayi was an adopted child to the Travancore house, along with her 
 
 Sethu Lekshmi Bayi and her governance proves that women as rulers are definitely powerful, and even sometimes more capable than their male counterparts, just as history has proven.
 
-This book is an exhaustive piece on many Historically significant figures and events of Kerala. It also contains a number of anecdotes of the royal family members. Other than this, what amused me the most is the description of the many palaces scattered across Trivandrum. Satelmond, Kowdiyar, Halcyon and Lalindloch palace are some of the architectural marvels described in the book.
+This book is an exhaustive piece on many Historically significant figures and events of Kerala. It also contains a number of anecdotes of the royal family members. Other than this, what amused me the most is the description of the many palaces scattered across Trivandrum. Satelmond, Kowdiyar, Halcyon and Lalindloch palace are some of the architectural marvels described in the book. I really wish to visit those some day.
 
 The age of monarchy in Kerala is a time I wish that I could live in, if I were a time traveler. 
 
