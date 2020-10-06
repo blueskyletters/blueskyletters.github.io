@@ -16,7 +16,7 @@ tags:
 ---
 Royalty, palaces, a Queen, an erstwhile kingdom, a remarkable history...
 
-Actually, I don't know how to review this book perfectly, for it is a vast ocean of knowledge on History, focusing mainly on the life of a great woman, Sethu Lekshmi Bai, the last Maharani of Travancore. She ruled Travancore as a regent in the 20th century, bringing forth many bold reforms during her small tenure of seven years. Her wonderful personality and story of her life have made her my new favourite woman in History.
+Actually, I don't know how to review this book perfectly, for it is a vast ocean of knowledge on History, focusing mainly on the life of a great woman, Sethu Lekshmi Bai, the last Maharani of Travancore. She ruled Travancore as a regent in the 20th century, bringing forth many bold reforms during her small tenure of seven years. Her wonderful personality, achievements, and story of her life have made her my new favourite woman in History.
 
 The author has done very extensive research on the historical and political aspects of Kerala and India to write this novel. He has given the reference to the facts mentioned in the book in the notes section in about 100 pages! This book has a lot of details on the history of Kerala, though mostly on the royal family of Travancore, and the social conditions of the age, many of which I haven't heard of before.
 
@@ -41,3 +41,5 @@ Where not a single monument was made to honour this great woman, this writer mad
 I am so grateful for coming across this book for it instilled in me a love for my motherland, introduced a beautiful person, and also made me realize that my reading habits have finally matured and that  I can read a 700-page non-fiction book without getting bored!
 
 P. S: Heard that there are plans for a screen adaptation! So excited for this!
+
+![](/uploads/lalindloch-palace.jpg)
