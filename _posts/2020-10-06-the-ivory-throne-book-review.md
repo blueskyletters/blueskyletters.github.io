@@ -40,7 +40,7 @@ When I started reading, I was very doubtful about whether I would finish such a 
 
 Where not a single monument was made to honour this great woman, this writer made Sethu Lakshmi Bayi immortal with his words., preserving her historical significance for generations to come.
 
-I am so grateful for coming across this book for it instilled in me a love for my motherland, introduced a beautiful person, and also made me realize that my reading habits have finally matured and that  I can read a 700-page non-fiction book without getting bored!
+I am so grateful for coming across this book for it instilled in me a love for my motherland, introduced a beautiful person, and also made me realize that my reading habits have finally matured and that  I can read a 700-page non-fiction book without getting bored! I would definitely recommend this to all Malayalees, all those who love history and all feminists.
 
 P. S: Heard that there are plans for a screen adaptation! So excited for this!
 
