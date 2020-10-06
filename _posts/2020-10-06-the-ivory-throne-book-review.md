@@ -30,7 +30,7 @@ Sethu Lakshmi Bayi was an adopted child to the Travancore house, along with her 
 
 ![](/uploads/queen-of-travancore.jpg)
 
-Sethu Lekshmi Bayi and her governance proves that women as rulers are definitely powerful, and even sometimes more capable than their male counterparts, just as history has proven. She can be regarded as an early feminist, upholding the rights of women and teaching her girls to e independent.
+Sethu Lekshmi Bayi and her governance proves that women as rulers are definitely powerful, and even sometimes more capable than their male counterparts, just as history has proven. She can be regarded as an early feminist, upholding the rights of women and teaching her girls to be independent.
 
 This book is an exhaustive piece on many Historically significant figures and events of Kerala. It also contains a number of anecdotes of the royal family members. Other than this, what amused me the most is the description of the many palaces scattered across Trivandrum. Satelmond, Kowdiyar, Halcyon and Lalindloch palace are some of the architectural marvels described in the book. I really wish to visit those someday.
 
