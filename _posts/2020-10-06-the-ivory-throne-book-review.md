@@ -36,7 +36,7 @@ This book is an exhaustive piece on many Historically significant figures and ev
 
 The age of monarchy in Kerala is a time I wish that I could live in if I were a time traveler. It's strange that I haven't heard of these princesses before. They are unlike the cheesy stories of princesses waiting for their prince charming. They were strong, educated women with a Kingdom, army, and treasury. These are the kind of stories that young girls should be told.
 
-When I started reading, I was very doubtful about whether I would finish such a heavy book. But it swept me off my feet with its beautiful narration and significant details. Sethu Lekshmi Bayi has become one of the women in history I admire a lot. This book tells the story of generations of royalty and the societies at the time. The Ivory Throne is undoubtedly one of the best books I've read.
+When I started reading, I was very doubtful about whether I would finish such a heavy book. But it swept me off my feet with its beautiful narration and significant details. Sethu Lekshmi Bayi has become one of the women in history I admire a lot. This book tells the story of generations of royalty and the societies at the time. The Ivory Throne is undoubtedly one of the best books I've read. I was so touched by the book. I felt happy during her good times and sad when she faced all those injustices.
 
 The Ivory Throne is not just a biography; it is a revival of a very significant woman in history who would have been lost in the tide of time. Where not a single monument was made to honour this great woman, this writer made Sethu Lakshmi Bayi immortal with his words., preserving her historical significance for generations to come.
 
