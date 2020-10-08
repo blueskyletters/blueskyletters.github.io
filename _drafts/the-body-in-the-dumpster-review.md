@@ -13,3 +13,4 @@ tags:
 - bookreview
 
 ---
+_The Body in the Dumpster_ is a crime thriller short story that is part of the _Sinners and Secrets_ series. 
