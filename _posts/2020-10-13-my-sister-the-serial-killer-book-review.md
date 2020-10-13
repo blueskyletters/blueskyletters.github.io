@@ -5,7 +5,7 @@ author: hiba
 categories:
 - book review
 - books
-image: ''
+image: "/uploads/my-sister-the-serial-killer.jpg"
 tags: []
 
 ---
