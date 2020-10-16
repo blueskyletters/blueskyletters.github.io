@@ -24,3 +24,7 @@ In 33 pages, the book was enticing and suspenseful. I would say that it's a caps
 This story ends in a cliffhanger. I'm definitely looking forward to Raunak's and Samaira's next adventures.
 
 I would recommend this book to those who love suspense and crime. Also, try picking this up if you are going through a reading slump.
+
+You can buy the ebook [here](https://www.amazon.in/Murder-Woods-Shruti-Priyaa-ebook/dp/B08FDH3DV5/ref=sr_1_2?dchild=1&keywords=the+murder+in+the+woods&qid=1602814554&sr=8-2 "The Murder in the Woods") on Amazon.
+
+![](/uploads/the-murder-in-the-woods.jpg)
