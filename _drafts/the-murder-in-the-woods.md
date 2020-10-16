@@ -5,9 +5,9 @@ author: hiba
 categories:
 - short story
 - book review
-image: ''
+image: "/uploads/murder-in-the-woods.jpg"
 tags:
-- secrets and sins series
+- sinners and secrets series
 - bookreview
 
 ---
