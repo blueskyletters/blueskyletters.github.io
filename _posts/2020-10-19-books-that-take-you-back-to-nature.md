@@ -3,14 +3,14 @@ layout: post
 title: Books that Take You Back to Nature
 author: hiba
 categories: []
-image: ''
+image: "/uploads/books-and-nature.jpg"
 tags:
 - bookreview
 
 ---
 “That’s the thing about books. They let you travel without moving your feet” – Jhumpa Lahiri (The Namesake)
 
-I love reading books that emphasised on the little joys around us; those are the ones that still stay with me. There are many writers who have captured the essence of nature in pages. Such books are one of the most treasured ones that I possess. When we feel the need to escape the mundaneness of city life or the monotony of routine, reading such books is definitely refreshing. 
+I love reading books that emphasised on the little joys around us; those are the ones that still stay with me. There are many writers who have captured the essence of nature in pages. Such books are one of the most treasured ones that I possess. When we feel the need to escape the mundaneness of city life or the monotony of routine, reading such books is definitely refreshing.
 
 Here are 5 books I would suggest that has the richness of natural beauty in its pages:
 
@@ -20,11 +20,11 @@ This is one of my favourite novels. We are taken to the scenic village of Avonle
 
 #### The Secret Garden by Francis Hudson Burnette
 
-_The Secret Garden_ is one of those ever-green books that will be read by generations to come. Though it’s a children’s novel, it can be enjoyed by readers of all ages. The story and setting of this 1911 book, is mesmerizing, just like the title. The setting of the story is a mansion situated at the beautiful moors of London. 
+_The Secret Garden_ is one of those ever-green books that will be read by generations to come. Though it’s a children’s novel, it can be enjoyed by readers of all ages. The story and setting of this 1911 book, is mesmerizing, just like the title. The setting of the story is a mansion situated at the beautiful moors of London.
 
 #### Books by Ruskin Bond
 
-The famous nature writer from India, almost all of Ruskin Bond’s works centres around nature. He published his first book when he was just 17. The stories are very simple, touching our hearts with the humble storylines. _The Blue Umbrella_ and _The Room On the Roof_ are two of his books that I really loved. Bond derives inspiration from his childhood life in Dehradun and weaves it into stories.  His stories are always admirable, with its innocent characters and meaningful plots. 
+The famous nature writer from India, almost all of Ruskin Bond’s works centres around nature. He published his first book when he was just 17. The stories are very simple, touching our hearts with the humble storylines. _The Blue Umbrella_ and _The Room On the Roof_ are two of his books that I really loved. Bond derives inspiration from his childhood life in Dehradun and weaves it into stories.  His stories are always admirable, with its innocent characters and meaningful plots.
 
 #### Where the Crawdads Sing by Delia Owens
 
