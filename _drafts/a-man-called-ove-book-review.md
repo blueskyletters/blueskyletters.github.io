@@ -8,3 +8,4 @@ image: ''
 tags: []
 
 ---
+"A world where one becomes outdated before one's time is up."
