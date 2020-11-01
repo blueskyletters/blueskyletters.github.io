@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Al Arabian Novel Factory- Book Review
 author: hiba
 categories:
@@ -17,6 +17,6 @@ Book: Al Arabian Novel Factory | Author: Benyamin | pages: 376 | language: Malay
 
 Al Arabian Novel Factory by Benyamin is the twin novel of Jasmine Days, the JCB Award Winning book of the same author. Prathap, a journalist, arrives in an Arabian city for a strange novel project along with three of his colleagues. Although the city is unnamed in this book, it is described as a place between Saudi Arabia and Iran. This book is a collection of different experiences of different kinds of people from this tumultuous Arab city through the point-of-view of Prathap.
 
-Though the book is quite lengthy and includes many historical and geographical references, I never felt bored; because it was narrated skillfully, with a strong yet lucid style of writing. The characters in it were unique, very realistic, and kept me wondering more about them.  The book attempts to portray the events during and after the Jasmine revolution. We can see that the book is well researched- details gathered from historical events, Islamic texts and anecdotes of people from the Arab countries.
+Though the book is quite lengthy and includes many historical and geographical references, I never felt bored; because it was narrated skillfully, with a strong yet lucid style of writing. And Prathap's search for Jasmine added to the anticipation, making it a real page turner. The characters in it were unique, very realistic, and kept me wondering more about them.  The book attempts to portray the events during and after the Jasmine revolution. We can see that the book is well researched- details gathered from historical events, Islamic texts and anecdotes of people from the Arab countries.
 
 Anyone who read Benyamin's _Aadujeevitham_(Goat Days) would be familiar with his heart-touching characters and intense emotions that he portrays through his lucid writing style. He brings out the bitterness and harsh realities very frankly. There is a certain simplicity that captured me, yet the seriousness of the theme wasn't lost. That is why I think Benyamin is a writer who writes for everyone. 
