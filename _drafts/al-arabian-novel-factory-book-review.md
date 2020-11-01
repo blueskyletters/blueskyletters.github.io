@@ -24,3 +24,5 @@ There is a banned novel mentioned in this book, which plays a major role in the 
  _We can se_e that the book is well researched- details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
 
 Anyone who read Benyamin's _Aadujeevitham_(Goat Days) would be familiar with his heart-touching characters and intense emotions that he portrays through his lucid writing style. He brings out the bitterness and harsh realities very frankly. There is a certain simplicity that captured me, yet the seriousness of the theme wasn't lost. That is why I think Benyamin is a writer who writes for everyone. 
+
+If you are interested in historical fiction or want to read about Arab countries, without a biased opinion. 
