@@ -3,6 +3,7 @@ layout: post
 title: Al Arabian Novel Factory- Book Review
 author: hiba
 categories:
+- Historical Fiction
 - malayalam
 - book review
 image: "/uploads/al-arabian-novel-factory.jpg"
