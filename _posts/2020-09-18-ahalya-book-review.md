@@ -3,10 +3,12 @@ layout: post
 title: Ahalya- Book Review
 author: hiba
 categories:
+- featured
 - Mythology
 - book review
 image: "/uploads/ahalya-satiseries.jpg"
 tags:
+- featured
 - bookworm
 - bookreview
 
