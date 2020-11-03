@@ -13,7 +13,7 @@ tags:
 - bookreview
 
 ---
-A very interesting Historical fiction, focusing on the Jasmine Revolution of the Gulf Peninsula.
+A very interesting historical fiction, focusing on the Jasmine Revolution of the Gulf Peninsula.
 
 Book: Al Arabian Novel Factory | Author: Benyamin | pages: 376 | Language: Malayalam( English translation available) | Genre: Historical Fiction
 
