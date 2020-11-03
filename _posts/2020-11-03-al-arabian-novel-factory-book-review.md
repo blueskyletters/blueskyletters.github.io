@@ -23,10 +23,12 @@ Though the book is quite lengthy and includes many historical and geographical r
 
 There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days_
 
-_We can se_e that the book is well researched- details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
+We can see that the book is well-researched details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
 
 Anyone who read Benyamin's _Aadujeevitham_(Goat Days) would be familiar with his heart-touching characters and intense emotions that he portrays through his lucid writing style. He brings out the bitterness and harsh realities very frankly. There is a certain simplicity that captured me, yet the seriousness of the theme wasn't lost. That is why I think Benyamin is a writer who writes for everyone.
 
+I have understood that historical fiction is one of my preferred genre and I would like to read more in the future.
+
 If you are interested in historical fiction or want to read about Arab countries, without a biased opinion.
 
-N. B : Did you notice the cover page and back page of the book? Malayalam books don't usually have quotes from reviews of reviews (eg: "New York Times best-selling..." bla bla...) which tries to sell the book. It's simple and humble, I should say!
+N. B: Did you notice the cover page and back page of the book? Malayalam books don't usually have quotes from reviews (eg: "New York Times best-selling..." bla bla...) which tries to sell the book. It has no extra decorations, I should say, with just the title of the book, publisher and author. This is the ideal format of a book cover, I think. What do you think?
