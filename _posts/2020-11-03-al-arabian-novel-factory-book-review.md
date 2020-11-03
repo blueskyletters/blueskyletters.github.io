@@ -19,6 +19,8 @@ Book: Al Arabian Novel Factory  |  Author: Benyamin  |  pages: 376 |  Language: 
 
 Al Arabian Novel Factory by Benyamin is the twin novel of Jasmine Days, the JCB Award Winning book of the same author. Prathap, a journalist, arrives in an Arabian city for a strange novel project along with three of his colleagues. Although the city is unnamed in this book, it is described as a place between Saudi Arabia and Iran. This book is a collection of different experiences of different kinds of people from this tumultuous Arab city through the point-of-view of Prathap, focusing on the events of the Jasmine revolution.
 
+Something that fascinated me is the description of how a city is so different when viewed from the surface and the astonishing details we get when one delves deeper. How a city can transform people and vice-versa.
+
 Though the book is quite lengthy and includes many historical and geographical references, I never felt bored; because it was narrated skillfully, with a strong yet lucid style of writing. And Prathap's search for Jasmine, his lost lover, added to the anticipation, making it a real page-turner. The characters in it were unique, very realistic, and kept me wondering more about them.
 
 There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days_
