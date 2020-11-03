@@ -35,4 +35,4 @@ I have understood that historical fiction is a genre that really pleases my read
 
 If you are interested in historical fiction or want to read about Arab countries, without a biased point-of-view, I would recommend this to you!
 
-N. B: Did you notice the cover page and back page of the book? Malayalam books don't usually have quotes from reviews (eg: "New York Times best-selling..." bla bla...) which tries to sell the book. It has no extra decorations, I should say, with just the title of the book, publisher and author. This is the ideal format of a book cover, I think. What do you think?
+N. B: Did you notice the cover page of the book? Malayalam books don't usually have quotes from reviews (eg: "New York Times best-selling..." bla bla...) which tries to sell the book. It has no extra decorations, I should say, with just the title of the book, publisher and author. This is the ideal format of a book cover, I think. What do you think?
