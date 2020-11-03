@@ -27,7 +27,7 @@ We can see that the book is well-researched details gathered from historical eve
 
 Anyone who read Benyamin's _Aadujeevitham_(Goat Days) would be familiar with his heart-touching characters and intense emotions that he portrays through his lucid writing style. He brings out the bitterness and harsh realities very frankly. There is a certain simplicity that captured me, yet the seriousness of the theme wasn't lost. That is why I think Benyamin is a writer who writes for everyone.
 
-I have understood that historical fiction is one of my preferred genre and I would like to read more in the future.
+I have understood that historical fiction is a genre that really pleases my reading buds and I would like to read more in the future.
 
 If you are interested in historical fiction or want to read about Arab countries, without a biased opinion.
 
