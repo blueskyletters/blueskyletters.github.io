@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Al Arabian Novel Factory- Book Review
+title: Al- Arabian Novel Factory- Book Review
 author: hiba
 categories:
 - Historical Fiction
