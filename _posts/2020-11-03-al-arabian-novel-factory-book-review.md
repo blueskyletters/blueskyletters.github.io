@@ -23,7 +23,7 @@ Something that fascinated me is the description of how a city is so different wh
 
 Though the book is quite lengthy and includes many historical and geographical references, I never quite felt bored or overwhelmed by all the details; because it was narrated skillfully, with a strong yet lucid style of writing. 
 
-Prathap's search for Jasmine, his lost lover (the love which he describes as "one that got , added to the anticipation, making it a real page-turner. The characters in it were unique, very realistic, and kept me wondering more about them.
+Prathap's search for Jasmine, his lost lover (the love which he describes as "one that got etched into my bonemarrow"), added to the anticipation, making it a real page-turner. The characters in it were unique, very realistic, and kept me wondering more about them.
 
 There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days_
 
