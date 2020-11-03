@@ -27,7 +27,7 @@ Prathap's search for Jasmine, his lost lover (the love which he describes as "lo
 
 There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days._ At the end, the reader may feel that this book is a very long preface to _Jasmine Days._
 
-We can see that the book is well-researched- details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
+We can see that the book is well-researched: details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
 
 Anyone who read Benyamin's _Aadujeevitham_(Goat Days) would be familiar with his heart-touching characters and intense emotions that he portrays through his lucid writing style. He brings out the bitterness and harsh realities very frankly. There is a certain simplicity that captured me, yet the seriousness of the theme wasn't lost. That is why I think Benyamin is a writer who writes for everyone.
 
