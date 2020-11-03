@@ -25,7 +25,7 @@ Though the book is quite lengthy and includes many historical and geographical r
 
 Prathap's search for Jasmine, his lost lover (the love which he describes as "love that got etched on my bonemarrow"), was so properly blended with the plot, making the book a real page-turner. The characters in it were unique, very realistic, and kept me wondering more about them.
 
-There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days_
+There is a banned novel mentioned in this book, which plays a major role in the events of the story and puts the characters through a lot of trouble. This is the twin novel of this book- _Jasmine Days._ At the end, the reader may feel that this book is a very long preface to _Jasmine Days._
 
 We can see that the book is well-researched- details gathered from historical events, Islamic texts, and anecdotes of people from the Arab countries.
 
