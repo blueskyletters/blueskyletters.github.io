@@ -26,7 +26,7 @@ In total, the novel is an interesting read, though sometimes I felt that it got 
 
 Goodreads rating: 3.7/5                     My Rating: 4/5
 
-## Summary (with spoilers)
+## Summary
 
 The novel is divided into three parts.
 
