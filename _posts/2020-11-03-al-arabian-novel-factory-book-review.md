@@ -6,7 +6,7 @@ categories:
 - Historical Fiction
 - malayalam
 - book review
-image: "/uploads/al-arabian-novel-factory.jpg"
+image: "/uploads/resize-1605286249449209410alarabiannovelfactory.jpg"
 tags:
 - Translated
 - benyamin
