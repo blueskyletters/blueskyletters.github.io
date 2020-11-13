@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Far From the Madding Crowd - Being an Introvert
+title: Being an Introvert
 author: hiba
 categories:
 - personality
