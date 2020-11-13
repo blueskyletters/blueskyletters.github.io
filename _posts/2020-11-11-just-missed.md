@@ -4,7 +4,7 @@ title: Just Missed- Book Review
 author: hiba
 categories:
 - book review
-image: "/uploads/just-missed.jpg"
+image: "/uploads/justmissed.jpg"
 tags:
 - books
 - bookworm
