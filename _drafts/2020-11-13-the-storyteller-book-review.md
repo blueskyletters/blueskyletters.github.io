@@ -4,7 +4,7 @@ title: The Storyteller- Book Review
 author: hiba
 categories:
 - book review
-image: "/uploads/the-storyteller.jpg"
+image: ''
 tags:
 - book blog
 - books
