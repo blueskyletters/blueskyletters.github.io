@@ -23,8 +23,10 @@ Have you ever wondered how the life of a person with PTSD might be? How do their
 
 Within a few pages, the story hooked me- I grew fond of the characters and wanted to know more about their lives and also their thoughts. 
 
-The book follows an unconventional writing style- each chapter is named after one of the characters, who is the narrator of that particular chapter. I really liked this style because, in a single story, we come to know the perspectives of all the major characters. I also enjoyed the occassional extracts from the storyteller's diary entries, which were really pearls of wisdom.
+The book follows an unconventional writing style- each chapter is named after one of the characters, who is the narrator of that particular chapter. I really liked this style because, in a single story, we come to know the perspectives of all the major characters. I also enjoyed the occasional extracts from the storyteller's diary entries, which were really pearls of wisdom.
 
 I also liked the setting of the story- Fort Kochi, a place I really admire. This town has a special vintage touch to it.
 
 _The Storyteller_ is a book that reminded me that its not always the climax and story that matters and contributes to the suspense of a book; how well it is narrated, the originality of the characters, the writing style... These are the most important factors that determine a good book. And I can say that _The Storyteller_ has ticked all these boxes. I almost often come across good books but it's not everyday that I fall in love with one. The author has done a wonderful job in penning this story with such good craftsmanship.
+
+I would recommend this book to everyone who loves to read heart-touching and meaningful stories. Do share your thoughts with me if you've read it!
