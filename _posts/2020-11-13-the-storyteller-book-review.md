@@ -29,7 +29,7 @@ The book follows an unconventional writing style- each chapter is named after on
 
 I also liked the setting of the story- Fort Kochi, a place I really admire. This town has a special vintage touch to it.
 
-_The Storyteller_ is a book that reminded me that it's not always the climax and story that matters and contributes to the suspense of a book; how well it is narrated, the originality of the characters, the writing style... These are the most important factors that determine a good book. And I can say that _The Storyteller_ has ticked all these boxes. I almost often come across good books but it's not every day that I fall in love with one. The author has done a wonderful job in penning this story with such good craftsmanship.
+_The Storyteller_ is a book that reminded me that it's not always the climax and story that matters and contributes to the suspense of a book; how well it is narrated, the originality of the characters, the writing style... These are the most important factors that determine a good book. And I can say that _The Storyteller_ has ticked all these boxes. I almost often come across good books but it's not every day that I fall in love with one. The author has done a wonderful job in penning this story with such good craftsmanship. It's one of those books that are in the under-rated category and deserves more attention.
 
 I would recommend this book to everyone who loves to read heart-touching and meaningful stories. Do share your thoughts with me if you've read it!
 
