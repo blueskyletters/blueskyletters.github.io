@@ -6,7 +6,7 @@ categories:
 - Classics
 - book review
 - books
-image: ''
+image: "/uploads/pride-and-prejudice.jpg"
 tags:
 - classics
 - books
