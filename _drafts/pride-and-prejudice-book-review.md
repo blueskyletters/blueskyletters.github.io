@@ -15,3 +15,5 @@ tags:
 
 ---
 _A beautiful nineteenth-century classic, beautiful and perfect..._
+
+And so, I have finally read Pride and Prejudice, Jane Austen's most popular work. Two thoughts were in my mind before I started this book: That I am about to read a Classic that is cherished by many readers and second that I'm about to read a work by History's earliest accomplished female author. 
