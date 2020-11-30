@@ -18,7 +18,7 @@ There have been a number of real-life mysteries in the literary world, that have
 
 **The Author of Beowulf**
 
-_The literary world does not know the author of the greatest ancient epic in English language. This might be perhaps the greatest mystery for language-lovers._
+_The literary world does not know the author of the greatest ancient epic in the English language. This might be perhaps the greatest mystery for language-lovers._
 
 Beowulf is the oldest living poem in the English language. A poem written in the Old English dialect, it is believed to have been originally composed between the seventh century. With 3182 lines, Beowulf is a tale of revenge, tragic deaths, and morality. Set in 6th century Scandinavia, the story follows Beowulf, a hero of the Geats, and how he saves his kingdom from the monster Grendel. **This earliest English epic poem is a  product of imaginative genius; yet nobody knows who wrote it**. Most scholars believe that Beowulf was orally propagated and then written down centuries later. Many argue that perhaps Beowulf may have been written by a number of writers. The anonymous poet is referred to as the “Beowulf Poet”.
 
