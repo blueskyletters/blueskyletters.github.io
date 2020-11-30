@@ -46,8 +46,10 @@ Before Plath’s suicide in February 1963, she had been working on her second no
 
 _A strange,centuries-old manuscript in a strange language, whose purpose or origin no one knows..._
 
-An illustrated manuscript with writings from left to right, the Voynich manuscript is composed in an unknown, and possibly meaningless writing system. Despite the efforts of many professional and amateur code breakers, this manuscript has never been deciphered. The pages have been carbon-dated to the 15th century, possibly written during the Italian Renaissance. **In 240 pages of writings in a strange language, the meaning and origin of the Voynich manuscript continues to be a mystery to cryptographers and historians.** Many theories have been put forth regarding it- Some say it’s a medieval physical and mental health manual written in Latin shorthand by Dominican nuns for ladies of high society. Others claim that it's a system for viewing stars, used by the medieval English philosophers. Some theories state that it’s an enciphered version of an ancient text originally written in Old Cornish. There are even theories that it’s a complete hoax! 
+An illustrated manuscript with writings from left to right, the Voynich manuscript is composed in an unknown, and possibly meaningless writing system. Despite the efforts of many professional and amateur code breakers, this manuscript has never been deciphered. The pages have been carbon-dated to the 15th century, possibly written during the Italian Renaissance. **In 240 pages of writings in a strange language, the meaning and origin of the Voynich manuscript continue to be a mystery to cryptographers and historians.** Many theories have been put forth regarding it- Some say it’s a medieval physical and mental health manual written in Latin shorthand by Dominican nuns for ladies of high society. Others claim that it's a system for viewing stars, used by the medieval English philosophers. Some theories state that it’s an enciphered version of an ancient text originally written in Old Cornish. There are even theories that it’s a complete hoax! 
 
 What do you think about the above mysteries?
 
 Is there a fact which surprised you a lot, that you want to share with us? Drop it in the comments below!
+
+![](/uploads/48b30aa2514139b3e81d22ec8eff4be3.gif)
