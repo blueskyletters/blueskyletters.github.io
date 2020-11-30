@@ -27,3 +27,9 @@ Beowulf is the oldest living poem in the English language.A poem written in the 
 _One of the plays of William Shakespeare, the greatest playwright that ever lived, has been lost in the tides of time and shall never be retrieved._
 
 William Shakespeare, the greatest playwright in history, never published the plays that he wrote and performed. The 36 plays that he composed were published posthumously in the _First Folio_ by Shakespeare’s colleagues. But one of his plays was lost in the cracks of time- Cardenio. A pastoral tragic-comedy based on Don Quixote, it had been performed twice in London, as per records. Yet, any written copy does not exist. In the 17th century, Lewis Theobald, distinguished playwright, claimed to have discovered the manuscript of Cardenio and produced the play Double Falsehood. He never disclosed the original manuscript, which he stored in London’s Convent Garden Playhouse. This playhouse burned down in 1808. And so, Shakespeare’s Cardenio remains a lost play, a heart-breaking fact for all literary scholars.
+
+**The Death of Edgar Allan Poe**
+
+His death was as mysterious and horrifying as the tales he wrote
+
+On October 7 1849, Edgar Allan Poe, one of the greatest gothic writers, passed away. Three days before his death, Poe was found lying in the gutter in a state of delirium, wearing shabby clothes and gibbering. He couldn’t explain why he was there and what happened to him. Poe spent the next three days in the hospital, haunted by wild hallucinations and calling out the name of a person that nobody knew. **His death was as mysterious and horrifying as the tales he wrote**. Many theories were put forward on the death of this gothic writer- from murder, suicide, to drug abuse and diseases like rabies. To add to the mystery, all medical records of him vanished, if there were any.
