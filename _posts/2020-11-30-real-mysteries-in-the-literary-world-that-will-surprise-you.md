@@ -28,7 +28,7 @@ _One of the plays of William Shakespeare, the greatest playwright that ever live
 
 William Shakespeare, the greatest playwright in history, never published the plays that he wrote and performed. The 36 plays that he composed were published posthumously in the _First Folio_ by Shakespeare’s colleagues. **But one of his plays, _Cardenio_, got lost in the cracks of time**. A pastoral tragic-comedy based on Don Quixote, it had been performed twice in London, as per records. Yet, any written copy does not exist. In the 17th century, Lewis Theobald, distinguished playwright, claimed to have discovered the manuscript of Cardenio and produced the play Double Falsehood. He never disclosed the original manuscript, which he stored in London’s Convent Garden Playhouse. This playhouse burned down in 1808. And so, Shakespeare’s Cardenio remains a lost play, a heart-breaking fact for all literary scholars.
 
-![](/uploads/books1.jpg)
+![](/uploads/books2.jpg)
 
 **The Death of Edgar Allan Poe**
 
@@ -42,11 +42,13 @@ _The last manuscript of Sylvia Plath, one of the most loved figures in literatur
 
 Before Plath’s suicide in February 1963, she had been working on her second novel, titled _Double Exposure_. It is a fictionalized autobiography about an artist who discovers her husband has cheated. This unfinished manuscript vanished. None of her family members or colleagues knew its whereabouts. Had it been stolen or did Ted Hughes, Plath’s ex-husband, destroy it just as he burnt some of Plath’s journals? Once, it was claimed that the manuscript was discovered in the archives of a university in Georgia. Yet, this wasn’t confirmed. **Plath’s manuscript remains rather ghostly**. Was it stolen by kin? Is it lying undiscovered in a university archive? Still, there is hope, because her lost journals have been discovered recently.
 
+![](/uploads/books4.jpg)
+
 **The Voynich Manuscript**
 
 _A strange,centuries-old manuscript in a strange language, whose purpose or origin no one knows..._
 
-An illustrated manuscript with writings from left to right, the Voynich manuscript is composed in an unknown, and possibly meaningless writing system. Despite the efforts of many professional and amateur code breakers, this manuscript has never been deciphered. The pages have been carbon-dated to the 15th century, possibly written during the Italian Renaissance. **In 240 pages of writings in a strange language, the meaning and origin of the Voynich manuscript continue to be a mystery to cryptographers and historians.** Many theories have been put forth regarding it- Some say it’s a medieval physical and mental health manual written in Latin shorthand by Dominican nuns for ladies of high society. Others claim that it's a system for viewing stars, used by the medieval English philosophers. Some theories state that it’s an enciphered version of an ancient text originally written in Old Cornish. There are even theories that it’s a complete hoax! 
+An illustrated manuscript with writings from left to right, the Voynich manuscript is composed in an unknown, and possibly meaningless writing system. Despite the efforts of many professional and amateur code breakers, this manuscript has never been deciphered. The pages have been carbon-dated to the 15th century, possibly written during the Italian Renaissance. **In 240 pages of writings in a strange language, the meaning and origin of the Voynich manuscript continue to be a mystery to cryptographers and historians.** Many theories have been put forth regarding it- Some say it’s a medieval physical and mental health manual written in Latin shorthand by Dominican nuns for ladies of high society. Others claim that it's a system for viewing stars, used by the medieval English philosophers. Some theories state that it’s an enciphered version of an ancient text originally written in Old Cornish. There are even theories that it’s a complete hoax!
 
 What do you think about the above mysteries?
 
