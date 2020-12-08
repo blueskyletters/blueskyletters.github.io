@@ -5,7 +5,7 @@ author: hiba
 categories:
 - Thriller
 - book review
-image: ''
+image: "/uploads/the-woman-in-the-window.jpg"
 tags:
 - the woman in the window
 - psychological thriller
