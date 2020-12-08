@@ -26,3 +26,5 @@ The suspense element was maximum in the plot. It kept me guessing till the very 
 It is a very long narration and slow-paced at the beginning, through the PoV of Anna Fox, which is quite unusual for a thriller. But all the incidents mentioned at the beginning are all points that lead to the climax. When the book ends, we understand why the author was so specific about all the details. So, if you pick this book up, I would advise you to not lose faith and keep on reading. I felt that the writing style was very engaging; even Anna's mundane routine did not bore me.
 
 Why I did not give this book a five-star rating is because the concept and premise are not unique, as in _The Silent Patient_ and _Gone Girl_. A lot of books belonging to the psychological thriller genre have the same premise: unreliable female narrators who have unstable personalities and drug/alcohol abuse. So readers who are very familiar with this genre might not be impressed with The Woman in the Window. But as a person who hasn't much reading experience in the thriller genre, I found this book exciting!
+
+The movie adaptation will be out soon. Hoping to watch it!
