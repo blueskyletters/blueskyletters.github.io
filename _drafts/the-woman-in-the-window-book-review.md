@@ -19,7 +19,7 @@ I picked up _The Woman in the Window_ by A. J Finn when I craved to read a thril
 
 Here's a short synopsis:
 
-Anna Fox suffers from agoraphobia, an anxiety disorder, and always stays indoors. She spends her time observing her neighbours through the bedroom window. One day, Anna hears a frenzied scream and witnesses something horrible that she shouldn't have seen. She must do everything to uncover the truth. But being an alcoholic and with a very unstable mind, will anyone believe her? Can she even trust herself? The book also throws some light on mental health issues. 
+Anna Fox suffers from agoraphobia, an anxiety disorder, and always stays indoors. She spends her time observing her neighbours through the bedroom window. One day, Anna hears a frenzied scream and witnesses something horrible that she shouldn't have seen. She must do everything to uncover the truth. But being an alcoholic and with a very unstable mind, will anyone believe her? Can she even trust herself? The book also throws some light on mental health issues, and at instances even made me cry. 
 
 The suspense element was maximum in the plot. It kept me guessing till the very end! I won't say that the climax was mind-blowing or ground-breaking, but the book was definitely a page-turner. Each twist in the story(there were quite a few!) was more surprising than the previous ones.
 
