@@ -13,7 +13,7 @@ tags:
 ---
 _An outstanding read, with a classical myth on its head!_
 
-I picked up this book tempted by its beautiful cover and good reviews (but mostly the cover...), and I'm glad to say that the book turned out to be beautiful on the inside as well!
+I picked up this book tempted by its beautiful cover and good reviews about its "mindblowing classic myth reference"(but mostly the cover...), and I'm glad to say that the book turned out to be beautiful on the inside as well!
 
 To begin with, let me say that this book is the kind we can read every day. It's a very slow-paced book that mesmerized me with the story-telling abilities of the author. Till almost 40% of the book, I did not understand the plot and get the characters; but then things started falling in place.
 
@@ -21,4 +21,6 @@ What's the book about? Well, let's say that it's an eccentric tale of a woman na
 
 The book has a lot of imagery and supernatural elements. Daisy Johnson writes very well on the landscape, river, change in seasons, and other elements of natural affinity. The relationship between Gretel and her elderly mother is described in raw details.
 
-I would recommend this book to readers who love 
+I would recommend this book to readers who would like an extraordinary, not-so-simple read.
+
+P. S: If you start reading it, persist :)
