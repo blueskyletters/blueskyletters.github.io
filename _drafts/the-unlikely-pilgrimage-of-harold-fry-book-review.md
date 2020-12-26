@@ -32,10 +32,14 @@ _“If we don't go mad once in a while, there's no hope.”_
 
 _“You got up, and you did something. And if trying to find a way when you don't even know you can get there isn't a small miracle; then I don't know what is.”_
 
-“If we can't accept what we don't know, there really is no hope.”
+_“If we can't accept what we don't know, there really is no hope.”_
 
-“you could be ordinary and attempt something extraordinary, without being able to explain it in a logical way.”
+_“You could be ordinary and attempt something extraordinary, without being able to explain it in a logical way.”_
 
-“The least planned part of the journey, however, was the journey itself.”
+_“The least planned part of the journey, however, was the journey itself.”_
 
-“If I just keep putting one foot in front of the other, it stands to reason that I'm going to get there.”
+_“If I just keep putting one foot in front of the other, it stands to reason that I'm going to get there.”_
+
+_“The past was the past; there was no escaping your beginnings.”_
+
+_“The people he met, the places he passed, were all steps in his journey, and he kept a place inside his heart for each of them.”_
