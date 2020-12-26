@@ -5,7 +5,7 @@ author: hiba
 categories:
 - book review
 - books
-image: ''
+image: "/uploads/harold-fry-book.jpg"
 tags:
 - rachel joyce
 - the unlikely pilgrimage of harold fry
