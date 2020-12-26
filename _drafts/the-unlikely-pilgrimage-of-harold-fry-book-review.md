@@ -14,6 +14,8 @@ tags:
 ---
 _A highly thought-provoking and realistically charming book_
 
+> _“Beginnings could happen more than once, or in different ways.” -_Rachel Joyce, _The Unexpected Pilgrimage of Harold Fry_
+
 Before I go into the review, let me tell you how I discovered this book. I was mesmerized by the book _A Man Called Ove_ by Frederik Backman. Who wouldn't? A realistically heart-warming story that makes one cry and laugh at the same time. So I wanted to find a book that had such a simple yet powerfully beautiful story. Google gave me a couple of recommendations and _The Unlikely Pilgrimage of Harold Fry_ was one of them. If you loved Ove, then I would definitely recommend you to take a walk with Harold. 
 
 I loved the purity and unique beauty of this uplifting tale. At first I wondered how I could possibly get involved in this apparently absurd story.  But it was a quick read and full of pleasant surprises and many special moments. One fine morning, a retired old man Harold Fry sets out to post a letter to his old colleague and friend, Queenie, who suffers from a grave illness. But he spontaneously decides to head-off in her far away direction. And so Mr. Fry ends up setting out on a 500 mile walk to visit his friend. 
