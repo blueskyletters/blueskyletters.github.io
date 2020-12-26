@@ -12,7 +12,7 @@ tags:
 - bookreview
 
 ---
-_A highly thought-provoking and charming book_
+_A highly thought-provoking and realistically charming book_
 
 Before I go into the review, let me tell you how I discovered this book. I was mesmerized by the book _A Man Called Ove_ by Frederik Backman. Who wouldn't? A realistically heart-warming story that makes one cry and laugh at the same time. So I wanted to find a book that had such a simple yet powerfully beautiful story. Google gave me a couple of recommendations and _The Unlikely Pilgrimage of Harold Fry_ was one of them. If you loved Ove, then I would definitely recommend you to take a walk with Harold. 
 
