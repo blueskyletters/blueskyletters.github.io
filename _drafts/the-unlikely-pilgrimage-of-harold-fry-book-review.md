@@ -12,7 +12,7 @@ tags:
 - bookreview
 
 ---
-_A highly thought-provoking and realistically charming book_
+A fiction book that expresses the most complex life lessons in a subtle way
 
 > _“Beginnings could happen more than once, or in different ways.” -_Rachel Joyce, _The Unexpected Pilgrimage of Harold Fry_
 
