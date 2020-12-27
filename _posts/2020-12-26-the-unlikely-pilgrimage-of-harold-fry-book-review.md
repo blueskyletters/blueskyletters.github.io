@@ -14,7 +14,7 @@ tags:
 ---
 A heart-warming work of fiction with lots of wisdom
 
-> _“Beginnings could happen more than once, or in different ways.” -_Rachel Joyce, _The Unexpected Pilgrimage of Harold Fry_
+> _“If we don't go mad once in a while, there's no hope.”-_ Rachel Joyce, _The Unexpected Pilgrimage of Harold Fry_
 
 Before I go into the review, let me tell you how I discovered this book. I was mesmerized by the book _A Man Called Ove_ by Frederik Backman. Who wouldn't? A realistically heart-warming story that makes one cry and laugh at the same time. So I wanted to find a book that had such a simple, beautiful yet powerful story. Google gave me a couple of recommendations and _The Unlikely Pilgrimage of Harold Fry_ was one of them. If you loved Ove, then I would definitely recommend you to take a walk with Harold. 
 
@@ -36,9 +36,7 @@ At times, it felt like I was reading a non-fiction book with lots of valuable in
 
 Harold's journey is both physical and metaphorical. Here are some beautiful, untinted quotes on journeys, hope, faith and life.
 
-_“If we don't go mad once in a while, there's no hope.”_
-
-_“You got up, and you did something. And if trying to find a way when you don't even know you can get there isn't a small miracle; then I don't know what is.”_
+_“Beginnings could happen more than once, or in different ways.”_ 
 
 _“If we can't accept what we don't know, there really is no hope.”_
 
@@ -51,6 +49,8 @@ _“You could be ordinary and attempt something extraordinary, without being abl
 _“The least planned part of the journey, however, was the journey itself.”_
 
 _“If I just keep putting one foot in front of the other, it stands to reason that I'm going to get there.”_
+
+_“You got up, and you did something. And if trying to find a way when you don't even know you can get there isn't a small miracle; then I don't know what is.”_
 
 _“The past was the past; there was no escaping your beginnings.”_
 
