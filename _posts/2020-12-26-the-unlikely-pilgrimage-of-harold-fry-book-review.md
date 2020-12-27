@@ -26,11 +26,13 @@ I loved the purity and unique beauty of this uplifting tale. At first I wondered
 
 What I loved the most about this book is its simplicity; the hero is not a rich and good-looking guy...he's just a person with flaws like you and me; the plot isn't complicated and the author doesn't give you a hard time with unbreakable words. It's an unembellished story of an ordinary man who embarks on the journey of a lifetime. 
 
-_The Unexpected Pilgrimage of Harold Fry_ is an introspective story and deals with a lot of issues quietly. Rachel Joyce expresses the most complex life lessons in subtle ways. At times, it felt like I was reading a non-fiction book with lots of valuable insights. Such was its power- one of the few books that I felt has a great touch with reality and the bitter-sweet nature of life in general. It will strike a chord with lots of people. This is the kind of book that would be best for discussions and book clubs because there's a lot to ponder over. 
+_The Unexpected Pilgrimage of Harold Fry_ is an introspective story and deals with a lot of issues quietly. Rachel Joyce expresses the most complex life lessons in subtle ways. . It will strike a chord with lots of people. This is the kind of book that would be best for discussions and book clubs because there's a lot to ponder over. 
+
+At times, it felt like I was reading a non-fiction book with lots of wisdom. It's one of the few books that I felt has a great touch with reality and the bitter-sweet nature of life in general. 
 
 ![](/uploads/the-unlikely-pilgrimage.jpg)
 
-I do not know how to express the valuable thoughts that this book gifted me. Anyways, Rachel Joyce is indeed a talented writer, one who writes from the heart. Here are some beautiful thoughts in her own words:
+I do not know how to express the valuable thoughts that this book gifted me. Anyways, this piece of writing is one from the heart and. Here are some beautiful thoughts in her own words:
 
 _“If we don't go mad once in a while, there's no hope.”_
 
