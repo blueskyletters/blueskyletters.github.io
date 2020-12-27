@@ -32,8 +32,6 @@ _The Unexpected Pilgrimage of Harold Fry_ is an introspective story and deals wi
 
 ![](/uploads/the-unlikely-pilgrimage.jpg)
 
-People often embark on spiritual journeys 
-
 At times, it felt like I was reading a non-fiction book with lots of valuable insights. This is one of the few books that I felt has a great touch with reality and the bitter-sweet nature of life in general. For some readers, however, this might serve as a major turn-off.
 
 Harold's journey is both physical and metaphorical. Here are some beautiful, untinted quotes on journeys, hope, faith and life.
