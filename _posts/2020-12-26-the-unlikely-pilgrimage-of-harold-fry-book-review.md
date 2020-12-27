@@ -32,7 +32,7 @@ At times, it felt like I was reading a non-fiction book with lots of wisdom. It'
 
 ![](/uploads/the-unlikely-pilgrimage.jpg)
 
-I do not know how to express the valuable thoughts that this book gifted me. Anyways, this piece of writing is one from the heart and. Here are some beautiful thoughts in her own words:
+I do not know how to express the valuable thoughts that this book gifted me. Anyways, this piece of writing is one from the heart. Here are some beautiful thoughts in her own words:
 
 _“If we don't go mad once in a while, there's no hope.”_
 
