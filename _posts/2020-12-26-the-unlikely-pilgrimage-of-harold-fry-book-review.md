@@ -28,11 +28,11 @@ What I loved the most about this book is its simplicity; the hero is not a rich 
 
 _The Unexpected Pilgrimage of Harold Fry_ is an introspective story and deals with a lot of issues quietly. Rachel Joyce expresses the most complex life lessons in subtle ways. . It will strike a chord with lots of people. This is the kind of book that would be best for discussions and book clubs because there's a lot to ponder over. 
 
-At times, it felt like I was reading a non-fiction book with lots of wisdom. It's one of the few books that I felt has a great touch with reality and the bitter-sweet nature of life in general. 
+At times, it felt like I was reading a non-fiction book with lots of wisdom. This is one of the few books that I felt has a great touch with reality and the bitter-sweet nature of life in general. For some readers, this might serve as a major turn-off. But it really did work for me.
 
 ![](/uploads/the-unlikely-pilgrimage.jpg)
 
-Harold's journey is both physical and metaphorical. Here are some beautiful quotes on journeys, hope, 
+Harold's journey is both physical and metaphorical. Here are some beautiful, untinted quotes on journeys, hope, 
 
 _“If we don't go mad once in a while, there's no hope.”_
 
