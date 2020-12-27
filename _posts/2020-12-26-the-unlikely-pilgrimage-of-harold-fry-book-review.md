@@ -32,13 +32,15 @@ At times, it felt like I was reading a non-fiction book with lots of wisdom. It'
 
 ![](/uploads/the-unlikely-pilgrimage.jpg)
 
-I do not know how to express the valuable thoughts that this book gifted me. Anyways, this piece of writing is one from the heart. Here are some beautiful thoughts in her own words:
+Harold's journey is both physical and metaphorical. Here are some beautiful quotes on journeys, hope, 
 
 _“If we don't go mad once in a while, there's no hope.”_
 
 _“You got up, and you did something. And if trying to find a way when you don't even know you can get there isn't a small miracle; then I don't know what is.”_
 
 _“If we can't accept what we don't know, there really is no hope.”_
+
+_“But maybe it's what the world needs. A little less sense, and a little more faith.”_
 
 _“You could be ordinary and attempt something extraordinary, without being able to explain it in a logical way.”_
 
